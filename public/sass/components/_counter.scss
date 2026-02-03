@@ -1,0 +1,146 @@
+/*=============================
+	09. Counter CSS Start
+===============================*/
+// Counter section one
+.ep-counter-section {
+  .counter-text {
+    p {
+      // margin-bottom: 68px;
+      margin-bottom: 28px;
+
+    }
+
+    .counter-wrapper {
+      .counter-item {
+        background-color: var(--bs-white-color);
+        box-shadow: 0 10px 20px rgba(173,216,230,.5),0 6px 6px rgba(173,216,230,.7);
+        // padding: 38px 20px;
+        padding: 16px 18px;
+        transition: var(--bs-transition);
+        border: 1px solid transparent;
+
+        .number {
+          color: var( --Dark-Color);
+          font-size: 50px;
+          font-weight: 700;
+          line-height: 68px;
+          letter-spacing: -1.48px;
+        }
+
+        .short-info {
+          color: var(--bs-paragraph-color);
+        }
+
+        // &:hover {
+        //   border-color: var(--bs-primary-color);
+        // }
+      }
+    }
+  }
+
+  .counter-image {
+    max-width: 580px;
+  }
+}
+
+// Counter section two
+.ep-counter-section-two {
+  padding: 120px 80px 0;
+
+  .counter-main {
+    background-color: var(--bs-tertiary-color);
+    padding: 120px 0 424px 0;
+
+    .bg-img {
+      opacity: 0.1;
+    }
+
+    .counter-item-two {
+      .number {
+        font-family: var(--bs-font-secondary);
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 68px;
+        letter-spacing: -1.48px;
+      }
+
+      .short-info {
+        color: var(--bs-paragraph-color);
+      }
+    }
+  }
+}
+
+@media (max-width: 1399.98px) {
+  .ep-counter-section .counter-text .counter-wrapper .counter-item {
+    // padding: 32px 20px;
+    padding: 22px 20px;
+  }
+
+  .ep-counter-section .counter-text .counter-wrapper .counter-item .number {
+    font-size: 52px;
+  }
+
+  .ep-counter-section-two {
+    padding: 120px 20px 0;
+  }
+
+}
+
+@media (max-width: 1199.98px) {
+  .ep-counter-section .counter-text p {
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 991.98px) {
+
+  .ep-counter-section .counter-image {
+    max-width: 100%;
+  }
+  .ep-counter-section .counter-text .counter-wrapper .counter-item .number {
+    font-size: 28px;
+    line-height: 30px;
+  }
+
+}
+
+@media (max-width: 767.98px) {
+  .ep-counter-section-two .counter-main {
+		padding: 100px 0 390px 0;
+	}
+}
+
+@media (max-width: 575.98px) {
+  .ep-counter-section .heading-style1 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .ep-counter-section .section-title-block {
+    text-align: center;
+  }
+
+  .ep-counter-section .counter-text {
+    text-align: center;
+  }
+
+  .ep-counter-section-two {
+    padding: 100px 12px 0;
+  }
+
+  .ep-counter-section-two .counter-main {
+    padding: 60px 0 360px 0 !important;
+  }
+
+  .ep-counter-section-two .counter-main .counter-item-two .number {
+    font-size: 45px;
+    line-height: 68px;
+  }
+
+  .ep-counter-section-two .counter-main .counter-item-two .short-info {
+    color: var(--bs-paragraph-color);
+    font-size: 16px;
+  }
+}

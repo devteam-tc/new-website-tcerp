@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/microfinance_banner_img.webp",
+  "altimg":"Microfinance ERP digital loan system",
+  "heading" :"Micro Finance Industry",
+  "title": "Best Microfinance ERP Software for Financial Institutions",
+  "description": "Efficient management is critical in the microfinance sector. Our ERP system helps out a lot by making daily tasks simpler, from processing loans to keeping track of clients. This means your work gets done better and you stay on top of all the rules. Getting real-time info helps you make smarter choices, which pushes your business forward and builds better connections with your clients.",
+  "keyPoints": [
+    "Loan Portfolio Management",
+    "Client Onboarding & KYC Compliance",
+    "Collection & Recovery",
+    " Financial Reporting & Audit Trails",
+    "Risk Assessment & Credit Scoring"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/microfinance-operations.png",
+      "title": "Loan & Client Management",
+      "description": "Manage borrower data, loan applications, repayment schedules and collections through a centralized system.",
+      "list": [
+        "Easy Client Onboarding",
+        "Loan Processing & Approval",
+        "EMI Scheduling & Alerts"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/microfinance-client.png",
+      "title": "Compliance & Finance",
+      "description": "Ensure regulatory compliance with built-in audit trails and reporting mechanisms tailored for microfinance operations.",
+      "list": [
+        "Audit-Ready Financial Records",
+        "Policy-Driven Workflow Automation",
+        "Multi-Branch Monitoring"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What are the primary functions of ERP systems in microfinance?",
+      "answer": "ERP systems manage loan portfolios, facilitate client interactions and ensure regulatory compliance, improving financial reporting and risk management."
+    },
+    {
+      "id": 2,
+      "question": "How does an ERP solution benefit client interactions in microfinance?",
+      "answer": "ERP solutions provide quick access to client information, allowing staff to respond promptly and personalize interactions, enhancing the overall client experience."
+    },
+    {
+      "id": 3,
+      "question": "Why is real-time data crucial for microfinance institutions? ",
+      "answer": "Real-time data enables organizations to monitor performance and client behaviors, aiding in risk assessment and facilitating quick strategic adjustments for better decision-making."
+    }
+  ],
+  "industry": "Micro Finance",
+  "solution": "Integrated Microfinance Management System",
+  "modules": [
+    "Loan Management",
+    "Client Management",
+    "Collection Control",
+    "Risk Management",
+    "Impact Assessment"
+  ],
+  "result": [
+    "45% faster loan processing",
+    "40% improvement in collection efficiency",
+    "35% reduction in operational costs"
+  ],
+  "customers": "250+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Microfinance Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

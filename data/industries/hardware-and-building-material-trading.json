@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/hardwareandbuilding_banner_img.webp",
+  "altimg":"Construction site with building materials",
+  "heading" :"Hardware & Building Material Trading",
+  "title": "Optimize Your Building Materials Business with Tailored ERP Solutions",
+  "description": "The hardware and building material trading sector demands efficient inventory management, supplier coordination, and project-based tracking. Our ERP solution is designed to streamline operations, manage complex supply chains, and provide real-time insights for better decision-making in your building materials business.",
+  "keyPoints": [
+    "Inventory & Warehouse Management",
+    "Supplier & Purchase Order Tracking",
+    "Project-based Material Management",
+    "Pricing & Quotation Tools",
+    "Supply Chain Optimization"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/comprehensive-material-management.png",
+      "title": "Comprehensive Material Management",
+      "description": "Efficiently track and manage diverse building materials with specialized categorization and real-time inventory visibility.",
+      "list": [
+        "Multi-location inventory tracking with bin management",
+        "Automated stock alerts for critical construction materials",
+        "Bulk material handling and batch tracking"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/supplier-and-procurement-control.png",
+      "title": "Supplier & Procurement Control",
+      "description": "Optimize your supply chain with intelligent procurement tools and vendor management for construction materials.",
+      "list": [
+        "Vendor performance & lead time analysis",
+        "Automated Purchase Orders",
+        "Lead Time & Delivery Scheduling"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does ERP help with managing building material inventory?",
+      "answer": "Our ERP provides real-time inventory tracking across multiple locations, automated reorder points, and barcode scanning to ensure you always have the right materials in stock when needed, reducing stockouts and overstocking."
+    },
+    {
+      "id": 2,
+      "question": "Can the system handle project-based material management?",
+      "answer": "Yes, our ERP allows you to allocate inventory to specific projects, track material usage by project, and generate detailed project cost reports, helping you manage multiple construction or renovation projects efficiently."
+    },
+    {
+      "id": 3,
+      "question": "Does the system support multiple pricing structures?",
+      "answer": "Absolutely. The system supports various pricing models including customer-specific pricing, volume discounts, and seasonal pricing, allowing you to remain competitive in the building materials market."
+    }
+  ],
+  "industry": "Hardware & Building Materials",
+  "solution": "Comprehensive Building Materials Management System",
+  "modules": [
+    "Inventory Management",
+    "Purchase & Supplier Management",
+    "Sales & Customer Management",
+    "Project-based Tracking",
+    "Financial Management"
+  ],
+  "result": [
+    "45% improvement in inventory accuracy",
+    "30% reduction in procurement costs",
+    "50% faster order processing"
+  ],
+  "customers": "300+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": "",
+    "spanTitle": "Building Materials ERP Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

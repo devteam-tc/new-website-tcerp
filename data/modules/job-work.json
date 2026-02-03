@@ -1,0 +1,80 @@
+{
+  "mainHeaderSection": {
+    "heading": "Job Work Management",
+    "maintitle": "Job Work Management Built for Manufacturing Needs",
+    "description": "Tech Cloud ERP’s Job Work Management module streamlines subcontracting operations by providing complete control over material movement, job tracking and vendor coordination. It helps businesses efficiently manage the entire job work process from PO creation to payment. The system ensures real-time inventory updates, accurate records and faster vendor settlements."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "JBW Orders Entry ",
+      "featuredesc": "Begin your job work cycle by entering job work orders. This captures key details like items to be processed, job type, vendor details, and expected return dates laying the groundwork for tracking and execution.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/jobwork/module-1.webp",
+      "imageAlt": "Job work management JBW entry"
+    },
+    {
+      "featuretitle": "JBW Outstanding GRN",
+      "featuredesc": "Keep track of materials sent to subcontractors but not yet returned. This helps monitor pending GRNs (Goods Receipt Notes), ensuring accurate material tracking and timely follow-up with vendors.",
+     "featurelink": "Explore More",  
+         "dashboardImage": "/images/modules/jobwork/module-2.webp",
+      "imageAlt": "Job work dashboard GRN status"
+    }
+  ],
+    "videosection": {
+      "title": "Track Every Job Order with Confidence",
+      "description": "Handle outsourced processes like a pro. This module helps you monitor job work orders, raw material movement and contractor performance. Ensure accountability at every stage and get clear records of costs and timelines.",
+      "thumbnail": "/images/modules/video-thumbnail.png",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "What is the Job Work module in ERP?",
+        "answer": "The Job Work module manages outsourced processing activities, tracking raw material sent, finished goods received and vendor charges."
+      },
+      {
+        "question": "Can I track materials sent to vendors?",
+        "answer": " Yes. The system logs all issued materials as vendor-held stock, ensuring full traceability until they’re returned."
+      },
+      {
+        "question": " How are payments to job workers managed in the system?",
+        "answer": "  The system helps in managing job worker billing, tracks service charges based on tasks done and links it with approvals and payment schedules to ensure timely and accurate payouts."
+      },
+      {
+        "question": " Is the job work module adaptable to different industries?",
+        "answer": " Absolutely. It supports industry-specific workflows across sectors like manufacturing, textiles, engineering and more—making it a flexible solution for varied operational needs."
+      }
+    
+    ]
+  }
+  }
+  

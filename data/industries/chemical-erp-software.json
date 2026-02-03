@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/chemical_banner_img.webp",
+  "altimg":"Chemical laboratory with liquids",
+  "heading" :"Chemical Industry",
+  "title": "Streamline Chemical ERP with Smart ERP Software",
+  "description": "The chemical industry operates in a highly regulated, quality-sensitive and safety-critical environment. An ERP for chemical manufacturing simplifies production, ensures regulatory compliance, manages hazardous chemicals and maintains quality standards, all while increasing operational efficiency and profitability.",
+  "keyPoints": [
+    "Formula & Batch Management",
+    "Chemical Inventory Tracking & Replenishment",
+    "Quality Assurance & Regulatory Compliance",
+    "Hazardous Material Safety Controls",
+    "Costing & Yield Analysis"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/chemical-process.png",
+      "title": "Formula & Batch Management",
+      "description": "Control chemical formulations and batch operations with accuracy to meet quality and safety benchmarks.",
+      "list": [
+        "Formula-Based BOMs & Versioning",
+        "Batch Traceability & Audit Logs",
+        " Custom Batch Size Calculations"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/chemical-safety.png",
+      "title": "Compliance & Safety Control",
+      "description": "Meet strict industry regulations while safely managing hazardous materials and real-time inventory flow.",
+      "list": [
+        "Integrated MSDS, REACH, GHS Compliance",
+        "Real-Time Hazard Alerts",
+        "Chemical Storage & Handling Monitoring"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does ERP help with chemical compliance?",
+      "answer": "An ERP for chemical industry includes modules for managing Safety Data Sheets (SDS), GHS labeling, regulatory audits and documentation, making compliance with standards like REACH and OSHA seamless."
+    },
+    {
+      "id": 2,
+      "question": "Is ERP scalable for growing chemical businesses?",
+      "answer": "Absolutely. A modern ERP for chemical industry is scalable and customizable, allowing businesses to adapt as they grow and expand into new markets or product lines."
+    },
+    {
+      "id": 3,
+      "question": "Can an ERP handle batch traceability in chemical manufacturing?",
+      "answer": "Yes, batch traceability is a core feature of any reliable ERP for chemical industry. It helps track every batch from raw material to the finished product, ensuring transparency and recall management."
+    }
+  ],
+  "industry": "Chemical",
+  "solution": "Integrated Chemical Manufacturing System",
+  "modules": [
+    "Process Control",
+    "Safety Management",
+    "Quality Assurance",
+    "Laboratory Management",
+    "Compliance Tracking"
+  ],
+  "result": [
+    "50% improvement in compliance efficiency",
+    "40% reduction in safety incidents",
+    "35% increase in batch consistency"
+  ],
+  "customers": "250+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": "",
+    "spanTitle": "Chemical Industry Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

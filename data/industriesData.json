@@ -1,0 +1,260 @@
+{
+  "categories": {
+    "manufacturing": {
+      "header": "Manufacturing Industries",
+      "industries": [
+        {
+          "id": 1,
+          "title": "Automotive Industry",
+          "description": "Managing interlinked processes simultaneously is a crucial skill for every automotive industry leader and manager.",
+          "icon": "/images/img/automation.webp",
+          "linkText": "Explore",
+          "link": "/industries/automotive-erp-software"
+        },
+        {
+          "id": 2,
+          "title": "Casting Industry",
+          "description": "Modern ERP systems for casting industry optimize foundry operations, quality control, and supply chain management.",
+          "icon": "/images/img/casting_industry.png",
+          "linkText": "Explore",
+          "link": "/industries/foundry-erp-solution"
+        },
+        {
+          "id": 3,
+          "title": "Chemical Industry",
+          "description": "The chemical industry is vital to global economies, contributing significantly to GDP and supporting multiple sectors.",
+          "icon": "/images/img/chemical.webp",
+          "linkText": "Explore",
+          "link": "/industries/chemical-erp-software"
+        },
+        {
+          "id": 4,
+          "title": "Construction Industry",
+          "description": "Construction ERP software helps manage sites, control costs, and run projects smoothly, enabling faster decision-making.",
+          "icon": "/images/img/construction.webp",
+          "linkText": "Explore",
+          "link": "/industries/construction-erp-software"
+        },
+        {
+          "id": 5,
+          "title": "Electrical Solar Industry",
+          "description": "The electrical industry includes manufacturers of generation, transmission and related equipment.",
+          "icon": "/images/img/electric.webp",
+          "linkText": "Explore",
+          "link": "/industries/solar-erp-software"
+        },
+        {
+          "id": 6,
+          "title": "Electronics Industry",
+          "description": "Flexibility is key for success in electronics manufacturing, including semiconductors, capacitors and chips.",
+          "icon": "/images/img/electronics.webp",
+          "linkText": "Explore",
+          "link": "/industries/electronics-manufacturing-erp"
+        },
+        {
+          "id": 8,
+          "title": "Furniture Industry",
+          "description": "Furniture manufacturers combine design with function, creating beautiful and practical furniture and fixtures.",
+          "icon": "/images/img/furniture.webp",
+          "linkText": "Explore",
+          "link": "/industries/furniture-manufacturing-erp"
+        },
+        {
+          "id": 9,
+          "title": "Hydraulic Cylinders Industry",
+          "description": "Advanced ERP analytics help hydraulic cylinder industries optimize workflows and make data-driven decisions.",
+          "icon": "/images/img/hydraulic.webp",
+          "linkText": "Explore",
+          "link": "/industries/hydraulic-erp-software"
+        },
+        {
+          "id": 10,
+          "title": "Leather Industry",
+          "description": "Leather is a perishable product, making it crucial to source the right quantity at the right time.",
+          "icon": "/images/img/leather.webp",
+          "linkText": "Explore",
+          "link": "/industries/leather-erp-software"
+        },
+        {
+          "id": 11,
+          "title": "Metal Fabrication Industry",
+          "description": "Metal fabrication involves diverse processes. Many industries lack automated systems for business management.",
+          "icon": "/images/img/fabrication.webp",
+          "linkText": "Explore",
+          "link": "/industries/metal-fabrication-erp"
+        },
+        {
+          "id": 12,
+          "title": "Packaging Industry",
+          "description": "Packaging must ensure security, protection and marketing, from bottles to pharmaceuticals, across industries.",
+          "icon": "/images/img/packaging.webp",
+          "linkText": "Explore",
+          "link": "/industries/packaging-management-software"
+        },
+        {
+          "id": 13,
+          "title": "Paper Industry",
+          "description": "Paper manufacturing industries are increasingly implementing ERP software systems to enhance their processes.",
+          "icon": "/images/img/paper.webp",
+          "linkText": "Explore",
+          "link": "/industries/paper-industry"
+        },
+        {
+          "id": 14,
+          "title": "Plastic Industry",
+          "description": "ERP systems help manage production, waste and operations, streamlining all departments in one system.",
+          "icon": "/images/img/plastic.webp",
+          "linkText": "Explore",
+          "link": "/industries/plastic-erp-software"
+        },
+        {
+          "id": 15,
+          "title": "Pre Engineering Industry",
+          "description": "ERP modules are tailored to meet the specific needs of the pre-engineering industry for effective project management.",
+          "icon": "/images/img/engineer.webp",
+          "linkText": "Explore",
+          "link": "/industries/pre-engineering-industry"
+        },
+        {
+          "id": 16,
+          "title": "Rubber Industry",
+          "description": "India is a major producer of rubber products, supplying both domestic and international markets.",
+          "icon": "/images/img/rubber.webp",
+          "linkText": "Explore",
+          "link": "/industries/rubber-manufacturing-erp"
+        },
+        {
+          "id": 17,
+          "title": "Steel Industry",
+          "description": "ERP is essential for managing operations in steel manufacturing, from raw materials to finished goods.",
+          "icon": "/images/img/steel.webp",
+          "linkText": "Explore",
+          "link": "/industries/steel-manufacturing-erp"
+        },
+         {
+          "id": 19,
+          "title": "FMCG Industry",
+          "description": "In FMCG, timely delivery, accurate stock info and personalized experiences drive loyalty and growth.",
+          "icon": "/images/img/fmcg.webp",
+          "linkText": "Explore",
+          "link": "/industries/fmcg-erp-software"
+        },
+        {
+          "id": 20,
+          "title": "Garment Industry",
+          "description": "ERP for garment manufacturers standardizes processes, reduces costs and improves operational efficiency.",
+          "icon": "/images/img/garment.webp",
+          "linkText": "Explore",
+          "link": "/industries/garment-erp-software"
+        }
+      ]
+    },
+    "retail": {
+      "header": "Retail & Service Industries",
+      "industries": [
+        {
+          "id": 1,
+          "title": "Apparel Industry",
+          "description": "An apparel ERP system aids in analyzing customer preferences, managing inventory and achieving client goals.",
+          "icon": "/images/img/apparel.webp",
+          "linkText": "Explore",
+          "link": "/industries/apparel-erp-software"
+        }, 
+        {
+          "id": 2,
+          "title": "Jewellery Industry",
+          "description": "Tech Cloud ERP Software Solutions are the rich experienced software development company for the Jewellery Industry.",
+          "icon": "/images/img/jewellery.webp",
+          "linkText": "Explore",
+          "link": "/industries/jewellery-erp-software"
+        },
+        {
+          "id": 3,
+          "title": "Grocery Industry",
+          "description": "ERP software for grocery businesses helps run daily operations smoothly, track inventory and expiry dates, and manage the supply chain better.",
+          "icon": "/images/img/restaurant.webp",
+          "linkText": "Explore",
+          "link": "/industries/grocery-erp-software"
+        }, 
+       {
+          "id": 4,
+          "title": "Educational Institutes",
+          "description": "As education evolves, there's growing interest in the potential of Enterprise Resource Planning (ERP systems.",
+          "icon": "/images/img/educational.webp",
+          "linkText": "Explore",
+          "link": "/industries/school-management-system"
+        },
+          {
+          "id": 5,
+          "title": "Logistics Industry",
+          "description": "Logistics ERP software streamlines road, air, and sea shipments with real-time visibility, route optimization, and shipment tracking.",
+          "icon": "/images/img/logistics.webp",
+          "linkText": "Explore",
+          "link": "/industries/logistics-erp-software"
+        } ,
+        {
+          "id": 6,
+          "title": "Micro Finance Industry",
+          "description": "Microfinance bridges the gap between formal financial institutions and rural populations, automating operations.",
+          "icon": "/images/img/micro-learning.webp",
+          "linkText": "Explore",
+          "link": "/industries/microfinance-software"
+        },
+         {
+          "id": 7,
+          "title": "Restaurant Industry",
+          "description": "Restaurant Industry - An industry with many demands for its service and it is a start point for many business enthusiasts.",
+          "icon": "/images/img/restaurant.webp",
+          "linkText": "Explore",
+          "link": "/industries/restaurant-industry"
+        }
+      ]
+    },
+    "trading": {
+      "header": "Trading Industries",
+      "industries": [
+        {
+          "id": 1,
+          "title": "General Trading",
+          "description": "General Trading ERP software simplifies buying and selling by managing products, purchases, sales, inventory, and finances for accurate records.",
+          "icon": "/images/img/general_trading.webp",
+          "linkText": "Explore",
+          "link": "/industries/general-trading"
+        },
+       
+        {
+          "id": 2,
+          "title": "Imports & Exports",
+          "description": "Imports & Exports ERP software tracks global or International shipments, documentation, and records across sea and air trade.",
+          "icon": "/images/img/imports_exports.webp",
+          "linkText": "Explore",
+          "link": "/industries/imports-and-exports"
+        },
+        {
+          "id": 3,
+          "title": "Electrical & Electronics Trading",
+          "description": "Our ERP software enhances the efficiency of electrical and electronic trading through real-time monitoring and automated purchasing. Use data analytics to enhance efficiency and guarantee timely delivery.",
+          "icon": "/images/img/electrical_electronics_trading.webp",
+          "linkText": "Explore",
+          "link": "/industries/electrical-and-electronics-trading"
+        } ,
+       {
+          "id": 4,
+          "title": "Hardware & Building Material Trading",
+          "description": "Real-time inventory management, project monitoring, and support for improved margins and streamlined deliveries through hardware and building material trading ERP software.",
+          "icon": "/images/img/hardware_building_material_trading.webp",
+          "linkText": "Explore",
+          "link": "/industries/hardware-and-building-material-trading"
+        } ,
+       {
+          "id": 5,
+          "title": "Wholesalers Industry",
+          "description": "Global distributors need new ways to collaborate and streamline operations within networked departments.",
+          "icon": "/images/img/wholesaler.webp",
+          "linkText": "Explore",
+          "link": "/industries/wholesale-distribution-software"
+        }
+      ]
+    }
+  }
+} 

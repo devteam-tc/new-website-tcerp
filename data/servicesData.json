@@ -1,0 +1,30 @@
+{
+    "web-development": {
+      "id": 1,
+      "icon": "/images/services/ser-icon.png",
+      "title": "Web Development",
+      "description": "Success profesions development our solutions sapien maximu creative services.",
+      "thumb": "/images/services/ser-thumb.webp"
+    },
+    "digital-marketing": {
+      "id": 2,
+      "icon": "/images/services/ser-icon2.png",
+      "title": "Digital Marketing",
+      "description": "Success profesions development our solutions sapien maximu creative services.",
+      "thumb": "/images/services/ser-thumb2.png"
+    },
+    "app-development": {
+      "id": 3,
+      "icon": "/images/services/ser-icon3.png",
+      "title": "App Development",
+      "description": "Success profesions development our solutions sapien maximu creative services.",
+      "thumb": "/images/services/ser-thumb3.png"
+    },
+    "e-commerce-development": {
+      "id": 4,
+      "icon": "/images/services/ser-icon4.png",
+      "title": "E-Commerce Development",
+      "description": "Success profesions development our solutions sapien maximu creative services.",
+      "thumb": "/images/services/ser-thumb4.png"
+    }
+  } 

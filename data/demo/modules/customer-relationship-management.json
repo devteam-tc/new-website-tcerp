@@ -1,0 +1,42 @@
+{
+  "title": "Customer Relationship Management (CRM)",
+  "description": "Our comprehensive CRM module helps you build and maintain strong relationships with your customers. Track interactions, manage leads, and provide exceptional customer service with our powerful CRM solution.",
+  "features": [
+    {
+      "title": "Lead Management",
+      "description": "Capture, track, and manage leads throughout the sales pipeline. Automate lead scoring and follow-ups to convert prospects into customers."
+    },
+    {
+      "title": "Contact Management",
+      "description": "Maintain detailed customer profiles with contact information, interaction history, and preferences. Access customer data instantly for personalized service."
+    },
+    {
+      "title": "Sales Pipeline",
+      "description": "Visualize and manage your sales process with a customizable pipeline. Track deals, set milestones, and forecast revenue accurately."
+    },
+    {
+      "title": "Customer Support",
+      "description": "Handle customer inquiries and issues efficiently with ticket management, knowledge base, and automated response systems."
+    },
+    {
+      "title": "Email Integration",
+      "description": "Seamlessly integrate with email platforms to track communications and maintain conversation history within the CRM."
+    },
+    {
+      "title": "Analytics & Reporting",
+      "description": "Gain insights into customer behavior, sales performance, and team productivity with comprehensive analytics and customizable reports."
+    },
+    {
+      "title": "Mobile Access",
+      "description": "Access your CRM on the go with our mobile-friendly interface. Stay connected with customers and manage relationships from anywhere."
+    },
+    {
+      "title": "Task Management",
+      "description": "Create and assign tasks, set reminders, and track follow-ups to ensure no customer interaction is missed."
+    },
+    {
+      "title": "Integration Capabilities",
+      "description": "Connect with other business tools and systems for a unified view of customer interactions across your organization."
+    }
+  ]
+}

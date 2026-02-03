@@ -1,0 +1,84 @@
+{
+    "mainHeaderSection": {
+      "heading": "Service Management",
+      "maintitle": "Efficient Service Management for Seamless Operations",
+      "description": "Streamline service delivery, manage contracts and coordinate field teams within your ERP. Improve efficiency and elevate customer satisfaction effortlessly."
+    },
+    "featureSections": [
+      {
+        "featuretitle": "Service Request Management",
+        "featuredesc": "Tech Cloud ERP helps you manage the complete service lifecycle with ease. From logging service requests to assigning technicians, every step is streamlined for efficiency. Track progress in real time, ensure timely task completion and simplify payment processing. With an organized flow, you can deliver faster resolutions, maintain transparency and boost customer satisfaction.",
+        "featurelink": "Explore More",
+        "dashboardImage": "/images/modules/service/Services-1.webp",
+        "imageAlt": "Service request management dashboard"
+      },
+      {
+        "featuretitle": "Service Management Reports & Tracking",
+        "featuredesc": "Tech Cloud ERP empowers businesses with powerful service management insights. Track customer service requests in real time and monitor technician work progress with ease. From inquiry to resolution, every stage is documented, ensuring transparency, accountability and faster turnaround times. This streamlined reporting system helps improve customer satisfaction, optimize technician performance and enhance overall service efficiency.",
+        "featurelink": "Explore More",   
+        "dashboardImage": "/images/modules/service/Services-2.webp",
+        "imageAlt": "Preventive maintenance scheduling"
+      },
+      {
+        "featuretitle": "Service setup and maintenance",
+        "featuredesc": "Tech Cloud ERP simplifies service maintenance by organizing all essential details in one place. Manage service categories, define offerings, record technician expertise and track AMC agreements with ease. By maintaining accurate technician information and service data, businesses can allocate resources efficiently, ensure timely service delivery and strengthen customer relationships through well-structured maintenance workflows.",
+        "featurelink": "Explore More",    
+        "dashboardImage": "/images/modules/service/Services-3.webp",
+        "imageAlt": "Field service management system"
+      }
+    ],
+    "videosection": {
+      "title": "End-to-End Service Management",
+      "description": "Transform your service operations with our comprehensive service management solution. From initial customer contact to final resolution, our platform provides complete visibility and control over your service delivery process.",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "service-management"
+    },
+    "cards": {
+      "headline": "Key Features of Our Service Management",
+      "buttonText": "Explore Features",
+      "cards": [
+        {
+          "icon": "Headset",
+          "title": "Customer Portal",
+          "description": "Provide customers with self-service options to submit and track service requests, view service history, and access knowledge base articles."
+        },
+        {
+          "icon": "Tool",
+          "title": "Asset Management",
+          "description": "Maintain a complete record of all serviceable assets, including warranty information, service history, and maintenance schedules."
+        },
+        {
+          "icon": "Clock",
+          "title": "SLA Management",
+          "description": "Define and monitor service level agreements to ensure timely resolution of service requests and maintain high customer satisfaction."
+        },
+        {
+          "icon": "BarChart",
+          "title": "Service Analytics",
+          "description": "Gain valuable insights into service performance, technician productivity, and customer satisfaction through comprehensive reporting and analytics."
+        }
+      ]
+    },
+    "faqs": {
+      "subTitle": "Frequently Asked Questions",
+      "title": "Everything You Need to Know About Our Service Management",
+      "items": [
+        {
+          "question": "How can service management software improve our operations?",
+          "answer": "Our service management solution streamlines your service operations by automating workflows, improving response times, and providing complete visibility into service delivery. This leads to increased efficiency, reduced costs, and higher customer satisfaction."
+        },
+        {
+          "question": "Can we track service history for our equipment?",
+          "answer": "Yes, our system maintains a comprehensive service history for all your equipment, including past service requests, maintenance activities, parts replaced, and associated costs. This helps in predictive maintenance and extends equipment lifespan."
+        },
+        {
+          "question": "How does the mobile app support field service operations?",
+          "answer": "Our mobile app enables field technicians to access work orders, update job status, capture customer signatures, and submit service reports in real-time, even when offline. This improves first-time fix rates and reduces paperwork."
+        },
+        {
+          "question": "Can we integrate with existing business systems?",
+          "answer": "Yes, our service management module offers seamless integration with CRM, inventory, and accounting systems, ensuring data consistency across your organization and eliminating duplicate data entry."
+        }
+      ]
+    }
+}

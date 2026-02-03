@@ -1,0 +1,101 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Based & Cloud Computing",
+      "alt": "Cloud computing backup access",
+      "image": "/images/services/WebBased.webp", 
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "No IT infrastructure needed. Securely access your cloud-based ERP anytime, anywhere with centralized data."
+    
+    },
+    {
+      "id": 2,
+      "title": "Dynamic Dashboards",
+      "alt": "Interactive data visualization dashboard",
+      "image": "/images/services/DynamicDashboards.webp",
+      "className": "icon-box-secondary icon-box-text-white",
+      "description": "Get real-time business insights through interactive dashboards tailored for owners and teams, enabling faster, data-driven decisions."
+    },
+    {
+      "id": 3,
+      "title": "Email & WhatsApp Integration",
+      "alt": "Seamless Integration across platforms",
+      "image": "/images/services/Email&Whatsapp.webp",
+      "className": "icon-box-tertiary",
+      "description": "Send purchase orders, invoices, approvals, and notifications instantly via Email and WhatsApp, reducing manual follow-ups."
+    },
+    {
+      "id": 4,
+      "title": "Mobile & Tab Compatibility",
+      "alt": "Mobile and tablet compatibility support",
+      "image": "/images/services/Mobile&Tab.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "Access the ERP seamlessly on desktop, mobile, or tablet without installation, ensuring flexibility and uninterrupted operations."
+    },
+    {
+      "id": 5,
+      "title": "Data Auto Backup",
+      "alt": "Cloud data backup automation",
+      "image": "/images/services/databackup.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "Automatic cloud backups ensure data security, reliability, and quick recovery without manual intervention."
+    },
+    {
+      "id": 6,
+      "title": "Customizable Software",
+      "alt": "Customizable software development",
+      "image": "/images/services/CustomizableSoftware.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "ERP is 90–95% industry-ready and easily customizable to match your specific business workflows and processes."
+    },
+    {
+      "id": 7,
+      "title": "Pay As You Go",
+      "alt": "Smartphone contactless payment method",
+      "image": "/images/services/PayAsYouGo.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "Flexible pricing model where you pay only for what you use, making it cost-effective and scalable as your business grows."
+    },
+    {
+      "id": 8,
+      "title": "Chat Between Users",
+      "alt": "User engaging in chat",
+      "image": "/images/services/ChatBetweenUsers.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "Built-in internal chat enables real-time communication between users, improving collaboration and task coordination."
+    },
+    {
+      "id": 9,
+      "title": "Unlimited Users",
+      "alt": "Laptop with unlimited user icons",
+      "image": "/images/services/UnlimitedUsers.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "No per-user licensing cost. Add unlimited users with role-based access control for secure system usage."
+    },
+    {
+      "id": 10,
+      "title": "Audit Trail",
+      "alt": "Laptop with unlimited user icons",
+      "image": "/images/services/AuditTrail.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "Every transaction and activity is logged for accountability, transparency, and compliance, preventing unauthorized changes."
+    },
+    {
+      "id": 11,
+      "title": "Multiple Inventory Location",
+      "alt": "Laptop with unlimited user icons",
+      "image": "/images/services/MultipleInventory.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "Track stock movement across multiple warehouses, godowns, or sites with accurate availability and control."
+    },
+    {
+      "id": 12,
+      "title": "GST E-Invoice & E-Way Bill",
+      "alt": "Laptop with unlimited user icons",
+      "image": "/images/services/gst&invoice.webp",
+      "className": "icon-box-primary icon-box-text-white",
+      "description": "Generate GST-compliant e-invoices and e-way bills directly from ERP with seamless third party/government portal integration."
+    }
+  ]
+}

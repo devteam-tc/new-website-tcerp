@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/leather_banner_img.webp",
+  "altimg":"Leather crafting tools and materials",
+  "heading" :"Leather Industry",
+  "title": "Leather ERP Software for Production and Inventory Control",
+  "description": "Running a leather business comes with challenges like managing raw hides, tracking production stages, and meeting custom order requirements. An ERP for the leather industry helps organize these operations by connecting inventory, manufacturing, sales and quality control in one system. With better visibility and automation, it supports quicker decisions, reduces waste and improves overall business performance.",
+  "keyPoints": [
+    "Raw Material Traceability & Batch Control",
+    "Tannery Production & Chemical Process Management",
+    "Real-Time Inventory & Warehouse Control",
+    "Quality, Rework & Rejection Tracking",
+    "Environmental Compliance & Costing Reports"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/leather-production.png",
+      "title": "Leather Manufacturing Software",
+      "description": "Gain complete visibility into every step of the leather-making process with our specialized Leather Manufacturing Software.",
+      "list": [
+        "Chemical & Material Consumption Monitoring",
+        "Batch Processing & Quality Checks",
+        "Production Scheduling & Shop Floor Management"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/leather-quality.png",
+      "title": "Inventory & Compliance Excellence",
+      "description": "Maintain optimal inventory levels and stay compliant with local and international environmental standards using our Leather ERP Software.",
+      "list": [
+        " Real-Time Inventory Visibility",
+        "Waste & By-Product Management",
+        " Compliance Reporting & Audits"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does ERP software benefit leather manufacturing businesses?",
+      "answer": "ERP software helps leather manufacturers by integrating processes such as inventory management, production scheduling and quality control. This integration leads to improved efficiency, reduced errors and better decision-making."
+    },
+    {
+      "id": 2,
+      "question": "Can ERP systems handle custom leather product orders?",
+      "answer": "Yes, ERP systems can manage custom orders by allowing you to define specific product configurations and track them through the production process, ensuring timely delivery and customer satisfaction."
+    },
+    {
+      "id": 3,
+      "question": "Is it possible to track raw materials and finished goods in real-time?",
+      "answer": "Absolutely. ERP systems provide real-time tracking of raw materials and finished products, helping you control inventory levels and respond quickly to market demands."
+    }
+  ],
+  "industry": "Leather",
+  "solution": "Integrated Leather Manufacturing System",
+  "modules": [
+    "Process Control",
+    "Quality Management",
+    "Environmental Monitoring",
+    "Production Planning",
+    "Inventory Control"
+  ],
+  "result": [
+    "40% improvement in process efficiency",
+    "45% reduction in quality issues",
+    "35% better environmental compliance"
+  ],
+  "customers": "200+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Leather Industry Guide",
+    "buttonText": "Download Brochure"
+  }
+}

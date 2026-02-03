@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/educational_banner_img.webp",
+  "altimg":"Modern educational institute classroom with students and teachers",
+  "heading" :"Educational Institute",
+  "title": "Best Cloud-Based Education ERP Software for School Management",
+  "description": "Managing a school is a complex responsibility it includes keeping track of students, staff, schedules, fees and communication with parents. Our school management system makes that easier by bringing all your important tasks into one simple platform. It saves time, reduces manual work and helps your staff stay focused on what really matters—supporting students and improving learning.",
+  "keyPoints": [
+    " Student Admission & Enrollment",
+    "Course & Curriculum Management",
+    "Attendance & Examination Tracking",
+    "Timetable & Faculty Scheduling",
+    "Fee & Finance Management"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/education-academic.png",
+      "title": "Academic & Student Management",
+      "description": "Streamline academic planning, student progress tracking and record management with intelligent automation.",
+      "list": [
+        " Course Creation & Academic Calendar",
+        "Student Records & Progress Reports",
+        "Exam Results & Certifications"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/education-admin.png",
+      "title": "Administration & Finance Control",
+      "description": "Centralize administrative processes, fees, payroll and compliance tasks with robust ERP for educational institutions.",
+      "list": [
+        "Fee Collection & Ledger Integration",
+        " Staff Payroll & Leave Management",
+        " Audit-Ready Finance Reports"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What exactly does a school ERP system do?",
+      "answer": "A school ERP system is a smart platform that handles all the daily operations of your institution in one place. From student admissions and attendance to exam schedules, fee payments and report cards, it keeps everything organised. It also connects teachers, administrators, students and parents, so everyone can see the same information and work together smoothly."
+    },
+    {
+      "id": 2,
+      "question": "Can this system be used by schools of different sizes and types?",
+      "answer": "Yes. Whether you're running a small kindergarten, a high school, or a large educational institution, the system can be adjusted to fit your structure. You can select only the features you need and add more as your school grows or your requirements change."
+    },
+    {
+      "id": 3,
+      "question": "How does education management software improve efficiency?",
+      "answer": "Our education management software ensures seamless coordination between academic planning, student management and finance through a centralized dashboard."
+    }
+  ],
+  "industry": "Education",
+  "solution": "Integrated Education Management System",
+  "modules": [
+    "Student Management",
+    "Academic Planning",
+    "Resource Management",
+    "Financial Management",
+    "Learning Management"
+  ],
+  "result": [
+    "45% reduction in administrative workload",
+    "35% improvement in resource utilization",
+    "50% faster academic planning process"
+  ],
+  "customers": "500+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Education",
+    "buttonText": "Download Brochure"
+  }
+}

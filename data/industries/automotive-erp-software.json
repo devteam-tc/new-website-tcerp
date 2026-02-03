@@ -1,0 +1,74 @@
+{
+  "banner": "/images/industries/automotive_banner_img.webp",
+  "altimg":"Automobile ERP line production",
+  "heading" :"Automotive Industry",
+  "title": "Top Automotive Manufacturing ERP Software for Parts Manufacturers",
+  "description": "In today's fast-paced automotive industry, managing challenging supply chains, ensuring quality compliance, and delivering on time are all non-negotiable. Our Automotive ERP solution is tailored to the specific needs of automotive manufacturers, suppliers and distributors, allowing you to achieve complete control over your operations from procurement to manufacturing and delivery.",
+  "keyPoints": [
+    "Production Planning & Assembly Line Automation",
+    "Vendor & Supply Chain Management",
+    "Inventory & Warehouse Management",
+    "Quality Control & Compliance",
+    "After-Sales Service & Warranty Management"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/automotive-production.png",
+      "title": " Production & Line Management",
+      "description": "Track every step from parts to final assembly, improving lead time and reducing rework.",
+      "list": [
+        "Assembly Scheduling",
+        "Bill of Materials (BOM) Control",
+        "Line Performance Metrics"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/Quality_Compliance_control.png",
+      "title": " Supply Chain & Logistics",
+      "description": "Gain full visibility across procurement, warehousing, and delivery operations.",
+      "list": [
+        "Supplier & Vendor Tracking",
+        "Shipment Planning & Tracking",
+        "Return & Replacement Handling"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How is an ERP system beneficial for automotive manufacturers?",
+      "answer": "It helps automate workflows, reduce production downtime, manage complex BOMs (Bills of Materials), improve inventory control, enhance supply chain collaboration and ensure compliance with industry regulations."
+    },
+    {
+      "id": 2,
+      "question": "Is this ERP system suitable for auto parts suppliers and retailers?",
+      "answer": "Yes. Our ERP solution is built to support not just OEMs, but also tiered suppliers, parts manufacturers and aftermarket parts retailers. It offers modules for inventory, procurement, order management, dealer management and more"
+    },
+    {
+      "id": 3,
+      "question": "Can I customize the ERP according to my business needs?",
+      "answer": "Yes. The ERP is modular and highly customizable, allowing you to tailor workflows, user roles, reports and features to your specific automotive operations."
+    }
+  ],
+  "industry": "Automotive",
+  "solution": "Integrated Automotive Manufacturing System",
+  "modules": [
+    "Production Management",
+    "Supply Chain Control",
+    "Quality Assurance",
+    "Inventory Management",
+    "Compliance Tracking"
+  ],
+  "result": [
+    "45% improvement in production efficiency",
+    "30% reduction in supply chain costs",
+    "50% decrease in quality-related issues"
+  ],
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": "",
+    "spanTitle": "Automotive Solutions Brochure",
+    "buttonText": "Download Brochure"
+  }
+}

@@ -1,0 +1,229 @@
+/*=============================
+	20. Page Header CSS Start
+===============================*/
+
+.ep-page-header-section {
+//  padding-top: 80px;
+  background-image: url('/images/Banner_bg.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 500px;
+  position: relative;
+  z-index: 1;
+  background-color: no-repeat;
+  margin-top: -50px;
+  padding-top: 50px;
+  // // background: var(--bg-page-header-bg);
+  // // background: var(--bs-secondary-50);
+  // background-image: url("/images/Banner_bg.webp");
+  // background-size: 100% 100%;
+  // background-repeat: no-repeat;
+  // background-position: center;
+
+  .bread-crumb {
+    
+    padding: 120px 0 60px;
+
+    .page-title {
+      font-weight: 700;
+      font-size: 60px;
+      line-height: 68px;
+       color: var(--bs-white-color);
+    }
+
+    li {
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 36px;
+      color: var(--bs-white-color);
+
+      i {
+        font-size: 16px;
+        margin-left: 20px;
+        color: var(--bs-white-color);
+      }
+
+      a { 
+        color: var(--bs-white-color);
+        position: relative;
+        font-weight:100; 
+
+        &:hover {
+          color: var(--bs-white-color);
+          font-weight:  700; 
+        }
+      }
+    }
+
+    li+li {
+      margin-left: 19px;
+    }
+    @media (max-width: 992px) {
+       li + li {
+        margin-left: 5px !important;
+      }
+    }
+    
+  }
+}
+
+  // Medium devices (tablets, 768px and up)
+ 
+  // Large devices (desktops, 992px and up)
+ 
+  // Extra large devices (large desktops, 1200px and up)
+ 
+  // XX-Large devices (larger desktops, 1400px and up)
+ 
+  // XXX-Large devices (larger desktops, 1600px and up)
+  @media (min-width: 1600px) {
+    .ep-page-header-section {
+        min-height: 50vh;
+        /* margin-top: -122px; */
+        padding: 160px 0px 100px;
+        background-size: cover;
+    }
+  } 
+  @media (max-width: 1600px) {
+    .ep-page-header-section {
+              min-height: 60vh;
+        padding: 100px 0px 100px;
+        /* margin-top: -103px; */
+        background-size: cover;
+    }
+    
+  }
+   @media (max-width: 1200px) {
+    .ep-page-header-section {
+              min-height: 55vh;
+        padding: 150px 0px 100px;
+        /* margin-top: -103px; */
+        background-size: cover;
+    }
+    
+  }
+  @media (max-width: 992px) {
+     .ep-page-header-section {
+           padding-top: 150px;
+        min-height: 55vh;
+    }
+  }
+   @media (max-width: 768px) {
+    .ep-page-header-section {
+           min-height: 150px;
+        background-size: cover;
+        margin-top: 50px;
+        margin-top: 0;
+        padding-top: 150px;
+    }
+      
+  }
+  @media (max-width: 576px) {
+   .ep-page-header-section {
+        min-height: 145px;
+        background-size: cover;
+        padding-top: 70px;
+        margin-top: 0;
+
+    }
+  }
+@media (max-width: 1399.98px) {
+  
+  .ep-page-header-section .bread-crumb .page-title {
+    font-size: 52px;
+    line-height: 50px;
+  }
+
+  // .ep-page-header-section {
+  //   padding-top: 155px;
+  //   min-height: 600px;
+  //   margin-top: -112px;
+  // }
+
+  .ep-page-header-section .bread-crumb ul {
+    margin-top: 15px !important;
+  }
+
+  .ep-page-header-section .bread-crumb {
+    padding: 64px 0;
+    padding-top: 100px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  
+
+  .ep-page-header-section .bread-crumb .page-title {
+    font-size: 44px;
+    line-height: 50px;
+  }
+
+  .ep-page-header-section .bread-crumb li {
+    font-size: 18px;
+  }
+
+  .ep-page-header-section .header-img img {
+    width: 230px;
+  }
+
+  .ep-page-header-section .bread-crumb {
+    padding: 64px 0;
+    padding-top: 64px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  
+  .ep-page-header-section .header-img {
+    display: none;
+  }
+
+  .ep-page-header-section .bread-crumb {
+    text-align: center !important;
+  }
+
+  .ep-page-header-section .bread-crumb ul {
+    justify-content: center !important;
+  }
+
+  .ep-page-header-section .bread-crumb {
+    padding: 45px 0 30px;
+  }
+ 
+
+  .ep-page-header-section .bread-crumb .page-title {
+    font-size: 34px;
+    line-height: 40px;
+  }
+
+  .ep-page-header-section .bread-crumb ul {
+    margin-top: 15px !important;
+  }
+
+  .ep-page-header-section .bread-crumb li {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (max-width: 575.98px) {
+
+  .ep-page-header-section .bread-crumb .page-title {
+    font-size: 32px;
+  }
+
+  .ep-page-header-section .bread-crumb ul {
+    margin-top: 12px !important;
+  }
+
+  .ep-page-header-section .bread-crumb li {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .ep-page-header-section .bread-crumb li i {
+    font-size: 14px;
+    margin-left: 16px;
+  }
+}

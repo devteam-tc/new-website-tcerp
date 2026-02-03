@@ -1,0 +1,87 @@
+{
+  "mainHeaderSection": {
+    "heading": "Fixed Assets",
+    "maintitle": "Fixed Assets Management for Every Business Asset",
+    "description": "Our Fixed Asset Management module simplifies the entire asset lifecycle from acquisition to disposal. You can track depreciation, maintenance and asset value with accuracy. Monitor locations and usage while ensuring compliance with accounting and audit standards. Streamline your asset operations and manage everything in one place seamlessly."
+  },
+  "featureSections": [
+    {
+      "featuretitle": " Asset Transactions",
+      "featuredesc": " Tech Cloud ERP gives you the ability to manage any function associated with your assets, including adding new assets, modifying assets and disposing of assets. The system automates calculation of depreciation using your choice of methods so that your financial information stays accurate without an opportunity for error by people",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/fixedassets/module-1.webp",
+      "imageAlt": "Fixed assets dashboard transactions transfers"
+    },
+    {
+      "featuretitle": "Inquiries & Reporting",
+      "featuredesc": "With built-in reporting tools, you can access detailed information about each asset, monitor intricate depreciation schedules and maintain a clear audit trail. This visibility aids in compliance and supports informed decision-making by providing leaders a panoramic picture of their multi asset portfolio, from individual components to entire systems.",
+     "featurelink": "Explore More",   
+        "dashboardImage": "/images/modules/fixedassets/module-2.webp",
+      "imageAlt": "Fixed assets inquiry dashboard reports"
+    },
+    {
+      "featuretitle": "Asset Master & Maintenance",
+      "featuredesc": "Each asset's profile includes essential details such as purchase date, cost, vendor information and warranty status. You can schedule regular maintenance activities and track their completion, helping to extend asset life and prevent unexpected downtimes. Proper maintenance of complex machinery is crucial to avoid expensive breakdowns and repairs that can disrupt workflow. Ensuring each component receives scheduled upkeep will optimize performance for years of service.",
+     "featurelink": "Explore More",   
+        "dashboardImage": "/images/modules/fixedassets/module-3.webp",
+      "imageAlt": "Fixed assets maintenance dashboard data"
+    }
+  ],
+    "videosection": {
+      "title": "Maximize the Value of your Assets",
+      "description": "From acquisition to depreciation, manage your fixed assets in one place. Track asset life, locations and maintenance schedules — all while staying audit-ready and compliant with accounting standards.",
+      "thumbnail": "/images/modules/video-thumbnail.png",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "What is the Fixed Assets module in ERP?",
+        "answer": " The Fixed Assets module manages asset lifecycles including acquisition, depreciation, maintenance and disposal."
+      },
+      {
+        "question": "Why is depreciation important?",
+        "answer": " Depreciation allocates the cost of an asset over its useful life, capturing wear and tear and because it is an acceptable treatment to accurately depict the company's finances and prepare taxes."
+      },
+      {
+        "question": "Can I track asset maintenance schedules?",
+        "answer": " Yes, Tech Cloud ERP allows you to schedule and monitor maintenance activities, ensuring assets remain in optimal condition."
+      },
+      {
+        "question": "How does asset disposal work in the system?",
+        "answer": "  When disposing of an asset, you can record the sale or retirement and the system will update records and financial statements accordingly."
+      }
+    
+    ]
+  }
+  }
+  

@@ -1,0 +1,128 @@
+.multiple-cards-section {
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background: linear-gradient(180deg, #eef6ff 0%, #fafdff 100%);
+  padding: 0;
+ 
+
+  &__container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 40px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__headline {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #232323;
+    text-align: center;
+    margin-bottom: 56px;
+    line-height: 1.1;
+    letter-spacing: 0.01em;
+    @media (max-width: 992px) {
+      font-size: 2.5rem;
+      line-height: 1.2;
+    }
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px 40px;
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 56px;
+
+    @media (max-width: 992px) {
+      grid-template-columns: none;
+      gap: 30px;
+      padding: 6px 12px;
+    }
+  }
+
+  &__card {
+    background: #fff;
+    padding: 36px 32px 32px 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 16px;
+    min-height: 220px;
+    box-shadow: none;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    transition: box-shadow 0.2s;
+    &:hover {
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
+  &__card:nth-child(1),
+  &__card:nth-child(2) {
+    background: #e7f1ff;
+  }
+  &__card:nth-child(3) {
+    background: #fff9db;
+  }
+  &__card:nth-child(4) {
+    background: #f6f0ff;
+  }
+
+  &__card-icon {
+    margin-bottom: 16px;
+  }
+
+  &__icon {
+    width: 2.2rem;
+    height: 2.2rem;
+    color: #3b82f6;
+  }
+
+  &__card-title {
+    font-size: 1.45rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #232323;
+  }
+
+  &__card-desc {
+    font-size: 1.08rem;
+    color: #444;
+    line-height: 1.7;
+    margin-bottom: 0;
+    font-family: 'Inter', sans-serif;
+  }
+
+  &__cta {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    width: 100%;
+  }
+
+  &__button {
+    background: #3b82f6;
+    color: #fff;
+    font-size: 1.18rem;
+    font-weight: 700;
+    padding: 14px 48px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: none;
+    cursor: pointer;
+    transition: background 0.2s;
+    font-family: 'Inter', sans-serif;
+    &:hover {
+      background: #2563eb;
+    }
+  }
+}
+  

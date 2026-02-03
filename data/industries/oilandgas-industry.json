@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/oilandgas_banner_img.webp",
+"altimg":"Oil gas ERP asset management",
+  "heading" :"Oil and Gas Industry",
+  "title": "Modern Oil and Gas ERP for Smarter Decision-Making",
+  "description": "Oil & Gas ERP software is tailored to the needs of energy companies working in exploration, production, refining and distribution. It unifies asset management, finance, supply chain, field services and compliance into one platform. With real-time data, it helps teams monitor equipment health, manage field operations and reporting and improve safety and efficiency—driving smarter decisions across your business.",
+  "keyPoints": [
+    "Asset & Equipment Management",
+    "Supply Chain & Inventory Control",
+    "Project Planning & Execution",
+    "Financial Management & Compliance",
+    "Energy Management & Auditing"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/oilgas-operations.png",
+      "title": "Asset & Equipment Management",
+      "description": "Centralized monitoring of rigs, pipelines and machinery with predictive maintenance tools to reduce downtime and extend equipment lifespan.",
+      "list": [
+        "Real-Time Asset Tracking",
+        "Predictive Maintenance",
+        "Centralized Equipment Dashboard"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/oilgas-safety.png",
+      "title": "Financial Management & Compliance",
+      "description": "Robust financial tools tailored for oil & gas accounting, including joint ventures, royalty tracking and compliance reporting.",
+      "list": [
+        "Joint Venture Billing",
+        "Royalty & Tax Management",
+        "Audit-Ready Financial Reports"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What benefits does ERP provide to oil and gas companies?",
+      "answer": "Oil & Gas ERP centralizes data across finance, maintenance, supply chain and field operations. This reduces manual work, improves compliance and allows you to track assets and costs precisely. The result is better performance, lower downtime and stronger control over complex projects."
+    },
+    {
+      "id": 2,
+      "question": "How does it help with asset and maintenance management?",
+      "answer": "The system keeps records of assets like rigs, pipelines and production equipment. It schedules preventative maintenance, captures performance data in real time and triggers alerts when issues emerge. This approach helps avoid costly breakdowns and maximizes uptime."
+    },
+    {
+      "id": 3,
+      "question": "Can the ERP support financial and regulatory operations globally?",
+      "answer": "Yes — it offers financial and tax reporting tailored for various jurisdictions, equipment and cost tracking under joint ventures or production-sharing agreements and audit trails for safety and environmental compliance. It's built to help energy companies operate confidently across borders."
+    }
+  ],
+  "industry": "Oil and Gas",
+  "solution": "Integrated Oil & Gas Management System",
+  "modules": [
+    "Operations Management",
+    "Asset Management",
+    "Safety Compliance",
+    "Maintenance Control",
+    "Production Analytics"
+  ],
+  "result": [
+    "45% improvement in operational efficiency",
+    "40% reduction in maintenance costs",
+    "35% better safety compliance"
+  ],
+  "customers": "150+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Oil & Gas Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

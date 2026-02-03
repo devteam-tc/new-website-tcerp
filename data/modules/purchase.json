@@ -1,0 +1,86 @@
+{
+  "mainHeaderSection": {
+    "heading": "Purchase Management",
+    "maintitle": "Purchase Order System to Manage your Procurements",
+    "description": "Our Purchase Management module makes buying smarter and faster. From raising purchase requests to managing suppliers and approvals, everything works together in one easy system. Gain full control over your purchasing process and ensure timely, cost-effective procurement."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "Purchase Requisition & Quotation Handling",
+      "featuredesc": " Begin the procurement process by creating a Purchase Requisition (PR), where you specify the materials or services needed, required quantities and delivery dates. Once the PR is approved, send Requests for Quotation (RFQs) to suppliers, receive their offers and evaluate quotations based on price, quality and delivery terms.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/purchase/module-1.webp",
+      "imageAlt": "ERP purchase management dashboard"
+    },
+    {
+      "featuretitle": "Purchase Order Creation & Goods Receipt",
+      "featuredesc": " Convert approved quotations into formal Purchase Orders (POs) that define quantities, pricing, terms and delivery schedules. After the supplier delivers the goods or services, record the receipt against the PO. Match the supplier invoice with both the PO and Goods Receipt Note (GRN) to ensure accuracy before posting for payment.",
+     "featurelink": "Explore More",    
+       "dashboardImage": "/images/modules/purchase/module-2.webp",
+      "imageAlt": "Purchase order GRN creation dashboard"
+    },
+    {
+      "featuretitle": "Vendor Data Management",
+      "featuredesc": " Maintain a centralized vendor database with key information such as contact details, payment terms, tax IDs and compliance documents. This ensures smooth communication, faster procurement cycles and better vendor evaluation over time.",
+     "featurelink": "Explore More",   
+        "dashboardImage": "/images/modules/purchase/module-3.webp",
+      "imageAlt": "Vendor data purchase supplier management"
+    }
+  ],
+    "videosection": {
+      "title": "Smarter Purchasing Decisions",
+      "description": "Stay in control of your procurement process. Track supplier performance, compare quotations and handle approvals with ease. Our purchase module helps you make cost-effective buying decisions while keeping delivery timelines and budgets in check.",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1766400605/puchase_vedio_sefltd.mp4",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "What is the Purchase module in ERP?",
+        "answer": " The Purchase module helps manage supplier quotations, purchase orders, goods receipt and vendor billing."
+      },
+      {
+        "question": "How is a purchase requisition different from a purchase order?",
+        "answer": " A purchase requisition is an internal request to buy something. Once approved, it is converted into a purchase order that’s sent to the supplier."
+      },
+      {
+        "question": " Why do businesses use purchase order software?",
+        "answer": "  It helps streamline procurement, avoid manual errors, maintain records and improve transparency across departments and vendors."
+      },
+      {
+        "question":"Can I track the status of my purchase orders in real time?",
+        "answer":" Yes, with Tech Cloud ERP you can monitor purchase order progress, approval status, delivery schedules and vendor performance in real time."
+      }
+    
+    ]
+  }
+  }
+  

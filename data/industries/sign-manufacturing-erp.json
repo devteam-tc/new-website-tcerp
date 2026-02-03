@@ -1,0 +1,73 @@
+{
+  "banner": "/images/industries/signage_banner_img.webp",
+  "altimg":"Billboard sign ERP city skyline",
+  "heading" :"Signage Industry",
+  "title": "Top ERP for Signage Industry Software Solutions",
+  "description": "Sign manufacturing ERP software is designed specifically for signage businesses. It unifies key functions like estimating, material planning, production scheduling, shop-floor tracking, installation management and billing into one organized platform. From first quote to final installation, teams can efficiently track progress, control job costs, manage inventory and stay aligned at every stage.",
+  "keyPoints": [
+    "Job Estimation & Quotation Management",
+    "Artwork & Proof Approval Workflow",
+    "Material Procurement & Inventory Control",
+    "Shop Floor Production Scheduling",
+    "Installation Management & Billing"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/signage-production.png",
+      "title": "Job Management & Order Tracking",
+      "description": "Centralize all your signage projects from design to delivery.",
+      "list": [
+        "Digital Proof & Approval History",
+        "Task-Based Scheduling",
+        "Milestone Tracking & Client Communication"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/signage-project.png",
+      "title": "Inventory & Material Planning",
+      "description": "Control raw materials and reduce overstock or shortages.",
+      "list": [
+        "Material Requirements Planning",
+        "Vendor Pricing & PO Management",
+        "Scrap & Reuse Tracking"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What features make it ideal for sign businesses?",
+      "answer": "These systems offer tailored tools for quote creation and cost estimation, project-based production planning, shop-floor labor tracking and automated invoicing. They also include inventory control and CRM so you can handle client communications, drawings, permits and installations from one place."
+    },
+    {
+      "id": 2,
+      "question": "How does it manage onsite installation and project tracking?",
+      "answer": "ERP software tracks each job as a project, including artwork approvals, site surveys, permits, task assignments and real-time progress. It even captures installation timing and costs, enabling accurate billing and insight into project profitability."
+    },
+    {
+      "id": 3,
+      "question": "How does the ERP help with artwork and approvals?",
+      "answer": "The system allows clients to review digital proofs, provide feedback and approve designs online—speeding up production."
+    }
+  ],
+  "industry": "Signage",
+  "solution": "Integrated Signage Management System",
+  "modules": [
+    "Design & Production",
+    "Project Management",
+    "Inventory Control",
+    "Client Management"
+  ],
+  "result": [
+    "35% faster project completion",
+    "40% reduction in material waste",
+    "45% improvement in client satisfaction"
+  ],
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Signage Solutions Brochure",
+    "buttonText": "Download Brochure"
+  }
+} 

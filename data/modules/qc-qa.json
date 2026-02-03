@@ -1,0 +1,83 @@
+{
+  "mainHeaderSection": {
+    "heading": "QC & QA Management",
+    "maintitle": "Top Quality Control Built to Match Your Industry Needs",
+    "description": "At Tech Cloud ERP, quality isn't just a final step — it's part of every stage. Our built-in Quality Control and Assurance tools help you maintain consistency, meet compliance standards and reduce rework. From setting clear guidelines to inspecting raw materials, checking production and reviewing final output, your team can deliver with confidence."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "Quality Control – Catch Issues Before They Spread",
+      "featuredesc": "Quality Control ensures your products meet standards after production. With Tech Cloud ERP, inspect raw materials, monitor production stages and check finished goods. Record test results, track defects and take immediate action to avoid further problems.",
+      "dashboardImage": "/images/modules/qa&qc/module-1.webp",
+      "imageAlt": "QA QC dashboard work order"
+    },
+    {
+      "featuretitle": " Quality Assurance – Build It Right From the Start",
+      "featuredesc": "Quality Assurance focuses on preventing problems before they begin. Create policies, set control plans and ensure teams follow proper procedures. Use tools like SOP documentation, regular audits and training checks to build quality into every task.",
+        "dashboardImage": "/images/modules/qa&qc/module-2.webp",
+      "imageAlt": "Job work dashboard GRN tracking"
+    },
+    {
+      "featuretitle": "Live Quality Tracking and Reports",
+      "featuredesc": "Tech Cloud ERP provides real-time dashboards and reports, so you can track quality performance across suppliers, departments and product lines. From deviation reports to inspection logs and audit trails, everything is available in one place for easy review and regulatory compliance.",
+        "dashboardImage": "/images/modules/qa&qc/module-3.webp",
+      "imageAlt": "Quality tracking dashboard QC reports"
+    }
+  ],
+    "videosection": {
+      "title": "Deliver Quality without Compromise",
+      "description": "Quality matters. Our QA/QC module helps you set inspection rules, log test results and manage any issues that come up. Whether you’re checking raw materials or final products, you can maintain consistent quality at every step.",
+      "thumbnail": "/images/modules/video-thumbnail.png",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "What is the QC & QA module in ERP?",
+        "answer": " The QC & QA module ensures quality assurance and control during procurement, production and dispatch by enforcing standard tests."
+      },
+      {
+        "question": "Can I track quality issues across production stages?",
+        "answer": " Yes. Tech Cloud ERP allows you to monitor quality from raw material inspection to in-process and final product checks."
+      },
+      {
+        "question": "Does the system support industry compliance?",
+        "answer": " Absolutely. Our QA/QC module supports documentation, audit trails and reporting required for most industry standards."
+      },
+      {
+        "question": "Is it customizable for different industries?",
+        "answer": "  Yes. Whether you’re in manufacturing, pharmaceuticals or automotive, Tech Cloud ERP’s quality module is flexible and can be configured for your unique needs."
+      }
+    ]
+  }
+  }
+  

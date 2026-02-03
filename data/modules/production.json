@@ -1,0 +1,86 @@
+{
+  "mainHeaderSection": {
+    "heading": "Production Management",
+    "maintitle": "Production Management for Faster Order Fulfillment",
+    "description": "Tech Cloud ERP’s Production Management module streamlines production planning, scheduling, and execution. It enables real-time tracking of work orders, efficient resource utilization, accurate BOM management, and reduced production delays—helping businesses meet delivery timelines, improve productivity, and fulfill customer orders faster."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "Production Planning & Order Creation",
+      "featuredesc": "Start your production process with a Planned Order based on demand forecasts or actual sales orders. Tech Cloud ERP converts these into actionable plans, helping you schedule resources and estimate material needs in advance. From there, create a detailed production order by defining the bill of materials (BOM), routing and operations. Once released, tasks are distributed to work centres for smooth executions",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/production/module-1.webp",
+      "imageAlt": "Production dashboard order work planning"
+    },
+    {
+      "featuretitle": "Stage-Wise Operation Tracking",
+      "featuredesc": "Monitor every phase of the production process with operation-level execution. As your products move through various stages like cutting, assembling or testing, the system records machine usage, labor hours and progress. This improves transparency and helps maintain high product quality while reducing wastage.",
+     "featurelink": "Explore More", 
+          "dashboardImage": "/images/modules/production/module-2.webp",
+      "imageAlt": "Stagewise production dashboard operations"
+    },
+    {
+      "featuretitle": " Material Issue & Traceability",
+      "featuredesc": "Easily issue raw materials or semi-finished goods to the shop floor using Goods Issue to Production. Every issue is logged against the respective production order to ensure material accuracy and full traceability supporting better inventory control and audit readiness.",
+     "featurelink": "Explore More",     
+      "dashboardImage": "/images/modules/production/module-3.webp",
+      "imageAlt": "Production software material data control"
+    }
+  ],
+    "videosection": {
+      "title": "Efficient Production Management",
+      "description": "Plan, monitor and control production without bottlenecks. Whether you work with discrete or process manufacturing, our module helps you manage BOMs, route operations and resource scheduling — so output stays on time and within cost.",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "What is the Production module in ERP?",
+        "answer": "The Production module tracks manufacturing processes, bill of materials (BOM), production planning and job orders."
+      },
+      {
+        "question": "Can I control production workflows and monitor progress in real time?",
+        "answer": " Yes, you can plan tasks, assign resources and track production status live to avoid delays and improve coordination across teams."
+      },
+      {
+        "question": "How does production planning software help?",
+        "answer": " It supports accurate demand forecasting, resource allocation and scheduling so you can reduce waste and meet delivery timelines."
+      },
+      {
+        "question": "Is the software flexible for make-to-order and batch manufacturing?",
+        "answer": "  Yes, it supports various manufacturing types like make-to-order, make-to-stock and batch production with configurable workflows and settings."
+      }
+    
+    ]
+  }
+  }
+  

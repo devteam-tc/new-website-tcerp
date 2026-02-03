@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/pharmaceutical_banner_img.webp",
+  "altimg":"Pharmaceutical ERP capsules conveyor belt",
+  "heading" :"Pharmaceutical Industry",
+  "title": "PharmaERP Solutions for the Pharmaceutical Industry",
+  "description": "Pharma ERP software is designed to meet the specific needs of pharmaceutical manufacturers and distributors. It helps in managing key areas like formulation, production, batch tracking, quality checks and regulatory compliance. With features like expiry date tracking, audit logs and easy reporting, it reduces manual work and improves accuracy. It also gives better visibility across departments, so teams can make faster and smarter decisions.",
+  "keyPoints": [
+    "Batch Production & Quality Management",
+    "Regulatory Compliance & Documentation",
+    "Inventory & Expiry Management",
+    "Sales, Distribution & GST Accounting",
+    "Purchase & Supplier Control"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/pharma-production.png",
+      "title": "Batch Production & Quality Management",
+      "description": "Automate production processes with real-time batch tracking, standard operating procedures and integrated QA checks",
+      "list": [
+        "Formula-Based Batch Manufacturing",
+        "BMR, BPR and SOP Integration",
+        "Quality Inspection & Lab Analysis"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/pharma-quality.png",
+      "title": "Inventory & Expiry Management",
+      "description": "Track raw materials and finished goods with multi-level inventory control and automatic expiry alerts.",
+      "list": [
+        "Batch-Wise Inventory Control",
+        "Expiry & Reorder Notifications",
+        "Cold Chain & Hazardous Stock Handling"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What is the purpose of using Pharma ERP software in the pharmaceutical industry?",
+      "answer": "Pharma ERP software helps manage and automate key processes such as production, inventory and compliance to improve accuracy and ensure regulatory alignment."
+    },
+    {
+      "id": 2,
+      "question": "Does the ERP support batch-wise manufacturing and traceability?",
+      "answer": "Yes, it includes batch processing capabilities with complete traceability, from raw material sourcing to final product distribution."
+    },
+    {
+      "id": 3,
+      "question": "Does the system support compliance and reporting for audits?",
+      "answer": "Yes. It enforces formula versioning with approvals and audit logs, provides electronic batch and weigh tickets, sample testing plans, non‑conformance logging, CAPA workflows, COA/MBR/BMR creation and electronic signatures compliant with FDA 21 CFR Part 11 and similar regulations"
+    }
+  ],
+  "industry": "Pharmaceutical ",
+  "solution": "Integrated Pharmaceutical Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Quality Management",
+    "Document Control",
+    "Regulatory Compliance",
+    "R&D Management"
+  ],
+  "result": [
+    "45% faster batch release time",
+    "40% reduction in compliance costs",
+    "35% improvement in quality metrics"
+  ],
+  "customers": "200+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": " ",
+    "spanTitle": "Pharmaceutical Manufacturing Guide",
+    "buttonText": "Download Brochure"
+  }
+}

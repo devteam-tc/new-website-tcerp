@@ -1,0 +1,53 @@
+  {
+  "usa": {
+    "title": "Scalable ERP Software in USA for Modern Enterprises",
+    "heading": "Best ERP Software in USA",
+    "image": "/images/contact/usa.webp",
+    "description": "The USA’s dynamic industries demand automation, scalability and powerful business control. Our cloud ERP in USA centralizes finance, HR, inventory and operations into one unified solution. It helps businesses analyse data in real time, reduce costs and increase efficiency. Scalable for startups to large corporations, it ensures consistent performance. Tech Cloud ERP supports innovation and growth across all American industries.",
+    "features": [
+      "Next-Gen ERP",
+      "Cloud Innovation",
+      "Automated Insights",
+      "Business Agility",
+      "Data Intelligence"
+    ],
+    "items": [
+      {
+        "icon": "/images/location/USA/ComprehensiveERP.svg",
+        "alt": "Efficient Business Automation",
+        "title": "Comprehensive ERP Solutions",
+        "description": "Automate business functions and enhance decision-making through intelligent ERP software."
+      },
+      {
+        "icon": "/images/location/USA/IndustrySpecific.svg",
+        "alt": "Specialized Modules",
+        "title": "Industry-Specific Functionality",
+        "description": "Access versatile modules designed for manufacturing, retail, services and more."
+      },
+      {
+        "icon": "/images/location/USA/Cloud&Hybrid.svg",
+        "alt": "Flexible ERP Deployment",
+        "title": "Cloud & Hybrid Deployments",
+        "description": "Choose between cloud or hybrid ERP systems for scalable, secure business performance."
+      },
+      {
+        "icon": "/images/location/USA/Insight-Driven.svg",
+        "alt": "Analytics Tools",
+        "title": "Insight-Driven Dashboards",
+        "description": "Make strategic decisions faster using data visualization and performance tracking."
+      },
+      {
+        "icon": "/images/location/USA/StreamlinedBusiness.svg",
+        "alt": "Seamless Software Integration",
+        "title": "Streamlined Business Connectivity",
+        "description": "Integrate ERP with your existing technology stack to unify processes company-wide."
+      },
+      {
+        "icon": "/images/location/USA/GlobalERP.svg",
+        "alt": "Dedicated Support Team",
+        "title": "Global ERP Support",
+        "description": "Enjoy 24/7 technical support and maintenance for uninterrupted business operations."
+      }
+    ]
+  }
+}

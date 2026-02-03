@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/general_banner_img.webp",
+  "altimg":"Global trading and logistics network",
+  "heading" :"General Trading",
+  "title": "Streamline Your Trading Operations with Comprehensive ERP Solutions",
+  "description": "In the fast-paced world of general trading, efficiency and real-time insights are key to staying competitive. Our ERP solution is specifically designed to manage diverse product lines, streamline procurement, optimize inventory, and provide end-to-end visibility across your entire trading operations, helping you make informed decisions and maximize profitability.",
+  "keyPoints": [
+    "Multi-Currency & Multi-Location Support",
+    "Integrated Procurement & Sales Management",
+    "Real-time Inventory & Stock Tracking",
+    "Supplier & Customer Relationship Management",
+    "Financial Management & Reporting"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/multi-currency-trading.png",
+      "title": "Multi-Currency Trading",
+      "description": "Effortlessly manage transactions in multiple currencies with real-time exchange rate updates and automated currency conversions.",
+      "list": [
+        "Automatic Currency Conversion",
+        "Multi-Currency Accounting",
+        "Exchange Rate Management"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/supply-chain-management.png",
+      "title": "Supply Chain Management",
+      "description": "Gain end-to-end visibility and control over your supply chain with integrated procurement and logistics management.",
+      "list": [
+        "Vendor & Supplier Management",
+        "Purchase Order Tracking",
+        "Logistics & Shipping Integration"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How can an ERP system benefit a general trading company?",
+      "answer": "An ERP system streamlines operations by integrating all business processes including inventory, procurement, sales, and finance. It provides real-time visibility into stock levels, automates order processing, and offers comprehensive reporting to help make data-driven decisions."
+    },
+    {
+      "id": 2,
+      "question": "Can the system handle multiple currencies and tax regulations?",
+      "answer": "Yes, our ERP solution is designed for global trading operations, supporting multiple currencies with automatic exchange rate updates and compliance with various international tax regulations and reporting requirements."
+    },
+    {
+      "id": 3,
+      "question": "How does the system help in managing supplier and customer relationships?",
+      "answer": "The system includes comprehensive CRM and supplier management modules that help track interactions, manage contracts, monitor performance metrics, and maintain detailed records of all transactions, enabling better relationship management and strategic decision-making."
+    }
+  ],
+  "industry": "General Trading",
+  "solution": "Integrated Trading Management System",
+  "modules": [
+    "Inventory & Warehouse Management",
+    "Procurement & Supplier Management",
+    "Sales & Customer Management",
+    "Financial Accounting",
+    "Logistics & Distribution"
+  ],
+  "result": [
+    "40% improvement in order processing time",
+    "35% reduction in operational costs",
+    "50% better inventory turnover"
+  ],
+  "customers": "500+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": "",
+    "spanTitle": "General Trading Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

@@ -1,0 +1,52 @@
+.demo-section {
+    opacity: var(--sds-size-stroke-border);
+    background: linear-gradient(90deg, #C62B00 1%, #AA3A1B 42.97%, #7C2209 100%);
+    padding: 90px 0;
+    color: white;
+    text-align: left;
+  }
+  
+  .demo-heading {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  
+  .demo-description {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  .demo-page-heading {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--bs-black-color);
+ line-height: 1.6;
+  text-align: center; 
+  margin-bottom: 0px;
+}
+  
+  @media (max-width: 992px) {
+    .demo-section {
+      padding: 30px 0;
+    }
+  .demo-page-heading{
+    font-size:22px;
+    line-height: 1.2;
+  }
+    .demo-heading {
+      font-size: 28px;
+    }
+  
+    .demo-description {
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+  }
+  
+  .demo-calendly-widget {
+    min-width: 100%;
+    height: 700px;
+  }
+  

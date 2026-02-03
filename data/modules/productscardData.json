@@ -1,0 +1,584 @@
+{
+  "customer-relationship-management": {
+    "mainTitle": "Our ERP Overview",
+    "heading" : "customer relationship management",
+    "cards": [
+      {
+        "image": "/products/tcerp/sale.png",
+        "title": "Sales & Marketing",
+        "text": "Grow your business with integrated sales tools for easy marketing, lead tracking and customer engagement."
+      },
+      {
+        "image": "/products/tcerp/purchase.png",
+        "title": "Purchase Management",
+        "text": "Simplify procurement by managing orders, vendors and expenses with our smart purchase management module."
+      },
+      {
+        "image": "/products/tcerp/stores.png",
+        "title": "Stores & Inventory",
+        "text": "Control stock, manage multiple stores and optimize supply chains with advanced inventory tracking tools."
+      },
+      {
+        "image": "/products/tcerp/production.png",
+        "title": "Production",
+        "text": "Improve efficiency by managing production resources, workflows and tracking progress in real time."
+      },
+      {
+        "image": "/products/tcerp/quality.png",
+        "title": "Quality Check",
+        "text": "Ensure high standards with quality tools that simplify compliance, inspections and customer satisfaction."
+      },
+      {
+        "image": "/products/tcerp/plantmain.png",
+        "title": "Plant Maintenance",
+        "text": "Schedule, monitor and track equipment repairs easily to keep your facility running smoothly and efficiently."
+      }
+    ]
+  },
+  "sales": {
+    "mainTitle": "Our CRM Solutions Overview",
+    "heading": " Sales Management",
+    "cards": [
+      {
+        "image": "/products/CRM/contact.png",
+        "title": "Contact Management",
+        "text": "Efficiently organize contacts with our CRM software to improve lead tracking and communication."
+      },
+      {
+        "image": "/products/CRM/target customers.png",
+        "title": "Target Customers",
+        "text": " Reach ideal customers using targeting tools in our CRM software to run effective campaigns."
+      },
+      {
+        "image": "/products/CRM/organise.png",
+        "title": "Organise Meetings",
+        "text": "Schedule and manage meetings with CRM tools to improve coordination with clients and teams."
+      },
+      {
+        "image": "/products/CRM/manage.png",
+        "title": "Manage Opportunities",
+        "text": "Track and convert sales opportunities with CRM software for better monitoring and revenue growth."
+      },
+      {
+        "image": "/products/CRM/Streamline workflow.png",
+        "title": "Streamline Workflow",
+        "text": "Automate sales processes with CRM workflows—easily assign tasks and close deals faster."
+      },
+      {
+        "image": "/products/CRM/Invoicing & Order Management.png",
+        "title": "Invoicing & Order Management",
+        "text": " Manage orders and invoices in one CRM system to simplify your sales transactions efficiently."
+      },
+      {
+        "image": "/products/CRM/Case Management.png",
+        "title": "Case Management",
+        "text": "Resolve customer issues efficiently with our case management tools, making it easy to improve customer satisfaction."
+      },
+      {
+        "image": "/products/CRM/projectmanage.png",
+        "title": "Project Management",
+        "text": "Manage your projects effectively with our CRM tools, making it easy to track tasks and meet deadlines."
+      },
+      {
+        "image": "/products/CRM/email marketing.png",
+        "title": "Email Marketing",
+        "text": "Create engaging email campaigns with our marketing tools, making it easy to connect with and grow your audience."
+      }
+    ]
+  },
+  "purchase-management": {
+    "mainTitle": "Popular Tech Cloud POS",
+    "heading": "Purchase Management",
+
+    "cards": [
+      {
+        "image": "/products/POS/webdevelopment.png",
+        "title": "Fast Billing",
+        "text": "Quick and accurate sales processing with support for multiple payment methods including cards and mobile wallets."
+      },
+      {
+        "image": "/products/POS/webdevelopment.png",
+        "title": "Inventory Tracking",
+        "text": "Automatically update and monitor stock levels in real time, with alerts for low inventory and out-of-stock items."
+      },
+      {
+        "image": "/products/POS/customerunderstanding.png",
+        "title": "Customer Management",
+        "text": "Store customer data, purchase history and enable loyalty programs to boost repeat business and engagement."
+      },
+      {
+        "image": "/products/POS/discount.png",
+        "title": "Sales Reports",
+        "text": "Create in-depth reports on sales, profits and product trends to support smarter, data-driven business decisions."
+      },
+      {
+        "image": "/products/POS/inventory.png",
+        "title": "Multi-Payment Support",
+        "text": "Accept payments via cash, cards, UPI and digital wallets with seamless integration for smooth and fast transactions."
+      },
+      {
+        "image": "/products/POS/cashmanage.png",
+        "title": "Return & Refund Handling",
+        "text": "Easily handle returns and refunds while keeping transaction records updated and maintaining accurate inventory levels."
+      },
+      {
+        "image": "/products/POS/customreceipts.png",
+        "title": "Offline Mode",
+        "text": "Keep selling without the internet; all sales and data automatically sync once the connection is back online for seamless operation."
+      },
+      {
+        "image": "/products/POS/fasttraining.png",
+        "title": "Multi-Store Management",
+        "text": "Manage multiple store locations with a single dashboard offering centralized control, data sync and unified reporting."
+      },
+      {
+        "image": "/products/POS/useraccount.png",
+        "title": "User Accounts",
+        "text": "Efficiently manage user accounts with Tech Cloud CRM, ensuring personalized experiences and secure access."
+      },
+      {
+        "image": "/products/POS/data-analysis.png",
+        "title": "Data Analysis",
+        "text": "Leverage Tech Cloud CRM to analyze data and uncover valuable insights that drive informed decision-making."
+      }
+    ]
+  },
+  "inventory": {
+    "mainTitle": "Why Choose Tech Cloud ERP",
+    "heading": "Inventory Management",
+    "cards": [
+      {
+        "image": "/products/trading/newcustomer.png",
+        "title": "New Customers",
+        "text": "Attract leads with valuable content that motivates prospects to share their contact info and engage with your business."
+      },
+      {
+        "image": "/products/trading/customermanage.png",
+        "title": "Customer Management",
+        "text": "Track interactions, solve issues fast and build strong customer relationships for loyalty and satisfaction."
+      },
+      {
+        "image": "/products/trading/purchase.png",
+        "title": "Purchase Management",
+        "text": "Streamline sourcing, procurement and inventory tracking for efficient and cost-effective operations."
+      },
+      {
+        "image": "/products/trading/streamline.png",
+        "title": "Streamline Warehouse Management",
+        "text": "Optimize inventory and workflows with smart warehouse solutions and advanced control systems."
+      },
+      {
+        "image": "/products/trading/shipping.png",
+        "title": "Reduced Shipping Costs",
+        "text": "Cut shipping costs by optimizing routes, negotiating better rates and improving packaging efficiency."
+      },
+      {
+        "image": "/products/trading/accounts.png",
+        "title": "Accounts Maintenance",
+        "text": "Maintain accurate accounts by updating info, tracking transactions and resolving inquiries quickly."
+      }
+    ]
+  },
+  "production": {
+    "mainTitle": "Our E-Commerce Overview",
+    "heading": "Production Management",
+    "cards": [
+      {
+        "image": "/products/ecommerce/automation.png",
+        "title": "Automation",
+        "text": "Ensure smooth, efficient transactions from start to finish using Tech Cloud ERP's intelligent automation tools."
+      },
+      {
+        "image": "/products/ecommerce/website-builder.png",
+        "title": "Website Builder",
+        "text": "Build your ideal website effortlessly using Tech Cloud ERP's easy-to-use website builder designed for all skill levels."
+      },
+      {
+        "image": "/products/ecommerce/database.png",
+        "title": "Central Database",
+        "text": "Store all your business data securely and organized in one place with our centralized, efficient database system."
+      },
+      {
+        "image": "/products/ecommerce/search.png",
+        "title": "Search Function",
+        "text": "Easily find what you need with powerful search tools that make accessing information fast, simple and effortless."
+      },
+      {
+        "image": "/products/ecommerce/integration.png",
+        "title": "Integration",
+        "text": "Seamlessly connect all your business tools for smoother, more efficient operations with our integration platform."
+      },
+      {
+        "image": "/products/ecommerce/data-visualization.png",
+        "title": "Marketing Data Visualization",
+        "text": "Turn marketing data into clear insights with visualization tools to help you make smarter business decisions."
+      }
+    ]
+  },
+  "job-work": {
+    "mainTitle": "Our HR Management Solutions",
+    "heading": "  Job Work Management",
+    "cards": [
+      {
+        "image": "/products/Hr/recruitment.png",
+        "title": "Recruitment",
+        "text": "Our Recruitment module streamlines hiring by managing job positions, screening candidates and optimizing workflows to secure top talent efficiently."
+      },
+      {
+        "image": "/products/Hr/onboarding.png",
+        "title": "On-boarding",
+        "text": "Our onboarding module simplifies integrating new hires, ensuring engagement, productivity and business success from day one."
+      },
+      {
+        "image": "/products/Hr/welfare.png",
+        "title": "Welfare Management",
+        "text": "Our module empowers employees to manage profiles, access business updates and enhance engagement and satisfaction."
+      },
+      {
+        "image": "/products/Hr/training.png",
+        "title": "Training and Development",
+        "text": "Boost employee performance with focused training and skill development to support continuous learning and growth."
+      },
+      {
+        "image": "/products/Hr/leave.png",
+        "title": "Leave and Time Management",
+        "text": "Efficiently track and manage employee leave and working hours with our seamless time management system."
+      },
+      {
+        "image": "/products/Hr/payroll.png",
+        "title": "Payroll Management",
+        "text": "Ensure accurate payroll with timely payments, precise salary calculations, and smooth handling of bonuses and deductions."
+      },
+      {
+        "image": "/products/Hr/dashboard.png",
+        "title": "Dynamic Dashboard",
+        "text": "Gain real-time insights through our dynamic HR dashboard to make faster, smarter, and data-driven HR decisions with ease."
+      },
+      {
+        "image": "/products/Hr/versatility.png",
+        "title": "Versatile Calendar",
+        "text": "Effortlessly manage events, holidays, and key dates using our flexible ERP HRMS calendar designed for seamless scheduling."
+      },
+      {
+        "image": "/products/Hr/real-time.png",
+        "title": "Real-time Collaboration",
+        "text": "Tech Cloud Performance Management automate evaluations and feedback cycles for efficient performance appraisals."
+        
+      }
+    ]
+  },
+  "qc-qa": {
+    "mainTitle": "Finance Provide You Best Services",
+    "heading": "Quality Control",
+    "cards": [
+      {
+        "image": "/products/Finance/functionalities.png",
+        "title": "Functionalities",
+        "text": "Streamline your financial operations with our powerful tools, making it easy to manage transactions and track business performance."
+      },
+      {
+        "image": "/products/Finance/report.png",
+        "title": "Inquiries & Reports",
+        "text": "Access detailed financial reports and insights with our reporting tools, making it easy to make informed business decisions."
+      },
+      {
+        "image": "/products/Finance/features.png",
+        "title": "Advanced Features",
+        "text": "Enhance your financial management with our advanced features, making it easy to optimize your business operations."
+      },
+      {
+        "image": "/products/Finance/report.png",
+        "title": "Multi-Currency",
+        "text": "Handle global transactions with ease using our multi-currency support, making it simple to manage international business."
+      }
+    ]
+  },
+  "fixed-assets": {
+    "mainTitle": "Fixed Assets Management",
+    "heading": "Fixed Assets",
+    "cards": [
+      {
+        "image": "/products/tcerp/asset-tracking.png",
+        "title": "Asset Tracking",
+        "text": "Track and manage all your fixed assets efficiently with real-time monitoring and status updates."
+      },
+      {
+        "image": "/products/tcerp/depreciation.png",
+        "title": "Depreciation Management",
+        "text": "Automatically calculate and track asset depreciation using various methods for accurate financial reporting."
+      },
+      {
+        "image": "/products/tcerp/maintenance.png",
+        "title": "Maintenance Scheduling",
+        "text": "Schedule and track maintenance activities to ensure optimal asset performance and longevity."
+      },
+      {
+        "image": "/products/tcerp/valuation.png",
+        "title": "Asset Valuation",
+        "text": "Maintain accurate asset values with comprehensive valuation tools and reporting capabilities."
+      },
+      {
+        "image": "/products/tcerp/compliance.png",
+        "title": "Compliance Management",
+        "text": "Ensure regulatory compliance with built-in tools for asset documentation and reporting."
+      },
+      {
+        "image": "/products/tcerp/audit.png",
+        "title": "Audit Trail",
+        "text": "Maintain detailed records of all asset-related transactions and changes for accountability."
+      }
+    ]
+  },
+  "plant-maintenance": {
+    "mainTitle": "Plant Maintenance Management",
+    "heading": "Plant Maintenance",
+    "cards": [
+      {
+        "image": "/products/tcerp/plantmain.png",
+        "title": "Equipment Tracking",
+        "text": "Track and monitor all plant equipment with real-time status updates and maintenance history."
+      },
+      {
+        "image": "/products/tcerp/maintenance.png",
+        "title": "Preventive Maintenance",
+        "text": "Schedule and manage preventive maintenance tasks to minimize equipment downtime."
+      },
+      {
+        "image": "/products/tcerp/repair.png",
+        "title": "Repair Management",
+        "text": "Efficiently manage repair requests, track progress, and maintain repair history."
+      },
+      {
+        "image": "/products/tcerp/inventory.png",
+        "title": "Spare Parts Inventory",
+        "text": "Manage spare parts inventory and ensure availability for maintenance tasks."
+      },
+      {
+        "image": "/products/tcerp/report.png",
+        "title": "Maintenance Reports",
+        "text": "Generate comprehensive reports on maintenance activities and equipment performance."
+      },
+      {
+        "image": "/products/tcerp/compliance.png",
+        "title": "Compliance Tracking",
+        "text": "Ensure compliance with maintenance schedules and regulatory requirements."
+      }
+    ]
+  },
+  "hrms":{
+    "mainTitle": "Plant Maintenance Management",
+    "heading": "Plant Maintenance",
+    "cards": [
+      {
+        "image": "/products/tcerp/plantmain.png",
+        "title": "Equipment Tracking",
+        "text": "Track and monitor all plant equipment with real-time status updates and maintenance history."
+      },
+      {
+        "image": "/products/tcerp/maintenance.png",
+        "title": "Preventive Maintenance",
+        "text": "Schedule and manage preventive maintenance tasks to minimize equipment downtime."
+      },
+      {
+        "image": "/products/tcerp/repair.png",
+        "title": "Repair Management",
+        "text": "Efficiently manage repair requests, track progress, and maintain repair history."
+      },
+      {
+        "image": "/products/tcerp/inventory.png",
+        "title": "Spare Parts Inventory",
+        "text": "Manage spare parts inventory and ensure availability for maintenance tasks."
+      },
+      {
+        "image": "/products/tcerp/report.png",
+        "title": "Maintenance Reports",
+        "text": "Generate comprehensive reports on maintenance activities and equipment performance."
+      },
+      {
+        "image": "/products/tcerp/compliance.png",
+        "title": "Compliance Tracking",
+        "text": "Ensure compliance with maintenance schedules and regulatory requirements."
+      }
+    ]
+  },
+  "finance-accounting":{
+    "mainTitle": "Plant Maintenance Management",
+    "heading": "Plant Maintenance",
+    "cards": [
+      {
+        "image": "/products/tcerp/plantmain.png",
+        "title": "Equipment Tracking",
+        "text": "Track and monitor all plant equipment with real-time status updates and maintenance history."
+      },
+      {
+        "image": "/products/tcerp/maintenance.png",
+        "title": "Preventive Maintenance",
+        "text": "Schedule and manage preventive maintenance tasks to minimize equipment downtime."
+      },
+      {
+        "image": "/products/tcerp/repair.png",
+        "title": "Repair Management",
+        "text": "Efficiently manage repair requests, track progress, and maintain repair history."
+      },
+      {
+        "image": "/products/tcerp/inventory.png",
+        "title": "Spare Parts Inventory",
+        "text": "Manage spare parts inventory and ensure availability for maintenance tasks."
+      },
+      {
+        "image": "/products/tcerp/report.png",
+        "title": "Maintenance Reports",
+        "text": "Generate comprehensive reports on maintenance activities and equipment performance."
+      },
+      {
+        "image": "/products/tcerp/compliance.png",
+        "title": "Compliance Tracking",
+        "text": "Ensure compliance with maintenance schedules and regulatory requirements."
+      }
+    ]
+  },
+  "imports-exports":{
+    "mainTitle": "Plant Maintenance Management",
+    "heading": "Plant Maintenance",
+    "cards": [
+      {
+        "image": "/products/tcerp/plantmain.png",
+        "title": "Equipment Tracking",
+        "text": "Track and monitor all plant equipment with real-time status updates and maintenance history."
+      },
+      {
+        "image": "/products/tcerp/maintenance.png",
+        "title": "Preventive Maintenance",
+        "text": "Schedule and manage preventive maintenance tasks to minimize equipment downtime."
+      },
+      {
+        "image": "/products/tcerp/repair.png",
+        "title": "Repair Management",
+        "text": "Efficiently manage repair requests, track progress, and maintain repair history."
+      },
+      {
+        "image": "/products/tcerp/inventory.png",
+        "title": "Spare Parts Inventory",
+        "text": "Manage spare parts inventory and ensure availability for maintenance tasks."
+      },
+      {
+        "image": "/products/tcerp/report.png",
+        "title": "Maintenance Reports",
+        "text": "Generate comprehensive reports on maintenance activities and equipment performance."
+      },
+      {
+        "image": "/products/tcerp/compliance.png",
+        "title": "Compliance Tracking",
+        "text": "Ensure compliance with maintenance schedules and regulatory requirements."
+      }
+    ]
+  },
+  "project":{
+    "mainTitle": "Plant Maintenance Management",
+    "heading": "Plant Maintenance",
+    "cards": [
+      {
+        "image": "/products/tcerp/plantmain.png",
+        "title": "Equipment Tracking",
+        "text": "Track and monitor all plant equipment with real-time status updates and maintenance history."
+      },
+      {
+        "image": "/products/tcerp/maintenance.png",
+        "title": "Preventive Maintenance",
+        "text": "Schedule and manage preventive maintenance tasks to minimize equipment downtime."
+      },
+      {
+        "image": "/products/tcerp/repair.png",
+        "title": "Repair Management",
+        "text": "Efficiently manage repair requests, track progress, and maintain repair history."
+      },
+      {
+        "image": "/products/tcerp/inventory.png",
+        "title": "Spare Parts Inventory",
+        "text": "Manage spare parts inventory and ensure availability for maintenance tasks."
+      },
+      {
+        "image": "/products/tcerp/report.png",
+        "title": "Maintenance Reports",
+        "text": "Generate comprehensive reports on maintenance activities and equipment performance."
+      },
+      {
+        "image": "/products/tcerp/compliance.png",
+        "title": "Compliance Tracking",
+        "text": "Ensure compliance with maintenance schedules and regulatory requirements."
+      }
+    ]
+  },
+  "design":{
+    "mainTitle": "Plant Maintenance Management",
+    "heading": "Plant Maintenance",
+    "cards": [
+      {
+        "image": "/products/tcerp/plantmain.png",
+        "title": "Equipment Tracking",
+        "text": "Track and monitor all plant equipment with real-time status updates and maintenance history."
+      },
+      {
+        "image": "/products/tcerp/maintenance.png",
+        "title": "Preventive Maintenance",
+        "text": "Schedule and manage preventive maintenance tasks to minimize equipment downtime."
+      },
+      {
+        "image": "/products/tcerp/repair.png",
+        "title": "Repair Management",
+        "text": "Efficiently manage repair requests, track progress, and maintain repair history."
+      },
+      {
+        "image": "/products/tcerp/inventory.png",
+        "title": "Spare Parts Inventory",
+        "text": "Manage spare parts inventory and ensure availability for maintenance tasks."
+      },
+      {
+        "image": "/products/tcerp/report.png",
+        "title": "Maintenance Reports",
+        "text": "Generate comprehensive reports on maintenance activities and equipment performance."
+      },
+      {
+        "image": "/products/tcerp/compliance.png",
+        "title": "Compliance Tracking",
+        "text": "Ensure compliance with maintenance schedules and regulatory requirements."
+      }
+    ]
+  },
+  "pos":{
+    "mainTitle": "Plant Maintenance Management",
+    "heading": "Plant Maintenance",
+    "cards": [
+      {
+        "image": "/products/tcerp/plantmain.png",
+        "title": "Equipment Tracking",
+        "text": "Track and monitor all plant equipment with real-time status updates and maintenance history."
+      },
+      {
+        "image": "/products/tcerp/maintenance.png",
+        "title": "Preventive Maintenance",
+        "text": "Schedule and manage preventive maintenance tasks to minimize equipment downtime."
+      },
+      {
+        "image": "/products/tcerp/repair.png",
+        "title": "Repair Management",
+        "text": "Efficiently manage repair requests, track progress, and maintain repair history."
+      },
+      {
+        "image": "/products/tcerp/inventory.png",
+        "title": "Spare Parts Inventory",
+        "text": "Manage spare parts inventory and ensure availability for maintenance tasks."
+      },
+      {
+        "image": "/products/tcerp/report.png",
+        "title": "Maintenance Reports",
+        "text": "Generate comprehensive reports on maintenance activities and equipment performance."
+      },
+      {
+        "image": "/products/tcerp/compliance.png",
+        "title": "Compliance Tracking",
+        "text": "Ensure compliance with maintenance schedules and regulatory requirements."
+      }
+    ]
+  }
+  }

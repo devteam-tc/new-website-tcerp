@@ -1,0 +1,182 @@
+{
+    "crm": {
+      "image": "/images/about-us/product-erp.png",
+      "subTitle": "About Tech Cloud ERP",
+      "titleLine1": "Smart ERP Software Solutions ",
+      "titleLine2": "to Transform Your ",
+      "highlight": "Business",
+      "description": "Tech Cloud ERP is a powerful cloud-based ERP software designed to enhance your operations from start to finish. With robust ERP tools, manage every aspect of your business in one place.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "End-to-End Integration" },
+        { "icon": "/images/about-us/about4.png", "title": "Custom Modules" }
+      ],
+      "list": [
+        "Manage finance, HR and sales seamlessly from a single, unified ERP software dashboard.",
+        "Monitor real-time performance with powerful Business Intelligence tools in your ERP system."
+      ],
+      "link": "/all-products/customer-relationship-management",
+      "linkText": "EXPLORE ERP"
+    },
+    "sales": {
+      "image": "/images/about-us/product-crm.png",
+      "subTitle": "About Tech Cloud CRM",
+      "titleLine1": "Smarter CRM Software  ",
+      "titleLine2": "for Stronger Customer ",   
+      "highlight": "Connections",
+      "description": "Tech Cloud CRM software empowers businesses to boost customer service, simplify sales processes and manage leads efficiently across all touchpoints in one unified platform.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Lead Management" },
+        { "icon": "/images/about-us/about4.png", "title": "Sales Pipeline" }
+      ],
+      "list": [
+        "Capture and nurture leads across multiple channels with intelligent CRM software tools",
+        "Monitor sales activities and track opportunities in real-time with a powerful, user-friendly CRM system. "
+      ],
+      "link": "/all-products/sales",
+      "linkText": "EXPLORE CRM"
+    },
+    "purchase-management": {
+      "image": "/images/about-us/product-pos.png",
+      "subTitle": "About Tech Cloud POS",
+      "titleLine1": "Upgrade retail efficiency with ",
+      "titleLine2": "smart",
+      "highlight": "POS",
+      "description": "Tech Cloud POS is a next-generation Point of Sale system built to enhance in-store efficiency, improve customer experience and simplify retail operations for businesses of all sizes.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Real-Time Synchronization" },
+        { "icon": "/images/about-us/about4.png", "title": "Omnichannel Ready" }
+      ],
+      "list": [
+        "Process transactions faster, manage sales and update inventory instantly across all store locations.",
+        "Easily integrate online and offline sales, accept multiple payment methods and keep your business connected with cloud-based technology."
+      ],
+      "link": "/all-products/purchase-management",
+      "linkText": "EXPLORE POS"
+    },
+    "inventory": {
+      "image": "/images/about-us/product-treding.png",
+      "subTitle": "About Tech Cloud Trading",
+      "titleLine1": "Real-time Data That ",
+      "titleLine2": "Drives Smarter ",
+      "highlight": "Decisions.",
+      "description": "Tech Cloud Trading is a smart ERP for trading business that simplifies wholesale, retail and distribution with real-time data, smooth team coordination and efficient operations.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Centralized Trading " },
+        { "icon": "/images/about-us/about4.png", "title": "Real-Time Stock &  Insights" }
+      ],
+      "list": [
+        "Manage sales, purchases, inventory and customer data in one unified platform to gain complete control and visibility across your operations.",
+        "Access instant updates on stock levels, pricing, orders and customer activity to make fast, informed decisions that boost efficiency and profitability."
+      ],
+      "link": "/all-products/inventory",
+      "linkText": "EXPLORE Trading"
+    },
+    "production": {
+      "image": "/images/about-us/product-ecommerce.png",
+      "subTitle": "About Tech Cloud Ecommerce",
+      "titleLine1": "Maximize Operational Efficiency  with One",
+      "titleLine2": " Ecommerce ",
+      "highlight": "ERP Platform ",
+      "description": "Tech Cloud Ecommerce ERP connects your online store with ERP systems to simplify sales, automate workflows, reduce errors and boost efficiency for both B2B and B2C businesses.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Unified Ecommerce" },
+        { "icon": "/images/about-us/about4.png", "title": "Real-Time Ecommerce " }
+      ],
+      "list": [
+        "Easily sync products, pricing, inventory and orders between your ERP and ecommerce for a smooth, accurate digital commerce experience.",
+        "With the best ecommerce ERP, you can see orders, inventory, customer behaviour and shipping in real time from a single dashboard."
+      ],
+      "link": "/all-modules/production",
+      "linkText": "EXPLORE Ecommerce"
+    },
+    "job-work": {
+      "image": "/images/about-us/product-hrm.png",
+      "subTitle": "About Tech Cloud HRM",
+      "titleLine1": "Tech Cloud HRMS",
+      "titleLine2": "Software ",
+      "highlight": "Overview",
+      "description": "Tech Cloud HRMS Software is an all-in-one Human Resource Management System built to simplify and optimize every stage of the employee lifecycle from recruitment to retirement. With advanced automation, centralized data and powerful insights, our platform empowers HR teams to focus more on people and less on paperwork.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Centralized HR " },
+        { "icon": "/images/about-us/about4.png", "title": "Real-Time Employee " }
+      ],
+      "list": [
+        "Unify core HR functions payroll, attendance, leave, recruitment and more in a single, integrated platform.",
+        "Access live dashboards and reports on workforce performance, engagement and operations to support data-driven HR decisions."
+      ],
+      "link": "/all-modules/job-work",
+      "linkText": "EXPLORE HRM"
+    },
+    "qc-qa": {
+      "image": "/images/about-us/product-finance.png",
+      "subTitle": "About Tech Cloud financial management",
+      "titleLine1": "Tech Cloud Financial Management",
+      "titleLine2": "Software ",
+      "highlight": "Overview",
+      "description": "Tech Cloud Financial Management Software is a comprehensive ERP module designed to streamline and automate your financial operations. From managing budgets to ensuring accurate reporting, this solution offers complete visibility and control over your organization’s financial health.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Unified Financial Control" },
+        { "icon": "/images/about-us/about4.png", "title": "Real-Time Financial " }
+      ],
+      "list": [
+        "Integrate all financial data and workflows in one system to maintain accuracy, improve compliance and speed up financial decision-making.",
+        "Access live dashboards and detailed reports to monitor your organization's cash flow, transactions and financial performance."
+      ],
+      "link": "/products/customer-relationship-management",
+      "linkText": "EXPLORE financial management"
+    },
+    "integrated-erp-software": {
+      "image": "/images/about-us/product-integrated-erp-software.png",
+      "subTitle": "About Tech Cloud Integrated",
+      "titleLine1": "Integrated With",
+      "titleLine2": "CRM, Ecommerce &",
+      "highlight": "POS",
+      "description": "Tech Cloud ERP Integrated with CRM, eCommerce and POS unites your key business functions on a single platform. Designed for modern enterprises, this module enhances operational efficiency by connecting sales, marketing, online commerce and retail billing processes allowing businesses to deliver seamless customer experiences across all channels.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Unified Sales & Customer" },
+        { "icon": "/images/about-us/about4.png", "title": "End-to-End Business" }
+      ],
+      "list": [
+        "Synchronize your sales pipeline, customer interactions and orders in real time to boost conversion rates and build stronger relationships.",
+        "Track inventory, manage online and offline sales and generate reports from a centralized interface to improve decision-making."
+      ],
+      "link": "/products/customer-relationship-management",
+      "linkText": "EXPLORE integrated"
+    },
+    "erp-for-restaraunt": {
+      "image": "/images/about-us/product-restaraunt.png",
+      "subTitle": "About Tech Cloud Restaraunt",
+      "titleLine1": "Tech Cloud Restaurant",
+      "titleLine2": " Software",
+      "highlight": "Overview",
+      "description": "Tech Cloud Restaurant ERP is a purpose-built ERP module designed for restaurants, cafés and food service businesses. It integrates POS, kitchen management, inventory and customer data into a unified platform to simplify restaurant operations and enhance guest satisfaction.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Integrated Front" },
+        { "icon": "/images/about-us/about4.png", "title": "Boost Efficiency" }
+      ],
+      "list": [
+        "Connect order taking, kitchen displays, billing and inventory tracking to ensure flawless execution at every stage of service.",
+        "AAutomate billing, reduce errors and enhance table turnaround times with streamlined restaurant workflows."
+      ],
+      "link": "/products/customer-relationship-management",
+      "linkText": "EXPLORE restaraunt"
+    },
+    "erp-for-accounting-software": {
+      "image": "/images/about-us/product-accounting.png",
+      "subTitle": "About Tech Cloud Accounting",
+      "titleLine1": "Tech Cloud Accounting",
+      "titleLine2": "Software",
+      "highlight": "Overview",
+      "description": "Tech Cloud Accounting Software provides robust tools to manage your day-to-day accounting, taxes, and compliance. Designed for Indian SMEs, the system ensures full GST and TDS compliance while helping you maintain clear financial records with minimal manual effort.",
+      "features": [
+        { "icon": "/images/about-us/about4.png", "title": "Simplify Bookkeeping" },
+        { "icon": "/images/about-us/about4.png", "title": "Cloud-Based Convenience" }
+      ],
+      "list": [
+        "From invoicing to tax returns, manage all your accounting operations with precision and real-time accuracy.",
+        "Access your financial data from anywhere, anytime, with secure, cloud-enabled access and automated backups."
+      ],
+      "link": "/products/customer-relationship-management",
+      "linkText": "EXPLORE accounting"
+    }
+  }

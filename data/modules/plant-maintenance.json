@@ -1,0 +1,87 @@
+{
+  "mainHeaderSection": {
+    "heading": "Plant Maintenance",
+    "maintitle": "Top Plant Maintenance Software for Every Operation",
+    "description": "Tech Cloud ERP’s Plant Maintenance module helps you keep your equipment in good condition. You can plan, track and complete maintenance tasks on time. This reduces breakdowns and keeps your operations running smoothly."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "Plan & Execute Maintenance with Ease",
+      "featuredesc": "Stay on top of your maintenance work by creating schedules, assigning technicians and tracking real-time progress. Automated reminders and clear task assignments allow your team to fix issues before they become expensive problems.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/plantmaintainence/module-1.webp",
+      "imageAlt": "Plant maintenance dashboard tracking"
+    },
+    {
+      "featuretitle": "Track Performance & Improve",
+      "featuredesc": "Track maintenance history and equipment health with informative reports and dashboards. Using this data you'll make better decisions, reduce inefficiencies and remain compliant with safety regulations.",
+     "featurelink": "Explore More",    
+       "dashboardImage": "/images/modules/plantmaintainence/module-2.webp",
+      "imageAlt": "Maintenance dashboard schedule reports"
+    },
+    {
+      "featuretitle": "Master Data Setup",
+      "featuredesc": " Our system allows you to create and maintain comprehensive records for all your equipment including specification, maintenance history and associated documents. Having reliable and accurate data in one place will lead to consistency and support efficient maintenance planning and implementation.",
+     "featurelink": "Explore More",   
+        "dashboardImage": "/images/modules/plantmaintainence/module-3.webp",
+      "imageAlt": "Plant maintenance master dashboard"
+    }
+  ],
+    "videosection": {
+      "title": "Keep Equipment Performing at Its Best",
+      "description": "Handle equipment upkeep with timely alerts and task tracking. This module supports both preventive and breakdown maintenance, so your machines stay in top shape.",
+      "thumbnail": "/images/modules/video-thumbnail.png",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "How can I schedule preventive maintenance for my equipment?",
+        "answer": " You can set up maintenance schedules based on time intervals, usage metrics or specific conditions. The system will automatically generate work orders to ensure timely maintenance."
+      },
+      {
+        "question": " Can I track the maintenance history of each machine?",
+        "answer": " Yes, Tech Cloud ERP maintains a detailed log of all maintenance activities, allowing you to review past services, repairs and inspections for each piece of equipment."
+      },
+      {
+        "question": "What is the Plant Maintenance module in ERP?",
+        "answer": " Plant Maintenance module handles scheduling and recording preventive and corrective maintenance for plant equipment and machinery."
+      },
+      {
+        "question": "Is it possible to manage spare parts inventory within the maintenance module?",
+        "answer": " Yes, the system integrates with inventory management, allowing you to track spare parts usage, manage stock levels and automate reordering processes."
+      }
+    
+    ]
+  }
+  }
+  

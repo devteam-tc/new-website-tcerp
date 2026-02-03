@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/beverage_banner_img.webp",
+  "altimg":"food & beverage processing line",
+  "heading" :"Food & Beverage Industry",
+  "title": "Modern ERP Software for Food and Beverage Industry",
+  "description": "Running a food and beverage business means dealing with strict quality standards, fast-moving inventory and evolving customer demands. ERP for the food and beverage industry helps you manage everything from sourcing and production to packaging and delivery. It ensures traceability, improves efficiency and keeps you compliant. With the right tools, you can stay agile and focus on delivering fresh, safe products.",
+  "keyPoints": [
+    "Recipe & Batch Management",
+    "Inventory & Supply Chain Management",
+    " Quality Control & Compliance",
+    "Financial Management & Cost Tracking",
+    "Expiry & Traceability"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/beverage-production.png",
+      "title": "Production Management",
+      "description": "Complete production and process management system that includes recipe standardization, production scheduling, quality checks, and waste reduction.",
+      "list": [
+        "Recipe Version Control",
+        "Batch Production",
+        "Yield Optimization"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/beverage-quality.png",
+      "title": "Analytics & Reporting",
+      "description": "Advanced analytics and reporting tools for actionable insights and better decision-making.",
+      "list": [
+        "Sales & Inventory Dashboards",
+        "Costing & Profitability Reports",
+        "Quality and Compliance Reports"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does an ERP system benefit food and beverage manufacturers?",
+      "answer": "An ERP system integrates various processes like inventory management, production planning, and quality control into a unified platform. This integration enhances operational efficiency, ensures compliance with food safety standards and provides better visibility across the supply chain."
+    },
+    {
+      "id": 2,
+      "question": "How does ERP help the food and beverage industry?",
+      "answer": "ERP software helps streamline batch production, track perishable inventory, maintain compliance with food safety regulations and improve efficiency in procurement, distribution and reporting."
+    },
+    {
+      "id": 3,
+      "question": "Can ERP software help with regulatory compliance in the food industry?",
+      "answer": "Yes, ERP software designed for the food sector includes features that assist in adhering to regulations by tracking batch information, managing recalls efficiently and maintaining detailed records required for audits."
+    }
+  ],
+  "industry": "Food & Beverage",
+  "solution": "Integrated Beverage Manufacturing System",
+  "modules": [
+    "Recipe Management",
+    "Production Control",
+    "Quality Assurance",
+    "Inventory Management",
+    "Distribution Control"
+  ],
+  "result": [
+    "35% increase in production efficiency",
+    "40% reduction in quality incidents",
+    "45% improvement in inventory accuracy"
+  ],
+  "customers": "300+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Beverage Solutions Brochure",
+    "buttonText": "Download Brochure"
+  }
+}

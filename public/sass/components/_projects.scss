@@ -1,0 +1,218 @@
+/*=============================
+	15. Projects CSS Start
+===============================*/
+// Projects section one
+.ep-project-section {
+	.project-item {
+		.overlay {
+			bottom: -20px;
+			left: 0;
+			width: 100%;
+			padding: 30px;
+			visibility: hidden;
+			opacity: 0;
+			transition: var(--bs-transition);
+
+			p {
+				color: var(--bs-white-color);
+				background-color: var(--bs-primary-color);
+				border-radius: 20px 20px 0px 0px;
+				padding: 4px 30px;
+				display: inline-block;
+			}
+
+			.title {
+				font-size: 22px;
+				font-weight: 700;
+				line-height: 36px;
+				background-color: var(--bs-white-color);
+				border-radius: 0px 20px 20px 20px;
+				padding: 17px 30px;
+
+				a {
+					color: var(--bs-black-color);
+
+					&:hover {
+						color: var(--bs-secondary-color);
+					}
+				}
+			}
+		}
+
+		&:hover {
+			.overlay {
+				visibility: visible;
+				opacity: 1;
+				bottom: 0;
+			}
+		}
+	}
+
+	.project-item+.project-item {
+		margin-top: 30px;
+	}
+}
+
+// Projects section two
+.ep-project-section-two {
+	padding-left: 40px;
+	padding-right: 40px;
+
+	@media (max-width:1399.98px) {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	@media (max-width:575.98px) {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet,
+	.swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+		margin: 0;
+	}
+
+	.project-item-two {
+		.overlay {
+			padding: 20px;
+			transition: var(--bs-transition);
+			visibility: hidden;
+			opacity: 0;
+
+			.text {
+				background-color: rgba(0, 68, 235, 0.8);
+
+				.title {
+					margin-bottom: 12px;
+
+					a {
+						color: var(--bs-white-color);
+					}
+				}
+
+				p {
+					color: var(--bs-white-color);
+					font-size: 18px;
+					font-weight: 400;
+					line-height: 28px;
+					letter-spacing: -0.36px;
+				}
+
+				.icon-box {
+					width: 70px;
+					height: 70px;
+				}
+
+				.read-more {
+					margin-top: 65px;
+
+					i {
+						font-size: 28px;
+						font-weight: 400;
+						color: var(--bs-black-color);
+					}
+
+					&:hover {
+						background-color: var(--bs-white-color);
+					}
+				}
+			}
+		}
+
+		&:hover {
+			.overlay {
+				visibility: visible;
+				opacity: 1;
+			}
+		}
+	}
+
+	.swiper-pagination-bullet {
+		background-color: var(--bs-white-color);
+		width: 50px;
+		height: 10px;
+		border: 0;
+		transition: var(--bs-transition);
+		opacity: 1;
+		margin: 0;
+		border-radius: 0;
+
+		@media (max-width:575.98px) {
+			width: 30px;
+		}
+
+		&:first-child {
+			border-top-left-radius: 50px !important;
+			border-bottom-left-radius: 50px !important;
+		}
+
+		&:last-child {
+			border-top-right-radius: 50px !important;
+			border-bottom-right-radius: 50px !important;
+		}
+	}
+
+	.swiper-pagination-bullet-active {
+		// width: 100px;
+		// border-radius: 50px;
+		background-color: var(--bs-primary-color);
+
+		@media (max-width:575.98px) {
+			width: 50px;
+		}
+	}
+}
+
+@media (max-width: 1199.98px) {
+	.ep-project-section-two .project-item-two .overlay .text .read-more {
+		margin-top: 32px;
+	}
+}
+
+@media (max-width: 767.98px) {
+	.ep-project-section-two .project-item-two .overlay .text .icon-box {
+		width: 55px;
+		height: 55px;
+	}
+
+	.ep-project-section-two .project-item-two .overlay .text p {
+		font-size: 16px;
+	}
+
+	.ep-project-section-two .project-item-two .overlay .text .title {
+		margin-bottom: 0;
+	}
+
+	.ep-project-section .project-item .overlay {
+		padding: 20px;
+	}
+}
+
+@media (max-width: 575.98px) {
+	.ep-project-section .project-item .text .title {
+		font-size: 20px;
+		padding: 17px 20px;
+	}
+
+	.ep-project-section .project-item .text p {
+		padding: 4px 20px;
+		font-size: 15px;
+	}
+
+	.ep-project-section .project-item:hover .text {
+		bottom: 17px;
+	}
+
+	.ep-project-section .project-item .text {
+		left: 17px;
+	}
+
+	.ep-project-section-two .projects-main {
+		padding: 0 12px;
+	}
+
+	.ep-project-section .project-item .overlay {
+		padding: 10px;
+	}
+}

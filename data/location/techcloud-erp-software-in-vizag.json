@@ -1,0 +1,54 @@
+
+{
+  "vizag": {
+    "title": "Scalable ERP Software in Vizag for Modern Enterprises",
+    "heading": "Best ERP Software In Vizag",
+    "image": "/images/contact/vizag.webp",
+    "description": "Tech Cloud ERP offers the best cloud-based ERP software in Vizag, tailored for manufacturing, trading and port-related industries. Our ERP in Vizag helps businesses streamline finance, inventory, HR and operations through a centralized platform. With scalable solutions for startups and large enterprises alike, we deliver real-time insights, enhanced productivity and smarter decision-making. Choose Tech Cloud ERP in Vizag to strengthen your operations and drive sustainable growth in the city’s evolving business landscape.",
+    "features": [
+      "Unified ERP Suite",
+      "Real-Time Data",
+      "Scalable System",
+      "Cloud Innovation",
+      "Smart Integration"
+    ],
+    "items": [
+      {
+        "icon": "/images/location/Vizag/OptimizeDaily.svg",
+        "alt": "Optimize Daily Operations",
+        "title": "Optimize Daily Operations",
+        "description": "Simplify complex business processes with ERP platforms designed for efficiency and accuracy."
+      },
+      {
+        "icon": "/images/location/Vizag/CustomModules.svg",
+        "alt": "Custom Modules",
+        "title": "Custom Modules",
+        "description": "Manage your sector-specific operations with ERP modules covering finance, inventory and HR."
+      },
+      {
+        "icon": "/images/location/Vizag/DeploymentOptions.svg",
+        "alt": "Deployment Options",
+        "title": "Deployment Options",
+        "description": "Select cloud or on-premise solutions for secure, scalable and flexible ERP usage."
+      },
+      {
+        "icon": "/images/location/Vizag/DataInsights.svg",
+        "alt": "Data Insights & Dashboards",
+        "title": "Data Insights & Dashboards",
+        "description": "Make better decisions with advanced analytics and reporting tools."
+      },
+      {
+        "icon": "/images/location/Vizag/ERPIntegration.svg",
+        "alt": "ERP Integration",
+        "title": "ERP Integration",
+        "description": "Connect seamlessly with existing systems for uninterrupted workflows."
+      },
+      {
+        "icon": "/images/location/Vizag/ExpertSupport.svg",
+        "alt": "Expert Support Team",
+        "title": "Expert Support Team",
+        "description": "Access professional help to maintain smooth operations and resolve issues quickly."
+      }
+    ]
+  }
+}

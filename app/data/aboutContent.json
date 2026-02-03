@@ -1,0 +1,105 @@
+{
+  "features": {
+    "sectionTitle": "Our Features",
+    "mainHeading": "Essential Features Designed for Real Needs",
+    "description": "We provide industry-leading features that set us apart and deliver exceptional value to our clients.",
+    "items": [
+      {
+        "icon": "/images/features/wordpress.svg",
+        "title": "WordPress",
+        "alt": "WordPress icon",
+        "description": "Built with modern WordPress architecture"
+      },
+      {
+        "icon": "/images/features/elementor.svg",
+        "title": "Elementor",
+        "alt": "Elementor icon",
+        "description": "Drag & drop page building"
+      },
+      {
+        "icon": "/images/features/woocommerce.svg",
+        "title": "WooCommerce Supported",
+        "alt": "WooCommerce icon",
+        "description": "Full e-commerce functionality"
+      },
+      {
+        "icon": "/images/features/contact-form.svg",
+        "title": "Contact Form 7",
+        "alt": "Contact Form 7 icon",
+        "description": "Advanced form handling"
+      },
+      {
+        "icon": "/images/features/rtl.svg",
+        "title": "RTL support",
+        "alt": "RTL support icon",
+        "description": "Right-to-left language support"
+      },
+      {
+        "icon": "/images/features/browser.svg",
+        "title": "Browser Compatibility",
+        "alt": "Browser Compatibility icon",
+        "description": "Works on all modern browsers"
+      },
+      {
+        "icon": "/images/features/mailchimp.svg",
+        "title": "Mailchimp Supported",
+        "alt": "Mailchimp icon",
+        "description": "Email marketing integration"
+      },
+      {
+        "icon": "/images/features/google-fonts.svg",
+        "title": "Google Fonts",
+        "alt": "Google Fonts icon",
+        "description": "800+ Google fonts available"
+      },
+      {
+        "icon": "/images/features/responsive.svg",
+        "title": "Responsive Design",
+        "alt": "Responsive Design icon",
+        "description": "Fully responsive on all devices"
+      },
+      {
+        "icon": "/images/features/color-scheme.svg",
+        "title": "Color Scheme",
+        "alt": "Color Scheme icon",
+        "description": "Unlimited color options"
+      },
+      {
+        "icon": "/images/features/support.svg",
+        "title": "Quick Support",
+        "alt": "Quick Support icon",
+        "description": "24/7 dedicated support"
+      },
+      {
+        "icon": "/images/features/clean-code.svg",
+        "title": "Clean Code",
+        "alt": "Clean Code icon",
+        "description": "Well-structured codebase"
+      },
+      {
+        "icon": "/images/features/documentation.svg",
+        "title": "Well Documented",
+        "alt": "Documentation icon",
+        "description": "Detailed documentation"
+      },
+      {
+        "icon": "/images/features/layouts.svg",
+        "title": "Awesome Layouts",
+        "alt": "Layouts icon",
+        "description": "Multiple layout options"
+      },
+      {
+        "icon": "/images/features/updates.svg",
+        "title": "Regular Updates",
+        "alt": "Updates icon",
+        "description": "Frequent updates & improvements"
+      },
+      {
+        "icon": "/images/features/minimal.svg",
+        "title": "Minimal & Clean",
+        "alt": "Minimal & Clean icon",
+        "description": "Clean and modern design"
+      }
+    ]
+  }
+}

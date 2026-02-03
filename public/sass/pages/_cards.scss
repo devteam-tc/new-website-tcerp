@@ -1,0 +1,478 @@
+.customImagesWrapper {
+  .accordion {
+    display: flex;
+    gap: 44px;
+
+    .accordionItem {
+      width: 25%;
+      height: 420px;
+      padding: 0;
+      border: 0;
+      border-radius: 12px;
+      overflow: hidden;
+      position: relative;
+      transition: all 0.5s;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .conteBox {
+        background: #fff;
+        border-radius: 12px;
+        padding: 36px 26px 36px 36px;
+        position: absolute;
+        bottom: 26px;
+        left: 50px;
+        transition: all 0.5s;
+        width: 0;
+        opacity: 0;
+
+        .serialInner {
+          margin-left: -26px;
+        }
+
+        .serial {
+          width: 40px;
+          height: 40px;
+          min-width: 40px;
+          margin: 10px 0px 5px 17px !important;
+          background: var(--bs-primary-600);
+          border-radius: 6px;
+          color: #fff;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .box {
+          max-width: 290px;
+        }
+      }
+
+      &.active {
+        width: 100%;
+
+        .conteBox {
+          opacity: 1;
+          width: initial;
+        }
+      }
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
+.serialblack{
+  margin: 5px 0px 0px 12px ;
+  color: #000;
+  
+}
+    // Responsive: max-width 1600px
+    @media screen and (max-width: 1600px) {
+      gap: 20px;
+
+      .accordionItem {
+        .conteBox {
+          padding: 22px 16px 22px 24px;
+          bottom: 26px;
+          left: 26px;
+
+          .serialInner {
+            margin-left: 0;
+          }
+
+          .serial {
+            width: 34px;
+            height: 34px;
+            min-width: 34px;
+          }
+        }
+      }
+    }
+
+    // Responsive: max-width 1199px
+    @media screen and (max-width: 1199px) {
+      gap: 16px;
+
+      .accordionItem {
+        .conteBox {
+          padding: 18px 12px 18px 18px;
+          bottom: 18px;
+          left: 18px;
+
+          .serial {
+            width: 32px;
+            height: 32px;
+            min-width: 32px;
+          }
+        }
+      }
+    }
+
+    // Responsive: max-width 768px
+    @media screen and (max-width: 768px) {
+      flex-wrap: wrap;
+
+      .accordionItem {
+        width: 100%;
+        height: 350px;
+
+        .conteBox {
+          left: 10px;
+          bottom: 10px;
+          margin: 10px;
+        }
+      }
+    }
+  }
+}
+
+
+
+// ================================
+// Our Service Section Styles
+// ================================
+.our-service-section {
+padding: 110px 0 170px;
+background-repeat: no-repeat;
+background-position: 50%;
+background-size: cover;
+
+.service-box {
+  position: relative;
+}
+
+.single-service-box {
+  background: url('/images/services/ser-box-bg.png');
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+  padding: 35px 10px 135px; 
+  border: 2px solid #fff;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.service-icon {
+  margin-bottom: 15px;
+  width: 75px;
+  height: 75px;
+  line-height: 75px;
+  border-radius: 50%;
+  background-color: #ff3c00;
+  text-align: center;
+}
+
+
+p.service-desc {
+  font-size: 16px;
+  line-height: 26px;
+  color: #7a7a7a;
+  padding-top: 18px;
+}
+
+
+
+}
+
+
+// ================================
+// Service Area Style Two
+// ================================
+
+.service-box {
+  position: relative;
+}
+
+.single-service-box {
+  background: url('/images/services/ser-box-bg.png') no-repeat 50%;
+  background-size: cover;
+  padding: 35px 30px 135px;
+  border: 2px solid #fff;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.service-icon {
+  margin-bottom: 15px;
+  width: 75px;
+  height: 75px;
+  line-height: 75px;
+  border-radius: 50%;
+  // background-color: #ff3c00;
+  text-align: center;
+
+  img {
+    filter: brightness(1) invert(0);
+    transition: 0.5s;
+  }
+}
+
+h4.service-title {
+  font-size: 20px;
+  color: #050a1e;
+  font-weight: 600;
+  transition: 0.5s;
+  position: relative;
+  &:hover {
+    color: #ff3c00;
+  }
+
+  &::before {
+    position: absolute;
+    content: "";
+    width: 80px;
+    height: 2px;
+    background-image: linear-gradient(270deg, #fff, #ff3b00);
+    left: 0;
+    bottom: -5px;
+  }
+}
+
+p.service-desc {
+  font-size: 16px;
+  line-height: 26px;
+  color: #7a7a7a;
+  padding-top: 18px;
+}
+
+.service-thumb {
+  position: absolute;
+  bottom: -80px;
+  left: 14px;
+
+  img {
+    width: 100%;
+  }
+}
+
+
+// Standalone styles (if needed outside .our-service-section)
+.service-icon {
+margin-bottom: 33px;
+}
+
+// ================================
+// Service Area Style Two
+// ================================
+
+// .pt-120 {
+//   padding-top: 120px;
+// }
+.section-padding {
+  padding: 120px 0;
+}
+.fix {
+  overflow: hidden !important;
+}
+.bg-color {
+  background: var(--bg);
+}
+.mb-60 {
+  margin-bottom: 60px;
+}
+.section-title-area {
+  display: flex
+;
+  justify-content: space-between;
+  position: relative;
+  z-index: 9;
+}
+.section-title {
+  position: relative;
+}
+.sub-badge {
+  letter-spacing: 2px;
+}
+.fs-seven {
+  font-size: 16px;
+  line-height: 150%;
+}
+// .p1-clr {
+//   color: var(--p1-clr) !important;
+// }
+.section-title h2 {
+  font-weight: 500;
+}
+
+.black {
+  color: var(--black);
+}
+.fadeInUp {
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+}
+.rounded100 {
+  border-radius: 100px;
+}
+.heading-font {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+
+// download
+.download-section.alternat-2 {
+  background: var(--bs-secondary-50);
+}
+.download-section {
+position: relative;
+}
+@media only screen and (max-width: 767px) {
+.download-section {
+    padding-bottom: 70px;
+}
+}
+.pb_120 {
+padding-bottom: 120px;
+@media only screen and (max-width: 767px) {
+    padding-bottom: 50px;
+}
+}   
+.pt_120 {
+padding-top: 120px;
+@media only screen and (max-width: 767px) {
+    padding-top: 50px;
+}
+}   
+.download-section.alternat-2 .inner-container {
+background: #fff;
+}
+
+.download-section .inner-container {
+position: relative;
+display: block;
+background: #eff2e6;
+border-radius: 10px;
+overflow: hidden;
+padding: 50px;
+
+@media only screen and (max-width: 991px) {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+@media (max-width: 767px) {
+  padding: 40px 40px 80px 40px;
+}
+@media only screen and (max-width: 599px) {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+}
+.download-section .inner-container .pattern-layer {
+position: absolute;
+left: 0;
+top: 0;
+width: 100%;
+height: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: 50%;
+}
+
+.download-section .content-box {
+position: relative;
+display: block;
+}
+.download-section .content-box h2 {
+display: block;
+font-size: 48px;
+line-height: 53px;
+margin-bottom: 24px;
+}
+@media only screen and (max-width: 767px) {
+.download-section .content-box h2 {
+    font-size: 32px;
+    line-height: 44px;
+}
+}
+.mb_30 {
+margin-bottom: 30px;
+}
+.download-section .content-box .list-item li {
+position: relative;
+display: block;
+font-size: 16px;
+line-height: 26px;
+color: var(--title-color);
+padding-left: 36px;
+margin-bottom: 12px;
+}
+.download-section .content-box .list-item li:before {
+position: absolute;
+content: "";
+background-image: url('/images/servicescards/start-green.png');
+left: 0;
+top: 1px;
+width: 24px;
+height: 24px;
+background-repeat: no-repeat;
+}
+.theme-btn {
+position: relative;
+display: inline-block;
+overflow: hidden;
+vertical-align: middle;
+font-size: 16px;
+line-height: 30px;
+font-weight: 500;
+color: #111111 !important;
+text-align: center;
+border-radius: 50px;
+padding: 15px 40px;
+z-index: 1;
+transition: all .5s ease-in-out 0s;
+}
+.theme-btn:after, .theme-btn:before {
+position: absolute;
+content: "";
+width: 0;
+height: 100%;
+top: 0;
+z-index: -1;
+background: #26472B;
+transition: all .5s ease;
+}
+
+.theme-btn:before {
+left: 0;
+transform: translateX(0);
+transform-origin: left center;
+}
+.download-section .image-box {
+position: relative;
+display: block;
+}
+.download-section .image-box .image {
+position: relative;
+display: inline-block;
+border-radius: 10px;
+box-shadow: 20px 24px 20px 0 rgba(0, 0, 0, .2);
+}
+figure {
+margin: 0;
+}
+.download-section .image-box .image img {
+width: 100%;
+border-radius: 10px;
+}
+img {
+display: inline-block;
+max-width: 100%;
+height: auto;
+transition-delay: .1s;
+transition-timing-function: ease-in-out;
+transition-duration: .7s;
+transition-property: all;
+}
+.icon-box.no-rotate {
+transform: none !important;
+transition: none !important;
+
+svg {
+  transform: none !important;
+  transition: none !important;
+}
+}

@@ -1,0 +1,23 @@
+{
+    "steps": [
+      {
+        "title": "1.Choose Your Plan",
+        "description": "Select a plan that fits your business startup, SME or enterprise with essential ERP features and room to grow.",
+        "img": "/images/pricing/choose.png"
+      },
+      {
+        "title": "2.Setup & Customization",
+        "description": "Our team configures your ERP system to match your workflows ensuring a smooth and tailored setup.",
+        "img": "/images/pricing/setup.png"
+      },
+      {
+        "title": "3.Go Live & Scale",
+        "description": "Start managing everything on one platform with the flexibility to add users, tools and modules as needed.",
+        "img": "/images/pricing/live.png"
+      }
+    ],
+    "header": {
+      "title": "How It Works?",
+      "description": "Getting started with TCERP is simple, seamless, and scalable"
+    }
+  }

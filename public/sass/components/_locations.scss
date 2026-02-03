@@ -1,0 +1,101 @@
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.locations-page {
+  &__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+  }
+
+  &__card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+
+    &.shimmer {
+      .shimmer-image {
+        height: 200px;
+        background: linear-gradient(to right, #f6f7f8 8%, #edeef1 18%, #f6f7f8 33%);
+        background-size: 2000px 100%;
+        animation: shimmer 2s infinite linear;
+      }
+
+      .shimmer-title {
+        height: 24px;
+        width: 80%;
+        margin: 1rem;
+        background: linear-gradient(to right, #f6f7f8 8%, #edeef1 18%, #f6f7f8 33%);
+        background-size: 2000px 100%;
+        animation: shimmer 2s infinite linear;
+        border-radius: 4px;
+      }
+
+      .shimmer-description {
+        height: 60px;
+        width: 90%;
+        margin: 1rem;
+        background: linear-gradient(to right, #f6f7f8 8%, #edeef1 18%, #f6f7f8 33%);
+        background-size: 2000px 100%;
+        animation: shimmer 2s infinite linear;
+        border-radius: 4px;
+      }
+
+      .shimmer-button {
+        height: 36px;
+        width: 120px;
+        margin: 1rem;
+        background: linear-gradient(to right, #f6f7f8 8%, #edeef1 18%, #f6f7f8 33%);
+        background-size: 2000px 100%;
+        animation: shimmer 2s infinite linear;
+        border-radius: 4px;
+      }
+    }
+
+    &-image {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+
+    h3 {
+      margin: 1rem;
+      font-size: 1.25rem;
+      color: #333;
+    }
+
+    p {
+      // margin: 1rem;
+      color: #666;
+      line-height: 1.5;
+    }
+
+    &-button {
+      display: inline-block;
+      margin: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: #4f46e5;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+
+      &:hover {
+        background-color: #4338ca;
+      }
+    }
+  }
+} 

@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/wood_banner_img.webp",
+  "altimg":"Wood ERP automated log cutting",
+  "heading" :"Wood Industry",
+  "title": "Scalable Wood Industry ERP for Manufacturing",
+  "description": "Wood manufacturing ERP software is custom-built for businesses in the wood products and furniture industry. It handles everything from material planning and cut-list creation to production tracking, inventory management and finance all within a unified platform. With integration into design tools and real-time visibility across your workshop, you gain control over project costs, job status and delivery timelines from start to finish",
+  "keyPoints": [
+    "Procurement & Raw Material Management",
+    "Job Work & Production Planning",
+    " Machine Scheduling & Optimization",
+    " Inventory & Warehouse Management",
+    "Billing, Dispatch & Financials"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/wood-production.png",
+      "title": "Production & Job Work Management",
+      "description": "Plan and execute timber and furniture production efficiently",
+      "list": [
+        "Job Card Generation",
+        "Real-Time Production Tracking",
+        " Machine & Manpower Allocation"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/wood-quality.png",
+      "title": "Inventory & Material Usage",
+      "description": "Accurate stock control for wood, laminates, hardware and fittings",
+      "list": [
+        "Automated Stock Movement Logs",
+        " Waste & Scrap Management",
+        "Vendor Reorder Alerts & Supplier Integration"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does Wood ERP improve inventory and material planning?",
+      "answer": "It offers a clear overview of stock levels-from timber and hardware to finished goods-and keeps track of multi-branch inventory in real time. The system also supports automated reorder alerts, ensuring the right materials are available exactly when needed."
+    },
+    {
+      "id": 2,
+      "question": "How does ERP software help in wood manufacturing?",
+      "answer": " It automates procurement, optimizes cutting plans, schedules production and tracks inventory to minimize waste and improve efficiency."
+    },
+    {
+      "id": 3,
+      "question": "Can it integrate with design software and cut-list tools?",
+      "answer": "Yes. Wood ERP connects with CAD and cut‑list applications, bringing design specs straight into production workflows. This reduces manual entry, minimizes waste and ensures jobs align with exact measurements and materials."
+    }
+  ],
+  "industry": "Wood ",
+  "solution": "Integrated Wood Manufacturing System",
+  "modules": [
+    "Resource Management",
+    "Production Control",
+    "Quality Assurance",
+    "Inventory Management",
+    "Sustainability Tracking"
+  ],
+  "result": [
+    "40% improvement in material yield",
+    "35% reduction in waste",
+    "45% better inventory accuracy"
+  ],
+  "customers": "300+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Wood Industry Guide",
+    "buttonText": "Download Brochure"
+  }
+}

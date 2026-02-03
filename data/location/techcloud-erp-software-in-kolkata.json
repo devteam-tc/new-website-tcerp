@@ -1,0 +1,53 @@
+{
+  "kolkata": {
+    "title": "Top ERP Software in Kolkata to Transform Your Business",
+    "heading": "Best ERP in Kolkata",
+    "image": "/images/contact/kolkata.webp",
+    "description": "Tech Cloud ERP offers advanced cloud-based ERP software in Kolkata, designed to meet the needs of trading, logistics, and manufacturing firms. Our ERP in Kolkata empowers businesses with seamless integration across finance, HR, and operations, helping you reduce costs and boost efficiency. From startups to established enterprises, our scalable ERP solutions provide real-time visibility and control. Partner with Tech Cloud ERP in Kolkata to drive smarter growth and long-term success.",
+    "features": [
+      "Efficient Operations",
+      "Real-Time Tracking",
+      "Smart Data Access",
+      "Scalable ERP Suite",
+      "Automated Reporting"
+    ],
+    "items": [
+      {
+        "icon": "/images/location/Kolkata/BusinessProcess.svg",
+        "alt": "Business Process Optimization",
+        "title": "Business Process Optimization",
+        "description": "Enhance efficiency with ERP platforms that simplify daily operations and reduce manual effort."
+      },
+      {
+        "icon": "/images/location/Kolkata/Industry-Ready.svg",
+        "alt": "Industry-Ready Modules",
+        "title": "Industry-Ready Modules",
+        "description": "Manage finance, HR, inventory and sales with modules designed specifically for your business needs."
+      },
+      {
+        "icon": "/images/location/Kolkata/DeploymentFlexibility.svg",
+        "alt": "Deployment Flexibility",
+        "title": "Deployment Flexibility",
+        "description": "Select from cloud or on-premise options to suit your business scale and IT environment."
+      },
+      {
+        "icon": "/images/location/Kolkata/AnalyticalReporting.svg",
+        "alt": "Analytical Reporting",
+        "title": "Analytical Reporting",
+        "description": "Turn data into insights with reporting and dashboards that help monitor business performance closely."
+      },
+      {
+        "icon": "/images/location/Kolkata/SmoothERP.svg",
+        "alt": "Smooth ERP Integration",
+        "title": "Smooth ERP Integration",
+        "description": "Connect your ERP system with other business tools for consistent workflow management."
+      },
+      {
+        "icon": "/images/location/Kolkata/ResponsiveTechnical.svg",
+        "alt": "Responsive Technical Support",
+        "title": "Responsive Technical Support",
+        "description": "Get timely support to solve issues and keep your ERP running efficiently."
+      }
+    ]
+  }
+}

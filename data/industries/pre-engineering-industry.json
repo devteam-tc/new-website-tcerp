@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/preengineering_banner_img.webp",
+  "altimg":"Steel structure pre engineered building",
+    "heading" :"Pre-engineering Industry",
+  "title": "Pre-Engineering Industry ERP Software That Delivers Results",
+  "description": "Pre-engineered building (PEB) projects require precise planning, material control and smooth coordination across teams. ERP software helps manage the entire workflow efficiently from design and procurement to fabrication and delivery keeping projects on track and within budget. It also improves visibility, reduces manual errors and supports better decision-making throughout the project lifecycle.",
+  "keyPoints": [
+    "Project Estimation & BOM Management",
+    "Design Approval & Workflow Automation",
+    "Procurement & Material Management",
+    "Production Planning & Resource Allocation",
+    "Costing, Delivery & Post-Project Analysis"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/preengineering-design.png",
+      "title": "Project Estimation",
+      "description": "Generate detailed job quotes and manage project costing with complete accuracy",
+      "list": [
+        "Multi-level BOM Creation",
+        "Auto Material Requirement Planning (MRP)",
+        "Dynamic Cost Estimation Linked to Market Rates"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/preengineering-fabrication.png",
+      "title": "Production Planning",
+      "description": "Automate schedules and track engineering progress across departments",
+      "list": [
+        "Machine & Manpower Allocation",
+        "Real-Time Project Progress Dashboard",
+        "Work Order Management with Status Alerts"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What makes this ERP suitable for the pre-engineering industry?",
+      "answer": "Our ERP for pre engineering offers industry-specific modules for structural design, project-based workflows and cost control—ideal for fabrication and modular construction businesses."
+    },
+    {
+      "id": 2,
+      "question": "Can it handle complex engineering project workflows?",
+      "answer": "Yes. This engineering ERP software supports multi-phase projects with detailed task breakdowns, design versioning and milestone tracking."
+    },
+    {
+      "id": 3,
+      "question": "Is the ERP scalable for growing engineering firms?",
+      "answer": "Yes. Whether you're scaling up fabrication units or expanding project capacity, the engineering ERP grows with your business through modular upgrades."
+    }
+  ],
+  "industry": "Pre-engineering",
+  "solution": "Integrated Pre-engineering Management System",
+  "modules": [
+    "Design Management",
+    "Project Control",
+    "Material Planning",
+    "Quality Assurance",
+    "Installation Management"
+  ],
+  "result": [
+    "45% faster project completion",
+    "40% reduction in material waste",
+    "35% better design accuracy"
+  ],
+  "customers": "250+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Pre-engineering Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

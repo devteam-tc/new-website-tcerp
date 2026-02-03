@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/textile_banner_img.webp",
+  "altimg":"Textile ERP automated fabric machines",
+  "heading" :"Textile Industry",
+  "title": "Best Textile ERP Software for Modern Manufacturers",
+  "description": "Textile ERP software is designed to meet the unique demands of textile and apparel manufacturers. It handles every step from raw material procurement and production scheduling to quality control, inventory tracking and finance in one integrated platform. Whether you're making yarn or finished garments, this solution gives you real-time insights, improves coordination across teams and helps you to respond swiftly in changing orders and market trends",
+  "keyPoints": [
+    "Yarn, Fabric & Garment Production Management",
+    "Inventory & Raw Material Control",
+    "Design, Sampling & Order Tracking",
+    "Quality Control & Compliance",
+    "Finance & Costing Automation"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/textile-production.png",
+      "title": "Production & Inventory Management",
+      "description": "Manage end-to-end processes with advanced ERP software for textile industry",
+      "list": [
+        "Yarn, Weaving, Knitting & Dyeing Automation",
+        "Stock Tracking for Raw, Semi & Finished Goods",
+        "Wastage Monitoring & Lot Traceability"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/textile-quality.png",
+      "title": "Design & Order Management",
+      "description": "Centralize your design workflow with smart textile design software",
+      "list": [
+        "Sampling, Tech-Pack & Style Management",
+        "Order Status, Customer Approvals & Lead Time Control",
+        "Integrated Sales & Dispatch Planning"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does textile ERP software help in production?",
+      "answer": "It automates key processes such as spinning, weaving, dyeing and finishing—reducing delays and improving accuracy throughout the supply chain."
+    },
+    {
+      "id": 2,
+      "question": "How does Textile ERP simplify production and supply chain?",
+      "answer": "Textile ERP brings procurement, production planning, inventory management and warehousing into a single system. It automates order handling, batch tracking and stock monitoring so you can adapt to demand changes, reduce waste and keep everything running smoothly."
+    },
+    {
+      "id": 3,
+      "question": "Is Textile ERP suitable for handling multiple product types and variations?",
+      "answer": "Yes, it supports a wide range of textile products like yarn, fabric, garments and home textiles with features for managing sizes, colors, designs and custom orders. This makes it easier to handle complex product structures and deliver accurate results without confusion."
+    }
+  ],
+  "industry": "Textile",
+  "solution": "Integrated Textile Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Quality Management",
+    "Material Planning",
+    "Process Monitoring",
+    "Color Management"
+  ],
+  "result": [
+    "45% improvement in production efficiency",
+    "40% reduction in quality issues",
+    "35% better color consistency"
+  ],
+  "customers": "300+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Textile Manufacturing Guide",
+    "buttonText": "Download Brochure"
+  }
+}

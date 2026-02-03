@@ -1,0 +1,19 @@
+.contents {
+    display: flex;
+    gap: 20px; // Adds space between the images
+    justify-content: center; // Centers the images horizontally
+    align-items: center; 
+ 
+
+    @media (max-width: 992px) {
+      .contents{
+        display: none;
+      }
+    }
+
+
+    img {
+      max-width: 100%; // Ensures images are responsive
+      height: auto; // Maintains aspect ratio
+    }
+  }

@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/electricalandelectronics_banner_img.webp",
+  "altimg": "Electrical components and circuit boards",
+  "heading": "Electrical & Electronics Trading",
+  "title": "Streamline Your Electrical & Electronics Trading with ERP Solutions",
+  "description": "Optimize your electrical and electronics trading operations with our specialized ERP solution. Manage complex inventory, streamline procurement, track warranties, and provide exceptional customer service while handling thousands of SKUs efficiently across multiple locations.",
+  "keyPoints": [
+    "Multi-location Inventory Management",
+    "Barcode & Serial Number Tracking",
+    "Warranty & RMA Management",
+    "Supplier & Vendor Management",
+    "Real-time Stock Availability"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/inventory-and-stock-control.png",
+      "title": "Inventory & Stock Control",
+      "description": "Efficiently manage thousands of SKUs with real-time tracking and automated reordering capabilities for optimal stock levels.",
+      "list": [
+        "Barcode & QR Code Scanning",
+        "Multi-warehouse Management",
+        "Automated Stock Replenishment"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/supplier-and-purchase-management.png",
+      "title": "Supplier & Purchase Management",
+      "description": "Streamline your procurement process with automated purchase orders and supplier performance tracking.",
+      "list": [
+        "Vendor Performance Analytics",
+        "Automated PO Generation",
+        "Lead Time Optimization"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does the system handle warranty management for electronic components?",
+      "answer": "Our ERP includes comprehensive warranty tracking that automatically logs warranty periods, validates claims, and processes RMAs, helping you manage warranties efficiently and reduce costs."
+    },
+    {
+      "id": 2,
+      "question": "Can the system manage products with multiple variants and specifications?",
+      "answer": "Yes, it supports complex product configurations with multiple variants, specifications, and compatibility matrices, making it ideal for the diverse range of products in the electrical and electronics sector."
+    },
+    {
+      "id": 3,
+      "question": "How does the system help with price management for electronic components?",
+      "answer": "The system supports multiple pricing tiers, quantity breaks, and special pricing agreements, allowing you to maintain competitive pricing while protecting your margins."
+    }
+  ],
+  "industry": "Electrical & Electronics Trading",
+  "solution": "Integrated Trading Management System",
+  "modules": [
+    "Inventory & Warehouse Management",
+    "Purchase & Supplier Management",
+    "Sales & Customer Management",
+    "Warranty & RMA Tracking",
+    "Financial Management"
+  ],
+  "result": [
+    "45% improvement in order accuracy",
+    "35% reduction in excess inventory",
+    "50% faster order processing"
+  ],
+  "customers": "350+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": "",
+    "spanTitle": "Electrical & Electronics Trading Guide",
+    "buttonText": "Download Brochure"
+  }
+}

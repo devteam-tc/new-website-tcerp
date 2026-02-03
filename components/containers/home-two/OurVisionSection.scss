@@ -1,0 +1,170 @@
+.our-vision-section {
+//   padding: 80px 0;
+  background-color: var(--bs-secondary-20);
+
+  .section-title {
+    margin-bottom: 30px;
+
+    .vision-title {
+      font-size: 40px;
+      font-weight: 700;
+      margin-bottom: 5px;
+      color: #000;
+    }
+
+    .description {
+      font-size: 18px;
+      line-height: 1.6;
+      color: #666;
+      text-align: justify;
+      @media screen and (max-width : 525px) {
+        font-size: 15px;
+      }
+    }
+  }
+
+  .vision-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: stretch;
+    min-height: 400px;
+  }
+
+  .vision-card {
+    flex: 1;
+    height: 100%;
+    min-height: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 30px;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+
+    &.blue {
+      background-color: #00B6D6;
+      color: white;
+      height: 400px;
+      border: 3px solid var(--bs-secondary-50);
+      box-shadow: 0 10px 20px rgba(173, 216, 230, 0.5019607843), 0 6px 6px rgba(173, 216, 230, 0.7019607843);
+    }
+
+    &.orange {
+      background-color: #F15A2B;
+      color: white;
+      height: 400px;
+      border: 3px solid var(--bs-primary-50);
+      box-shadow: 0 10px 20px rgba(173, 216, 230, 0.5019607843), 0 6px 6px rgba(173, 216, 230, 0.7019607843);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+      padding: 10px 20px 10px 10px;
+            gap: 15px;
+      border-radius: 100px;
+      width: fit-content;
+      border: 1px solid #fff;
+    //   justify-content: end;
+      background-color: var(--bs-secondary-400);
+
+      .icon {
+        width: 40px;
+        height: 40px;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        i {
+          font-size: 20px;
+          color: white;
+        }
+      }
+
+      h3 {
+        margin: 0;
+        font-size: 20px;
+        font-weight: 500;
+        color: white;
+      }
+    }
+    .card-header-orange {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+        padding: 10px 20px 10px 10px;
+        gap: 15px;
+        width: fit-content;
+        border-radius: 100px;
+        border: 1px solid #fff;
+        // justify-content: end;
+        background-color: var(--bs-primary-400);
+        @media screen and (max-width : 992px) {
+          width: fit-content;
+        }
+        .icon {
+          width: 40px;
+          height: 40px;
+          background: rgba(255, 255, 255, 0.2);
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+  
+          i {
+            font-size: 20px;
+            color: white;
+          }
+        }
+  
+        h3 {
+          margin: 0;
+          font-size: 20px;
+          font-weight: 500;
+          color: white;
+        }
+      }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      margin: 0;
+      color: rgba(255, 255, 255, 0.9);
+      @media (min-width: 525px) {
+        font-size: 15px;
+      }
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  .our-vision-section {
+    .vision-cards {
+      flex-direction: row;
+      gap: 30px;
+      align-items: stretch;
+    }
+    .vision-card {
+      flex: 1;
+      height: 100%;
+      min-height: 320px;
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  .our-vision-section {
+    .section-title {
+        .vision-title {
+        font-size: 36px;
+      }
+    }
+  }
+}

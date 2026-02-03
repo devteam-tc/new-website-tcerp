@@ -1,0 +1,431 @@
+// Combined Industries Styles
+
+// Service Section Styles
+.service-section {
+  position: relative;
+
+  @media only screen and (max-width: 767px) {
+    padding: 70px 0 40px;
+  }
+}
+
+// Service Block Styles
+.service-block-one {
+  .inner-box {
+    position: relative;
+    display: block;
+    padding: 0 30px 40px;
+    margin-bottom: 30px;
+    z-index: 1;
+    overflow: hidden;
+
+    &::before {
+      position: absolute;
+      content: '';
+      background: #fff;
+      width: 100%;
+      height: calc(100% - 90px);
+      left: 0;
+      bottom: 0;
+      box-shadow: 0 0 80px rgba(0, 0, 0, 0.06);
+      z-index: -1;
+      border-radius: 10px;
+      transition: all 0.5s ease;
+    }
+
+    &:hover::before {
+      box-shadow: 0 20px 80px rgba(0, 0, 0, 0.1);
+    }
+
+    .image-box {
+      position: relative;
+      overflow: hidden;
+      border-radius: 10px 10px 0 0;
+
+      .image,
+      .overlay-image {
+        position: relative;
+        width: 100%;
+        border-radius: 10px 10px 0 0;
+
+        img {
+          width: 100%;
+          height: auto;
+          display: block;
+          border-radius: 10px 10px 0 0;
+        }
+      }
+
+      .overlay-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        transform: translateY(-100%);
+        opacity: 0;
+        z-index: 2;
+        transition: transform 0.6s ease, opacity 0.6s ease;
+      }
+    }
+
+    &:hover .overlay-image {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    .lower-content {
+      padding: 33px 10px 0;
+
+      h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 14px;
+
+        a {
+          color: var(--title-color);
+          transition: color 0.3s ease;
+
+          &:hover {
+            color: var(--secondary-color);
+          }
+        }
+      }
+
+      p {
+        margin-bottom: 30px;
+      }
+
+      .theme-btn {
+        background: #fff;
+        border: 1px solid #e5e5e5;
+        padding: 9px 40px;
+        transition: all 0.3s ease;
+        color: #000;
+        
+        &:hover {
+          background: var(--bs-secondary-color);
+          border-color: var(--bs-secondary-color);
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
+// Industry Section Styles
+.industry-section {
+
+  .header {
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+
+    @media (max-width: 768px) {
+      margin-bottom: 10px;
+    }
+    @media (max-width: 992px) {
+      font-size: 22px;
+    }
+  }
+
+  .industry-count {
+    font-size: 16px;
+    margin: 10px;
+    color: #e85600;
+    cursor: pointer;
+    transition: color 0.3s ease;
+
+    &:hover {
+      text-decoration: underline;
+      color: #b34400;
+    }
+
+    @media (max-width: 992px) {
+      font-size: 14px;
+    }
+  }
+
+  .industry-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 40px;
+    position: relative;
+    padding: 8px;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    flex-direction: row;
+    
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    @media (max-width: 520px) {
+         flex-direction: column;
+    }
+    @media (max-width: 768px) {
+      padding: 0px;
+      gap: 0px !important;
+      margin: 0 10px 15px;
+      justify-content: space-between;
+   
+
+    }
+
+    .industry-tab {
+      position: relative;
+      padding: 12px 28px;
+      border: none;
+      background: transparent;
+      color: #666;
+      font-size: 15px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border-radius: 12px;
+      overflow: hidden;
+      z-index: 1;
+      white-space: nowrap;
+      flex-shrink: 0;
+
+      .full-name {
+        display: inline;
+      }
+
+      .short-name {
+        display: none;
+      }
+
+      @media (max-width: 768px) {
+        padding: 8px 12px;
+        font-size: 13px;
+        margin: 0;
+        flex: 1;
+        text-align: center;
+        min-width: 0;
+
+        .full-name {
+          display: none;
+        }
+
+        .short-name {
+          display: inline;
+        }
+      }
+
+      &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        // background: linear-gradient(45deg, #e85600, #ff7e33);
+        background: linear-gradient(45deg, var(--bs-primary-500), var(--bs-primary-700));
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        z-index: -1;
+        border-radius: 12px;
+      }
+
+      &:hover {
+        color: #e85600;
+        background: rgba(232, 86, 0, 0.05);
+      }
+
+      &.active {
+        color: #fff;
+        font-weight: 600;
+
+        &::before {
+          opacity: 1;
+        }
+
+        &:hover {
+          background: transparent;
+        }
+      }
+    }
+  }
+
+  // Add a subtle animation for tab switching
+  @keyframes tabSwitch {
+    0% {
+      opacity: 0;
+      transform: translateY(5px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .industry-card {
+    animation: tabSwitch 0.3s ease-out;
+  }
+
+  .industry-card {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 24px;
+    background: #f9f9f9;
+    box-shadow: 0 10px 20px #add8e680, 0 6px 6px #add8e6b3;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    animation: fadeInUp 0.6s ease both;
+    position: relative;
+    overflow: hidden;
+    height: 160px;
+    width: 100%;
+    cursor: pointer;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+
+    @media (max-width: 768px) {
+      height: 200px;
+      padding: 15px;
+      margin-bottom: 15px;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      display: flex;
+    }
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 50%;
+      height: 100%;
+      background: linear-gradient(
+        to right,
+        transparent,
+        rgba(255, 255, 255, 0.3),
+        transparent
+      );
+      transform: skewX(-25deg);
+      transition: 0.5s;
+    }
+
+    &:hover {
+      transform: translateY(-5px);
+      background: rgba(255, 255, 255, 0.9);
+      box-shadow: 0 15px 30px rgba(173, 216, 230, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+
+      &::before {
+        left: 150%;
+      }
+
+      .icon-wrapper {
+        transform: scale(1.1);
+        background: rgba(255, 255, 255, 0.9);
+        box-shadow: 0 8px 20px rgba(232, 86, 0, 0.15);
+      }
+
+      .title {
+        color: #e85600;
+      }
+    }
+
+    .icon-wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 80px;
+      height: 80px;
+      background-color: #fff;
+      border-radius: 50%;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+      margin-right: 20px;
+      flex-shrink: 0;
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+
+      @media (max-width: 768px) {
+        width: 65px;
+        height: 65px;
+        margin-right: 0;
+        margin-bottom: 12px;
+      }
+
+      .icon {
+        width: 40px;
+        height: 40px;
+        color: #e85600;
+        border-radius: 0px !important;
+
+        @media (max-width: 768px) {
+          width: 32px;
+          height: 32px;
+        }
+      }
+    }
+
+    .card-content {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100%;
+
+      @media (max-width: 768px) {
+        align-items: center;
+        justify-content: flex-start;
+        height: auto;
+      }
+
+      .title {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 5px;
+        line-height: 1.2;
+        color: var(--bs-primary-500);
+        transition: color 0.3s ease;
+
+        @media (max-width: 768px) {
+          font-size: 15px;
+          margin-bottom: 8px;
+          line-height: 1.3;
+        }
+      }
+
+      p {
+        color: #666;
+        margin: 0;
+        text-align: left;
+        font-size: 15px;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+
+        @media (max-width: 768px) {
+          font-size: 13px;
+          text-align: center;
+          -webkit-line-clamp: 2;
+          line-height: 1.3;
+          margin-top: 5px;
+          height: 34px; // Ensures consistent height for 2 lines
+        }
+      }
+    }
+  }
+}
+
+/* Fade In Up Animation */
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,208 @@
+// Features Section
+.feature-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  
+  .section-header {
+    margin-bottom: 3.5rem;
+    
+    .section-title {
+      color: #000;
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      line-height: 1.2;
+      
+      @media (max-width: 768px) {
+        font-size: 2rem;
+      }
+      
+      @media (max-width: 576px) {
+        font-size: 1.75rem;
+      }
+    }
+    
+    .section-subtitle {
+      color: #718096;
+      font-size: 1.125rem;
+      max-width: 700px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+  }
+  
+  // Feature Cards
+  .feature-card {
+    height: 100%;
+    padding: 15px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e2e8f0;
+    transition: all 0.3s ease;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 
+                  0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    }
+    
+    .card-image {
+      width: 100%;
+      height: 250px;
+      position: relative;
+      overflow: hidden;
+      margin: 0 auto 15px;
+      border-radius: 6px;
+      background: #f8fafc;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 15px;
+      
+      .feature-img {
+        max-width: 100%;
+        max-height: 100%;
+        width: auto;
+        height: auto;
+        object-fit: contain;
+        transition: transform 0.3s ease;
+      }
+      
+      &:hover .feature-img {
+        transform: scale(1.05);
+      }
+    }
+    
+    .card-body {
+      padding: 0 10px 15px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      
+      .card-title {
+        color: #1a202c;
+        font-size: 1.1rem;
+        font-weight: 600;
+        margin: 0 0 8px 0;
+        line-height: 1.3;
+      }
+      
+      .card-text {
+        color: #4a5568;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin: 0;
+        flex-grow: 1;
+      }
+    }
+  }
+  
+  // Responsive Adjustments
+  @media (max-width: 991px) {
+    padding: 4rem 0;
+  }
+  
+  @media (max-width: 768px) {
+    padding: 2rem 0;
+    
+    .feature-card {
+      .card-image {
+        height: 140px;
+      }
+      
+      .card-body {
+        padding: 10px 5px;
+        
+        .card-title {
+          font-size: 1rem;
+        }
+        
+        .card-text {
+          font-size: 0.85rem;
+        }
+      }
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .section-header {
+      margin-bottom: 2.5rem;
+      
+      .section-title {
+        font-size: 1.75rem;
+      }
+      
+      .section-subtitle {
+        font-size: 1rem;
+      }
+    }
+  }
+  
+  // View All Button
+  .view-all-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #e85d3c;
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-decoration: none;
+    position: relative;
+    padding-bottom: 8px;
+    transition: all 0.3s ease;
+    
+    .arrow-icon {
+      display: inline-block;
+      transition: transform 0.3s ease;
+      font-size: 1.25rem;
+    }
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background-color: #e85d3c;
+      transition: all 0.3s ease;
+    }
+    
+    &::before {
+      content: '';
+      position: absolute;
+      bottom: -4px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 6px;
+      background-color: #e85d3c;
+      border-radius: 50%;
+      transition: all 0.3s ease;
+    }
+    
+    &:hover {
+      color: #d14d2c;
+      
+      .arrow-icon {
+        transform: translateX(5px);
+      }
+      
+      &::after {
+        background-color: #d14d2c;
+      }
+      
+      &::before {
+        background-color: #d14d2c;
+      }
+    }
+  }
+}

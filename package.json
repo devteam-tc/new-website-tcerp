@@ -1,0 +1,75 @@
+{
+  "name": "tcerp-newversion",
+  "version": "1.0.0",
+  "description": "Tech Cloud ERP New Version", 
+  "license": "ISC",
+  "author": "Tech Cloud ERP DevTeam",
+   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next build",
+    "start": "next start",
+    "deploy": "npm run build && firebase deploy --only hosting"
+  },
+  "dependencies": {
+    "@amcharts/amcharts5": "^5.14.2",
+    "@amcharts/amcharts5-geodata": "^5.1.5",
+    "@emailjs/browser": "^4.4.1",
+    "@firebase/analytics": "^0.10.19",
+    "@firebase/firestore": "^4.9.3",
+    "@grpc/proto-loader": "^0.7.5",
+    "@protobufjs/codegen": "^2.0.4",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.8",
+    "date-fns": "^4.1.0",
+    "firebase": "^12.7.0",
+    "formik": "^2.4.6",
+    "gsap": "^3.12.7",
+    "lucide-react": "^0.511.0",
+    "next": "^14.2.35",
+    "prop-types": "^15.8.1",
+    "protobufjs": "^7.2.4",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "18.2.0",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-odometerjs": "^3.1.3",
+    "react-phone-input-2": "^2.15.1",
+    "react-select": "^5.10.2",
+    "react-toastify": "^11.0.5",
+    "sharp": "^0.34.5",
+    "split-type": "^0.3.4",
+    "swiper": "^11.2.5",
+    "wowjs": "^1.1.3",
+    "yet-another-react-lightbox": "^3.21.8",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@next/bundle-analyzer": "^14.1.0",
+    "@types/react-dom": "^18.2.0",
+    "cross-env": "^7.0.3",
+    "css-loader": "^7.1.2",
+    "postcss": "^8.5.6",
+    "postcss-loader": "^8.2.0",
+    "sass": "^1.97.2",
+    "sass-loader": "^16.0.6",
+    "style-loader": "^4.0.0",
+    "typescript": "5.9.3"
+  },
+  "homepage": "https://github.com/devteam-tc/TCERP-NewVersion#readme",
+  "bugs": {
+    "url": "https://github.com/devteam-tc/TCERP-NewVersion/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devteam-tc/TCERP-NewVersion.git"
+  },
+  "resolutions": {
+    "@grpc/proto-loader": "0.7.5",
+    "protobufjs": "7.2.4"
+  }
+}

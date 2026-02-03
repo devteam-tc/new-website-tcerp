@@ -1,0 +1,312 @@
+/*==================================
+	22. Project Details Page CSS Start
+====================================*/
+.ep-project-details-section {
+  .project-banner-image {
+    margin-bottom: 80px; 
+  }
+
+  .project-information {
+    background-color: var(--bs-white-color);
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px #add8e680, 0 6px 6px #add8e6b3;
+    max-width: 100%; // Fixes layout issues inside col-4
+    width: 100%;
+  
+    .title {
+      font-weight: 600;
+      font-size: 24px;
+      border-radius: 5px;
+      line-height: 30px;
+      padding: 14px 20px;
+      // border: 1px solid var(--bs-secondary-color);
+      background-color: var(--bs-primary-500);
+      color: #fff;
+    }
+  
+    .options {
+      margin-top: 20px;
+  
+      li {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        align-items: start !important;
+        padding: 14px 20px;
+        background-color: var(--bs-secondary-20);
+        border-radius: 5px;
+        border: 1px solid var(--bs-secondary-100);
+
+        h5.label {
+          font-weight: 600;
+          flex-shrink: 0;
+          // width: 120px;
+          margin: 0;
+          width: 25%;
+          text-wrap-mode: nowrap;
+            @media screen and (max-width : 525px) {
+              width: auto;
+            }
+        }
+  
+        h6 {
+          font-weight: 500;
+          margin: 0;
+          flex: 1;
+        }
+      }
+  
+      li + li {
+        margin-top: 16px;
+      }
+    }
+  }
+  
+
+  .project-description {
+    .title {
+      margin-bottom: 10px;
+      margin-top: 10px;
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 40px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 26px;
+     @media screen and (max-width : 992px) {
+         font-size: 15px;
+         text-align: justify;
+      }
+    }
+
+    .inner-options {
+      margin: 28px 0 60px 0;
+      @media screen and (max-width : 992px) {
+         margin: 28px 0 30px 0;
+      }
+
+      ul {
+        li {
+          font-size: 16px;
+          color: #000 !important;
+          line-height: 30px;
+
+          img {
+            margin-right: 10px;
+          }
+        }
+
+        li+li {
+          margin-top: 15px;
+        }
+      }
+    }
+
+    .two-info-cards {
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+  }
+
+  .download-widget {
+    position: relative;
+    display: block;
+    background: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px #add8e680, 0 6px 6px #add8e6b3;
+    text-align: center;
+    padding: 10px;
+
+    .shape {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+
+    .image-box {
+      position: relative;
+      display: block;
+      margin-bottom: 10px;
+    }
+    img {
+      display: inline-block;
+      // max-width: 100%;
+      height: auto;
+      width: 100%;
+      border-radius: 5px;
+      border: 2px solid var(--bs-primary-50);
+      transition-delay: .1s;
+      transition-timing-function: ease-in-out;
+      transition-duration: .7s;
+      transition-property: all;
+      padding-top: 1px;
+  }
+    h4 {
+      position: relative;
+      display: block;
+      font-size: 20px;
+      line-height: 22px;
+      margin-bottom: 25px;
+    }
+  }
+
+  .demo-banner-container {
+    text-align: center;
+  
+    .demo-banner-link {
+      display: inline-block;
+      border-radius: 5px;
+      overflow: hidden;
+      transition: transform 0.3s ease-in-out;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  
+      &:hover {
+        transform: scale(1.03);
+      }
+  
+      img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+    }
+  
+    @media (max-width: 768px) {
+      .demo-banner-link {
+        border-radius: 10px;
+      }
+  
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+  
+    @media (max-width: 576px) {
+      img {
+        height: auto;
+      }
+    }
+  }
+
+ 
+}
+
+@media (max-width:1199.98px) {
+  .ep-project-details-section .project-banner-image .project-information .title {
+    font-size: 22px;
+
+  }
+
+  .ep-project-details-section .project-banner-image .project-information .options li+li {
+    margin-top: 10px;
+  }
+
+  .ep-project-details-section .project-banner-image .project-information {
+    right: 30px;
+  }
+}
+.custom-banner-img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+@media (max-width:991.98px) {
+  .ep-project-details-section .project-banner-image .project-information {
+    max-width: 100%;
+    width: 100%;
+    position: static !important;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width:767.98px) {
+  .ep-project-details-section .project-description .title {
+    // margin-bottom: 20px;
+    font-size: 24px;
+    margin: 0;
+  }
+
+  .ep-project-details-section .project-banner-image .project-information .options li p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width:575.98px) {
+  .ep-project-details-section .project-description .inner-options ul li {
+    font-size: 15px;
+    line-height: 26px;
+    
+  }
+}
+
+.info-card {
+  background: #fff;
+  border-radius: 5px;
+  padding: 30px;
+  box-shadow: 0 10px 20px rgba(173, 216, 230, 0.5019607843), 0 6px 6px rgba(173, 216, 230, 0.7019607843);
+  transition: all 0.3s ease-in-out;
+  height: 100%;
+
+  .icon {
+    width: 100px;
+    // height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: left !important;
+    margin-bottom: 25px;
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--heading-dark);
+    margin-bottom: 15px;
+  }
+
+  .card-point{
+    // font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000 !important;
+  }
+  p {
+    color: var(--text-color);
+    // line-height: 1.75;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    li {
+      margin-bottom: 10px;
+      color: var(--text-color);
+      
+      img {
+        width: 20px;
+        height: 20px;
+        margin-right: 10px;
+        margin-top: 2px;
+
+      }
+    }
+  }
+
+  &:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 25px 70px rgba(0, 0, 0, 0.07);
+  }
+}

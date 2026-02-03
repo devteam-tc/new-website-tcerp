@@ -1,0 +1,162 @@
+{
+    "services": [
+        {
+          "title": "Social Media Marketing",
+          "img": "/images/servicescards/SocialMediaMarketing.png",
+          "hoverImg": "/images/servicescards/white/SocialMediaMarketing-white.png",
+          "link": "/services/social-media-marketing",
+          "description": "Grow your brand and engage your audience across platforms like Instagram, Facebook, LinkedIn,Twitter and many more.",
+          "thumb": "/images/services/ser-thumb-social.png"
+        },
+        {
+          "title": "Search Engine Optimization",
+          "img": "/images/servicescards/SearchEngineOptimization.png",
+          "hoverImg": "/images/servicescards/white/SearchEngineOptimization-white.png",
+          "link": "/services/seo",
+          "description": "Get your business found on Google with advanced SEO strategies that drive organic traffic.",
+          "thumb": "/images/services/ser-thumb-seo.png"
+        },
+        {
+          "title": "Content Marketing",
+          "img": "/images/servicescards/ContentMarketing.png",
+          "hoverImg": "/images/servicescards/white/ContentMarketing-white.png",
+          "link": "/services/content-marketing",
+          "description": "Engage your audience & grow your brand with powerful, SEO-driven content marketing.",
+          "thumb": "/images/services/ser-thumb-content.png"
+        },
+        {
+          "title": "Pay-Per-Click (PPC) Advertising",
+          "img": "/images/servicescards/Pay-Per-Click.png",
+          "hoverImg": "/images/servicescards/white/Pay-Per-Click-white.png",
+          "link": "/services/ppc-advertising",
+          "description": "Boost ROI with precise PPC ads that increase traffic, generate leads and drive quick conversions.",
+          "thumb": "/images/services/ser-thumb-ppc.png"
+        },
+        {
+          "title": "Email Marketing",
+          "img": "/images/servicescards/EmailMarketing.png",
+          "hoverImg": "/images/servicescards/white/EmailMarketing-white.png",
+          "link": "/services/email-marketing",
+          "description": "Nurture leads and boost conversions with personalized email campaigns.",
+          "thumb": "/images/services/ser-thumb-email.png"
+        },
+        {
+          "title": "Analytics & Reporting",
+          "img": "/images/servicescards/Analytics&Reporting.png",
+          "hoverImg": "/images/servicescards/white/Analytics&Reporting-white.png",
+          "link": "/services/analytics-reporting",
+          "description": "Track, analyze and optimize your digital marketing performance with data-driven insights.",
+          "thumb": "/images/services/ser-thumb-analytics.png"
+        },
+        {
+          "title": "Lead Generation",
+          "img": "/images/servicescards/LeadGeneration.png",
+          "hoverImg": "/images/servicescards/white/LeadGeneration-white.png",
+          "link": "/services/marketing-automation",
+          "description": "Generate high-quality leads through targeted digital marketing campaigns.",
+          "thumb": "/images/services/ser-thumb-automation.png"
+        },
+        {
+          "title": "Conversion Rate Optimization",
+          "img": "/images/servicescards/ConversionRateOptimization.png",
+          "hoverImg": "/images/servicescards/white/ConversionRateOptimization-white.png",
+          "link": "/services/video-marketing",
+          "description": "Turn traffic into revenue with data-driven conversion rate optimization techniques.",
+          "thumb": "/images/services/ser-thumb-video.png"
+        }
+         
+      ],
+      "about": {
+        "heading": "Digital Marketing Services for Modern Brands",
+        "paragraph": "At Tech Cloud ERP, we offer tailored digital marketing solutions to help your business grow online. From improving search rankings to running high-converting ad campaigns, we combine strategy and creativity to bring your brand closer to the people who matter. Whether you're looking for SEO, PPC, or social media marketing we’re here to make it work for you.",
+        "features": [
+          "End-to-End Digital Marketing Strategy",
+          "Data-Driven Execution & Continuous Optimization"
+        ],
+        "imageMain": "/images/servicescards/digital-marketing.webp",
+        "imageMainAlt": "Digital marketing ads on tablet"
+      },
+    "faq": [
+      {
+        "question": "What is digital marketing and why is it important for my website?",
+        "answer": "Digital marketing helps promote your website using SEO, social media and paid ads. This increases your online visibility, attracts more visitors and boosts conversions."
+      },
+      {
+        "question": "What services are included in digital marketing?",
+        "answer": "Web analytics, content marketing, email marketing, social media marketing, SEO and PPC (pay-per-click) are some of the common digital marketing services."
+      },
+      {
+        "question": "Is digital marketing suitable for small businesses?",
+        "answer": "Yes, digital marketing is scalable and can be tailored to fit any budget, making it highly effective for small and local businesses."
+      },
+      {
+        "question": "Do you offer local SEO services?",
+        "answer": "Yes, we provide comprehensive local SEO services including Google Business Profile optimization, local citation building, review management and location-based content strategies to improve your visibility in local search results."
+      }
+     
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Discover your Audience",
+        "description": "We identify your target market and analyze behavior to craft tailored strategies that drive results."
+      },
+      {
+        "step": 2,
+        "title": "Launch Campaigns",
+        "description": "From SEO to social media and paid ads, we implement the right channels to boost your visibility and engagement."
+      },
+      {
+        "step": 3,
+        "title": "Optimize & Scale",
+        "description": "Monitor performance, optimize continuously and scale campaigns for sustained growth and ROI."
+      }
+   
+    ],
+    "relatedServices": [
+      {
+        "title": "Social Media Marketing",
+        "description": "Build your brand presence and engage with your audience across social platforms",
+        "icon": "/images/services/ser-icon-social.png",
+        "link": "/services/social-media-marketing",
+        "features": [
+          "Content strategy & planning",
+          "Community management",
+          "Paid social campaigns"
+        ]
+      },
+      {
+        "title": "Search Engine Optimization",
+        "description": "Improve your website's visibility and organic traffic through strategic SEO",
+        "icon": "/images/services/ser-icon-seo.png",
+        "link": "/services/seo",
+        "features": [
+          "Technical SEO audit",
+          "Content optimization",
+          "Link building strategy"
+        ]
+      },
+      {
+        "title": "Email Marketing",
+        "description": "Create targeted email campaigns that convert subscribers into customers",
+        "icon": "/images/services/ser-icon-email.png",
+        "link": "/services/email-marketing",
+        "features": [
+          "Campaign automation",
+          "List segmentation",
+          "Performance analytics"
+        ]
+      },
+      {
+        "title": "Content Marketing",
+        "description": "Develop engaging content that drives traffic and builds authority",
+        "icon": "/images/services/ser-icon-content.png",
+        "link": "/services/content-marketing",
+        "features": [
+          "Content strategy",
+          "Blog management",
+          "Content distribution"
+        ]
+      }
+    ]
+  } 

@@ -1,0 +1,53 @@
+ {
+  "oman": {
+    "title": "Scalable ERP Software in Oman for Modern Enterprises",
+    "heading": "Best ERP Software in Oman",
+    "image": "/images/contact/oman.webp",
+    "description": "Oman’s developing economy depends on innovation and seamless management systems. Our ERP software in Oman brings all business functions—finance, HR and supply chain—into one centralized platform. It automates daily operations and enhances visibility across departments. With real-time analytics, companies can optimize efficiency and ensure compliance. Tech Cloud ERP drives smarter business performance across Oman’s growing sectors.",
+    "features": [
+      "Automated Process",
+      "Cloud ERP Power",
+      "Data Intelligence",
+      "Streamlined Flow",
+      "Growth Flexibility"
+    ],
+    "items": [
+      {
+        "icon": "/images/location/Oman/Next-GenERP.svg",
+        "alt": "Streamlined Business Workflows",
+        "title": "Next-Gen ERP Platform",
+        "description": "Simplify complex workflows and improve team coordination through modern ERP automation."
+      },
+      {
+        "icon": "/images/location/Oman/Business-Centric.svg",
+        "alt": "Industry Modules",
+        "title": "Business-Centric Modules",
+        "description": "Manage key areas like finance, HR and supply chain using modules tailored for your industry."
+      },
+      {
+        "icon": "/images/location/Oman/CloudOn-Premise.svg",
+        "alt": "Deployment Options",
+        "title": "Cloud or On-Premise Flexibility",
+        "description": "Deploy your ERP securely on the cloud or maintain it on-site, depending on your business needs."
+      },
+      {
+        "icon": "/images/location/Oman/ComprehensiveAnalytics.svg",
+        "alt": "Analytics & Reports",
+        "title": "Comprehensive Analytics",
+        "description": "Use data-driven dashboards to track goals, enhance forecasting and improve decisions."
+      },
+      {
+        "icon": "/images/location/Oman/IntegratedBusiness.svg",
+        "alt": "System Integration",
+        "title": "Integrated Business Systems",
+        "description": "Ensure seamless communication between departments with an interconnected ERP solution."
+      },
+      {
+        "icon": "/images/location/Oman/OngoingTechnical.svg",
+        "alt": "Dedicated ERP Support",
+        "title": "Ongoing Technical Assistance",
+        "description": "Stay supported with expert help and proactive maintenance to keep your ERP performing at its best."
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+    "services": [
+      {
+      "title": "Ideation & Planning",
+      "img": "/images/servicescards/Ideation&Planning.png",
+      "hoverImg": "/images/servicescards/white/Ideation&Planning-white.png",
+      "link": "/services/android-development",
+      "description": "Lay the foundation with clear goals, target audience and feature planning. Define your app's purpose and create a strategic roadmap for development.",
+      "icon": "/images/icons/android-icon.png",
+      "thumb": "/images/thumbs/android-thumb.png"
+      },
+      {
+      "title": "UI/UX Design",
+      "img": "/images/servicescards/UXDesign.png",
+      "hoverImg": "/images/servicescards/white/UXDesign-white.png",
+      "link": "/services/UXDesign",
+      "description": "Design intuitive, user-centric interfaces that ensure seamless navigation and a satisfying user experience, setting the stage for long-term engagement.",
+      "icon": "/images/icons/cross-platform-icon.png",
+      "thumb": "/images/thumbs/cross-platform-thumb.png"
+      },
+      {
+      "title": "Development & Integration",
+      "img": "/images/servicescards/Development&Integration.png",
+      "hoverImg": "/images/servicescards/white/Development&Integration1-white.png",
+      "link": "/services/enterprise-mobile",
+      "description": "Build the app using cross-platform technologies for iOS and Android.Incorporate essential features like offline access and system integrations.",
+      "icon": "/images/icons/enterprise-icon.png",
+      "thumb": "/images/thumbs/enterprise-thumb.png"
+      },
+      {
+      "title": "Launch & Engagement",
+      "img": "/images/servicescards/LaunchEngagement.png",
+      "hoverImg": "/images/servicescards/white/LaunchEngagement-white.png",
+      "link": "/services/mobile-ui",
+      "description": "Deploy your app and boost user retention with push notifications, real-time updates and continuous improvements based on user feedback.",
+      "icon": "/images/icons/ui-icon.png",
+      "thumb": "/images/thumbs/ui-thumb.png"
+      }
+      
+    ],
+    "about": {
+      "heading": "Mobile App Development services for Smarter Solutions",
+      "paragraph": "At Tech Cloud ERP, we bring your app ideas to life with tailored development that prioritizes users and performance. From design to deployment and beyond we build secure, feature-rich iOS and Android applications that align with your vision and business goals. Whether you're launching a new product or enhancing an existing one, our team ensures a smooth, scalable digital experience.",
+      "features": [
+        "End-to-End App Development",
+        "Continuous Support & Optimization"
+      ],
+      "imageMain": "/images/servicescards/app-development.webp",
+      "imageMainAlt": "Smartphone mobile app development design"
+    },
+    "faq": [
+      {
+        "question": " What types of apps do you build and for which platforms?",
+        "answer": " We develop native apps for iOS and Android, as well as cross-platform solutions using frameworks like Flutter and React Native—helping you reach users across devices "
+      },
+      {
+        "question": " What does the app development process involve?",
+        "answer": "Our process includes idea refinement, prototyping, design, development, testing, launch and ongoing support. We follow agile practices to keep you informed at each key milestone ."
+      },
+      {
+        "question": "How long does it take to build an app?",
+        "answer": " Timelines depend on complexity and features, but most projects are completed within 3–6 months. Simple MVPs can be ready in under 90 days ."
+      },
+      {
+        "question": " What support is provided after the app is launched?",
+        "answer": "We offer ongoing maintenance, updates, app store optimization, monitoring and help with new feature releases often under monthly support agreements. "
+      }
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": " App Strategy",
+        "description": "We define your app’s goals, target users and platform to build a strong foundation."
+      },
+      {
+        "step": 2,
+        "title": "Design & Development",
+        "description": "We craft stunning UI/UX and develop a secure, high-performance app tailored to your needs."
+      },
+      {
+        "step": 3,
+        "title": " Testing & Launch",
+        "description": "After thorough testing, we deploy your app to stores and ensure it runs smoothly with ongoing support."
+      }
+    ]
+  } 

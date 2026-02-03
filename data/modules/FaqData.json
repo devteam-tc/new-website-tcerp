@@ -1,0 +1,142 @@
+{
+   
+    "sales": [
+      {
+        "id": 1,
+        "question": "Who needs CRM software?",
+        "answer": "Businesses of all sizes, from start-ups to large corporations, can benefit from CRM software to manage leads and sales, automate processes, organise customer data, and enhance customer engagement."
+      },
+      {
+        "id": 2,
+        "question": "Is CRM software cloud-based or on-premise?",
+        "answer": "Modern CRM systems are primarily cloud-based, which allows access from any device with an internet connection. However, some providers offer on-premise solutions for businesses with specific data control requirements."
+      },
+      {
+        "id": 3,
+        "question": "Is CRM software easy to use?",
+        "answer": "Most CRM platforms are designed with user-friendly interfaces. Some even offer training, tutorials, and customer support to help users get started quickly."
+      }
+    ],
+    "purchase-management": [
+      {
+        "id": 1,
+        "question": "What is POS software?",
+        "answer": "POS (Point of Sale) software is a system that allows businesses to process sales transactions, manage inventory, track customer data and generate reports. It is used at the point where a customer makes a purchase."
+      },
+      {
+        "id": 2,
+        "question": "Does the software support multiple locations?",
+        "answer": "Yes, you can manage multiple store locations from a single POS dashboard with centralized control over inventory, staff and sales data."
+      },
+      {
+        "id": 3,
+        "question": "Is it possible to track real-time sales and inventory?",
+        "answer": "Yes, with our cloud-based POS, you can monitor sales, stock levels and employee activity in real-time from any device."
+      }
+    ],
+    "inventory": [
+      {
+        "id": 1,
+        "question": "Is the software customizable to my business needs?",
+        "answer": "Ecommerce software allows businesses to sell products and services online by providing tools for inventory management, order processing, and payment handling.Yes, Tech Cloud ERP offers customizable modules, allowing businesses to tailor the software according to their unique requirements, ensuring a perfect fit for various operational workflows."
+      },
+      {
+        "id": 2,
+        "question": "How secure is my business data on the cloud platform?",
+        "answer": "Tech Cloud ERP ensures robust data security through encryption, role-based access controls and automated cloud backups to protect your business information."
+      },
+      {
+        "id": 3,
+        "question": "Is it suitable for startups and SMEs?",
+        "answer": "Yes, the Trading Software is designed to be scalable, making it ideal for startups, SMEs, and growing businesses looking to automate and grow efficiently."
+      }
+    ],
+    "production": [
+      {
+        "id": 1,
+        "question": "Can I manage inventory with Ecommerce software?",
+        "answer": "Yes. Good Ecommerce platforms offer real-time inventory tracking, low-stock alerts and even integration with warehouse management systems."
+      },
+      {
+        "id": 2,
+        "question": "Can I integrate Ecommerce software with other tools?",
+        "answer": "Yes, most Ecommerce platforms support integrations with accounting systems, CRMs, ERP systems, email marketing tools and shipping providers."
+      },
+      {
+        "id": 3,
+        "question": "Is the software customizable to my business needs?",
+        "answer": "Tech Cloud ERP's E-Commerce Software is designed to be flexible and customizable, allowing businesses to tailor the solution to their specific requirements."
+      }
+    ],
+    "job-work": [
+      {
+        "id": 1,
+        "question": "Is an HRMS suitable for small businesses?",
+        "answer": "Yes. Many HRMS solutions are scalable and offer packages tailored for small to medium-sized enterprises (SMEs)."
+      },
+      {
+        "id": 2,
+        "question": "Can employees access their own profiles?",
+        "answer": "Yes. Employees can use the self-service portal to view payslips, apply for leave, update personal details and more."
+      },
+      {
+        "id": 3,
+        "question": "How secure is our employee data?",
+        "answer": "We use enterprise-grade encryption, secure cloud hosting and role-based access controls to ensure your data is fully protected."
+      }
+    ],
+    "qc-qa": [
+      {
+        "id": 1,
+        "question": "What is financial and accounting ERP software?",
+        "answer": "It is a software solution designed to manage a company’s financial operations including general ledger, accounts payable and receivable, financial reporting and compliance all in one integrated platform."
+      },
+      {
+        "id": 2,
+        "question": "Is cloud-based accounting software secure?",
+        "answer": "Yes, our solution is hosted on secure servers with encryption, user-based access controls and regular backups to ensure the safety of your financial data."
+      },
+      {
+        "id": 3,
+        "question": "Can this ERP software handle multi-currency transactions?",
+        "answer": "Absolutely. Tech Cloud ERP supports multi-currency and multi-branch operations, making it suitable for businesses with international operations."
+      }
+    ],
+    "integrated-erp-software": [
+      {
+        "id": 1,
+        "question": "What is Integrated ERP Software?",
+        "answer": "Integrated ERP software connects various business functions into one system, allowing for seamless data exchange and process optimization across departments."
+      },
+      {
+        "id": 2,
+        "question": "How does Integrated ERP software benefit my business?",
+        "answer": "It helps improve collaboration, increase efficiency, reduce costs, and ensure data accuracy by providing a unified view of all business processes."
+      }
+    ],
+    "erp-for-restaraunt": [
+      {
+        "id": 1,
+        "question": "What is ERP for Restaurants?",
+        "answer": "ERP for restaurants is a specialized software solution designed to help manage all aspects of restaurant operations, including inventory, orders, and staff scheduling."
+      },
+      {
+        "id": 2,
+        "question": "How can ERP software help my restaurant?",
+        "answer": "It helps improve inventory management, streamline ordering processes, track employee performance, and enhance customer service, leading to better efficiency and profitability."
+      }
+    ],
+    "erp-for-accounting-software": [
+      {
+        "id": 1,
+        "question": "What is ERP for Accounting Software?",
+        "answer": "ERP for accounting is a software solution that integrates accounting functions with other business processes like sales, purchasing, and inventory to improve financial management."
+      },
+      {
+        "id": 2,
+        "question": "How can ERP for Accounting software improve financial management?",
+        "answer": "It provides real-time financial insights, automates accounting tasks, and ensures compliance with regulations, leading to better control and decision-making."
+      }
+    ]
+  }
+  

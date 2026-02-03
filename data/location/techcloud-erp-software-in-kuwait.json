@@ -1,0 +1,53 @@
+ {
+  "kuwait": {
+    "title": "Scalable ERP Software in Kuwait for Modern Enterprises",
+    "heading": "Best ERP Software in Kuwait",
+    "image": "/images/contact/kuwait.webp",
+    "description": "Kuwait’s growing economy from oil and gas to retail demand integrated business operations. Our cloud ERP in Kuwait connects finance, inventory and HR to ensure visibility and process automation. It simplifies workflows while improving productivity and resource utilization. Real-time insights enable strategic decision-making and operational growth. Tech Cloud ERP empowers Kuwaiti businesses to scale efficiently and confidently.",
+    "features": [
+      "Intelligent ERP",
+      "Seamless Sync",
+      "Real-Time Access",
+      "Cloud Scalability",
+      "Custom Modules"
+    ],
+    "items": [
+      {
+        "icon": "/images/location/Kuwait/SimplifiedERP.svg",
+        "alt": "Streamlined Business Workflows",
+        "title": "Simplified ERP Management",
+        "description": "Transform daily business tasks with intelligent ERP tools that automate and optimize workflows."
+      },
+      {
+        "icon": "/images/location/Kuwait/Industry-Ready.svg",
+        "alt": "Industry Modules",
+        "title": "Industry-Ready Modules",
+        "description": "Handle finance, operations and inventory effortlessly using purpose-built ERP modules."
+      },
+      {
+        "icon": "/images/location/Kuwait/FlexibleERP.svg",
+        "alt": "Deployment Options",
+        "title": "Flexible ERP Setup",
+        "description": "Select cloud or on-premise deployment to align with your data and infrastructure goals."
+      },
+      {
+        "icon": "/images/location/Kuwait/PerformanceTracking.svg",
+        "alt": "Analytics & Reports",
+        "title": "Performance Tracking Tools",
+        "description": "Access real-time analytics that help you measure progress and identify growth opportunities."
+      },
+      {
+        "icon": "/images/location/Kuwait/SmoothIntegration.svg",
+        "alt": "System Integration",
+        "title": "Smooth Integration Capability",
+        "description": "Combine ERP with existing platforms to maintain uninterrupted business continuity."
+      },
+      {
+        "icon": "/images/location/Kuwait/DedicatedSupport.svg",
+        "alt": "Dedicated ERP Support",
+        "title": "Dedicated Support System",
+        "description": "Get responsive technical assistance that ensures efficiency and reliability across your ERP system."
+      }
+    ]
+  }
+}

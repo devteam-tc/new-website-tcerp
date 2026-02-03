@@ -1,0 +1,158 @@
+.how-it-works-section {
+    padding: 100px 0;
+    background-color: var(--bs-secondary-20);
+    @media screen and (max-width:992px) {
+      padding: 40px 0 !important;
+    }
+  }
+  .text-center {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .section-title {
+    font-size: 40px;
+    font-weight: 700;
+    // margin-bottom: 15px;
+  }
+  
+  .section-description {
+    font-size: 18px;
+    color: #4d5e80;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+  
+   
+  }
+  
+  .steps-grid {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+    position: relative;
+  }
+  
+  .step-item {
+    flex: 1;
+    min-width: 250px;
+    max-width: calc(25% - 22.5px);
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .step-item:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    top: 50px;
+    right: -45px;
+    width: 220px;
+    height: 2px;
+    background-color: #e0e0e0;
+    z-index: 0;
+  }
+  
+  .step-number-circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 30px 0;
+    font-size: 24px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    z-index: 2;
+
+  }
+  
+  .step-number-1,
+  .step-number-2,
+  .step-number-3,
+  .step-number-4 {
+    background-color: var(--bs-primary-50);
+    color: var(--bs-primary-500);
+    &:hover {
+      background-color:var(--bs-primary-600); 
+      color: #fff; 
+      cursor: pointer;
+    }
+  }
+  
+
+  .step-title {
+    font-size: 22px;
+    font-weight: 600;
+    // color: #2e3a59;
+    // margin-bottom: 10px;
+  }
+  
+  .step-description {
+    font-size: 16px;
+    color: #5e6e89;
+    line-height: 1.6;
+  }
+  
+  @media (max-width: 992px) {
+    .steps-grid {
+      gap: 10px;
+    }
+  
+    .step-item {
+      max-width: calc(50% - 10px);
+      text-align: left;
+    }
+  
+    .step-item:nth-child(2n)::after {
+      display: none;
+    }
+  
+    .step-item:not(:nth-child(2n))::after {
+      right: -10px;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .steps-grid {
+      flex-direction: column;
+      gap: 20px;
+    }
+  
+    .step-item {
+      max-width: 100%;
+      text-align: left;
+    }
+  
+    .step-item::after {
+      display: none;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .section-title {
+      font-size: 30px;
+    }
+  
+    .section-description {
+      font-size: 16px;
+    }
+  
+    .step-number-circle {
+      width: 60px;
+      height: 60px;
+      font-size: 20px;
+      margin: 0px;
+    }
+  
+    .step-title {
+      font-size: 18px;
+    }
+  
+    .step-description {
+      font-size: 15px;
+    }
+  }
+  

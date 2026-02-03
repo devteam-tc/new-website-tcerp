@@ -1,0 +1,89 @@
+.social-icons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 15px 0;
+}
+
+.social-icon {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  font-size: 16px;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  
+  svg {
+    position: relative;
+    z-index: 1;
+    transition: transform 0.3s ease;
+  }
+  
+  &:active {
+    transform: translateY(-1px);
+  }
+}
+
+// Brand colors by default
+.social-icon[href*="instagram"] {
+  background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+  color: white;
+}
+
+.social-icon[href*="facebook"] {
+  background-color: #1877f2;
+  color: white;
+}
+
+.social-icon[href*="linkedin"] {
+  background-color: #0077b5;
+  color: white;
+}
+
+.social-icon[href*="pinterest"] {
+  background-color: #e60023;
+  color: white;
+}
+
+.social-icon[href*="youtube"] {
+  background-color: #ff0000;
+  color: white;
+}
+
+.social-icon[href*="twitter"] {
+  background-color: #1da1f2;
+  color: white;
+}
+
+// Hover effects
+.social-icon:hover {
+  opacity: 0.9;
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  
+  svg {
+    transform: scale(1.1);
+  }
+}
+
+@media (max-width: 991px) {
+  .footer-bottom .col-lg-4 {
+    text-align: center !important;
+    // margin-bottom: 15px;
+    margin: 6px;
+  }
+  
+  .social-icons-container {
+    justify-content: center;
+    padding: 4px 0;
+
+  }
+}

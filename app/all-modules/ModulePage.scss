@@ -1,0 +1,200 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+  .section-title {
+    color: #000;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+    
+    @media (max-width: 768px) {
+      font-size: 2rem;
+    }
+    
+    @media (max-width: 576px) {
+      font-size: 1.75rem;
+    }
+  }
+  
+  .section-subtitle {
+    color: #718096;
+    font-size: 1.125rem;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  .styledCard {
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    height: 100%;
+    min-height: 420px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    overflow: hidden;
+  
+    &:hover {
+      box-shadow: rgba(173, 216, 230, 0.5) 0px 10px 20px,
+        rgba(173, 216, 230, 0.7) 0px 6px 6px;
+    }
+  
+    @media (max-width: 992px) {
+      height: 420px;
+      min-height: 330px;
+    }
+  
+    .cardImage {
+      height: 200px;
+      width: 100%;
+      object-fit: cover;
+    }
+  
+    .cardBody {
+      padding: 1.25rem 0.75rem;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      
+      h5 {
+        color: #2d3748;
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin-bottom: 0.75rem;
+        line-height: 1.3;
+      }
+      
+      p {
+        color: #4a5568;
+        font-size: 0.9375rem;
+        line-height: 1.6;
+        margin-bottom: 0;
+        flex-grow: 1;
+      }
+  }
+  
+  .title {
+    font-size: 40px;
+    color: #ef5226;
+    // margin-bottom: 20px;
+  
+    @media screen and (max-width: 1024px) {
+      font-size: 32px;
+      margin-bottom: 30px;
+    }
+  
+    @media screen and (max-width: 768px) {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+  }
+  
+  .subTitle {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color: #6c757d;
+    font-size: 1.1rem;
+  }
+  .imageWrapper {
+    width: 100%;
+    height: 250px; /* Fixed height for all image containers */
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f8f9fa;
+    padding: 1rem;
+    position: relative;
+    
+    .moduleImage {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      transition: transform 0.3s ease;
+    }
+    
+    &:hover .moduleImage {
+      transform: scale(1.05);
+    }
+  }
+}
+
+// View All Button
+.view-all-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: #e85d3c;
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  padding: 12px 32px;
+  background: linear-gradient(135deg, #fff 0%, #fff5f3 100%);
+  border: 2px solid #e85d3c;
+  border-radius: 50px;
+  box-shadow: 0 4px 15px rgba(232, 93, 60, 0.2);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: hidden;
+  
+  // Animated gradient background on hover
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #e85d3c 0%, #ff6b4a 100%);
+    transition: left 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: -1;
+    border-radius: 50px;
+  }
+  
+  .arrow-icon {
+    display: inline-block;
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  &:hover {
+    color: #fff;
+    border-color: #e85d3c;
+    box-shadow: 0 8px 25px rgba(232, 93, 60, 0.4);
+    transform: translateY(-3px);
+    
+    &::after {
+      left: 0;
+    }
+    
+    .arrow-icon {
+      transform: translateX(8px);
+      animation: arrowBounce 0.6s ease-in-out infinite;
+    }
+  }
+  
+  &:active {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 15px rgba(232, 93, 60, 0.3);
+  }
+}
+
+@keyframes arrowBounce {
+  0%, 100% {
+    transform: translateX(8px);
+  }
+  50% {
+    transform: translateX(12px);
+  }
+}
+  

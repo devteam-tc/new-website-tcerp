@@ -1,0 +1,112 @@
+{
+  "web-development": {
+    "title": "Web Development",
+    "features": [
+      {
+        "title": "Responsive Design",
+        "description": "Create websites that look great on all devices with our responsive design approach.",
+        "img": "/images/services/web-dev/responsive.png"
+      },
+      {
+        "title": "Performance Optimization",
+        "description": "Fast-loading websites with optimized code and assets for better user experience.",
+        "img": "/images/services/web-dev/performance.png"
+      },
+      {
+        "title": "SEO Friendly",
+        "description": "Built with SEO best practices to help your website rank higher in search results.",
+        "img": "/images/services/web-dev/seo.png"
+      },
+      {
+        "title": "Security First",
+        "description": "Implement robust security measures to protect your website and user data.",
+        "img": "/images/services/web-dev/security.png"
+      }
+    ]
+  },
+  "app-development": {
+    "title": "App Development",
+    "features": [
+      {
+        "title": "Cross-Platform",
+        "description": "Develop apps that work seamlessly across iOS and Android platforms.",
+        "img": "/images/services/app-dev/cross-platform.png"
+      },
+      {
+        "title": "User Experience",
+        "description": "Create intuitive and engaging user interfaces for better app adoption.",
+        "img": "/images/services/app-dev/ux.png"
+      },
+      {
+        "title": "Offline Support",
+        "description": "Build apps that work even without internet connection.",
+        "img": "/images/services/app-dev/offline.png"
+      },
+      {
+        "title": "Push Notifications",
+        "description": "Keep users engaged with timely and relevant push notifications.",
+        "img": "/images/services/app-dev/notifications.png"
+      }
+    ]
+  },
+  "digital-marketing": {
+    "title": "Digital Marketing",
+    "features": [
+      {
+        "title": "SEO Strategy",
+        "description": "Comprehensive SEO strategies to improve your online visibility.",
+        "img": "/images/services/marketing/seo.png"
+      },
+      {
+        "title": "Social Media",
+        "description": "Engage with your audience through effective social media campaigns.",
+        "img": "/images/services/marketing/social.png"
+      },
+      {
+        "title": "Content Marketing",
+        "description": "Create valuable content that attracts and converts your target audience.",
+        "img": "/images/services/marketing/content.png"
+      },
+      {
+        "title": "Analytics",
+        "description": "Track and analyze your marketing performance with detailed insights.",
+        "img": "/images/services/marketing/analytics.png"
+      }
+    ]
+  },
+  "e-commerce-development": {
+    "title": "E-Commerce Development",
+    "features": [
+      {
+        "title": "Automation",
+        "description": "Ensure smooth, efficient transactions from start to finish using Tech Cloud ERP’s intelligent automation tools.",
+        "img": "/images/services/ecommerce/responsive.png"
+      },
+      {
+        "title": "Website Builder",
+        "description": "Build your ideal website effortlessly using Tech Cloud ERP’s easy-to-use website builder designed for all skill levels.",
+        "img": "/images/services/ecommerce/performance.png" 
+      },
+      {
+        "title": "Central Database",
+        "description": "Store all your business data securely and organized in one place with our centralized, efficient database system.",
+        "img": "/images/services/ecommerce/performance.png" 
+      },
+      {
+        "title": "Search Function",
+        "description": "Easily find what you need with powerful search tools that make accessing information fast, simple and effortless.",
+        "img": "/images/services/ecommerce/performance.png" 
+      },
+      {
+        "title": "Integration",
+        "description": "Seamlessly connect all your business tools for smoother, more efficient operations with our integration platform.",
+        "img": "/images/services/ecommerce/performance.png" 
+      },
+      {
+        "title": "Marketing Data Visualization",
+        "description": "Turn marketing data into clear insights with visualization tools to help you make smarter business decisions.",
+        "img": "/images/services/ecommerce/performance.png" 
+      }
+    ]
+  }
+}

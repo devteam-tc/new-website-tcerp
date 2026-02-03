@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/grocery-banner-img.webp",
+  "altimg": "Fresh produce and grocery items",
+  "heading": "Grocery Industry",
+  "title": "Transform Your Grocery Business with Smart ERP Solutions",
+  "description": "Streamline your grocery store or supermarket operations with our specialized ERP solution. Manage perishable inventory, optimize supply chain, track expiry dates, and enhance customer satisfaction with real-time insights into your grocery business operations.",
+  "keyPoints": [
+    "Freshness & Expiry Management",
+    "Multi-location Inventory Control",
+    "Supplier & Purchase Order Management",
+    "Point of Sale (POS) Integration",
+    "Loyalty & Customer Management"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/perishable-management.png",
+      "title": "Perishable Inventory Management",
+      "description": "Efficiently manage your grocery inventory with features designed specifically for perishable goods and FMCG products.",
+      "list": [
+        "Batch & Expiry Date Tracking",
+        "First-Expiry-First-Out (FEFO) Management",
+        "Automated Stock Replenishment"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/retail-and-pos-management.png",
+      "title": "Retail & POS Management",
+      "description": "Enhance your grocery store operations with integrated point-of-sale and retail management features.",
+      "list": [
+        "Barcode & QR Code Scanning",
+        "Quick Checkout & Multiple Payment Options",
+        "Promotions & Discount Management"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does the system handle perishable inventory?",
+      "answer": "Our ERP includes advanced features for managing perishable goods, including expiry date tracking, batch management, and automated alerts for soon-to-expire items, helping you minimize waste and maximize freshness."
+    },
+    {
+      "id": 2,
+      "question": "Can the system integrate with scales and barcode scanners?",
+      "answer": "Yes, the system seamlessly integrates with various hardware including barcode scanners, label printers, and digital scales, making it easy to manage your grocery operations efficiently."
+    },
+    {
+      "id": 3,
+      "question": "How does the system help with supplier management?",
+      "answer": "The ERP provides comprehensive supplier management tools including performance tracking, order history, and automated purchase order generation, helping you maintain strong relationships with your suppliers."
+    }
+  ],
+  "industry": "Grocery & Retail",
+  "solution": "Integrated Grocery Management System",
+  "modules": [
+    "Inventory & Category Management",
+    "Purchase & Supplier Management",
+    "Point of Sale (POS) System",
+    "Customer Loyalty Program",
+    "Financial & Accounting"
+  ],
+  "result": [
+    "40% reduction in food waste",
+    "35% improvement in inventory turnover",
+    "50% faster checkout process"
+  ],
+  "customers": "400+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": "",
+    "spanTitle": "Grocery ERP Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

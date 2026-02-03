@@ -1,0 +1,80 @@
+{
+  "banner": "/images/industries/restaurant_banner_img.webp",
+  "altimg":"Modern commercial restaurant kitchen interior",
+    "heading" :"Restaurant Industry",
+  "title": "Cloud-Based Restaurant Software for Modern Food Businesses",
+  "description": "Our Restaurant Management System gives you complete control over every aspect of your restaurant operations. From billing and inventory to staff management and customer service, it handles all your needs with ease. Whether you operate a single outlet or multiple locations, the ERP software provides real-time insights to reduce waste, improve efficiency, and increase profitability.",
+  "keyPoints": [
+    "Order Management & Billing",
+    "POS Integration",
+    "Inventory & Stock Control",
+    "CRM & Customer Engagement",
+    "Multi - Branch & Franchise Management"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/restaurant-operations.png",
+      "title": "Order Management & Billing",
+      "description": "Simplify dine-in, takeaway and online orders with a centralized restaurant billing system",
+      "list": [
+        "Fast Table & Counter Billing",
+        "Online & App Order Integration",
+        "GST-Ready Invoicing and Payment Options"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/restaurant-inventory.png",
+      "title": "POS & Inventory Control",
+      "description": "Manage kitchen and stock operations with our smart POS restaurant software",
+      "list": [
+        "Real-Time Ingredient Tracking",
+        "Recipe-Based Stock Deduction",
+        "Expiry Alerts & Stock Reordering"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What is restaurant ERP software, and how can it help my business?",
+      "answer": "Restaurant ERP software is a single platform that brings together all essential restaurant operations like billing, inventory, purchasing, menu management, order handling and financial tracking. It simplifies day-to-day activities, minimizes errors and provides valuable insights so you can focus on improving service and growing your business."
+    },
+    {
+      "id": 2,
+      "question": "How does it help with inventory control?",
+      "answer": "The integrated restaurant inventory management system automatically tracks ingredient usage per order, manages stock levels and reduces food wastage."
+    },
+    {
+      "id": 3,
+      "question": "Is it suitable for cafes, cloud kitchens and large restaurants?",
+      "answer": "This flexible restaurant software works for small cafes, quick service restaurants, fine dining and multi-location chains."
+    },
+    {
+      "id": 4,
+      "question": "Can it manage both online and offline orders?",
+      "answer": "Absolutely. Our restaurant management system integrates seamlessly with food delivery apps and supports walk-in, takeaway and dine-in orders."
+    }
+  ],
+  "industry": "Restaurant",
+  "solution": "Integrated Restaurant Management System",
+  "modules": [
+    "Kitchen Management",
+    "Inventory Control",
+    "Order Processing",
+    "Customer Service",
+    "Analytics Dashboard"
+  ],
+  "result": [
+    "45% improvement in order accuracy",
+    "40% reduction in food waste",
+    "35% better inventory control"
+  ],
+  "customers": "500+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Restaurant Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

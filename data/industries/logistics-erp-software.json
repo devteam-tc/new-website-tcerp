@@ -1,0 +1,76 @@
+{
+    "banner": "/images/industries/logistics-banner_img.webp",
+    "altimg":"Global logistics ERP transportation system",
+    "heading" :"Logistics Industry",
+    "title": "Best Logistics ERP Software for Real-Time Control",
+    "description": "Logistics businesses face constant pressure to deliver on time, stay cost-efficient and adapt quickly to changes. Our  smart ERP solution designed for logistics brings everything—orders, dispatch, freight, inventory and billing—onto a single platform. It simplifies daily operations, keeps teams informed and supports better decision-making with real-time data. Whether you're managing local deliveries or global shipments, it helps you stay one step ahead.",
+    "keyPoints": [
+      "Multi-Warehouse Inventory Management",
+      "Fleet and Route Optimization",
+      " Real-Time Shipment Tracking",
+      "Integrated Freight Management Software",
+      "Customizable Workflows and Reporting"
+    ],
+    "infoCards": [
+      {
+        "image": "/images/industry-icons/logistics-management.png",
+        "title": "Logistics Management",
+        "description": "Gain complete control over your logistics processes with our robust Logistics ERP Software, tailored to meet the dynamic needs of the logistics sector.",
+        "list": [
+          "Order & Fulfillment Hub",
+          "Automated Billing and Invoicing",
+          "Vendor Management",
+          "Regulatory Compliance"
+        ]
+      },
+      {
+        "image": "/images/industry-icons/logistics-analytics.png",
+        "title": "Logistics Handling",
+        "description": "Optimize your freight operations with our integrated Freight Management Software, designed to enhance efficiency and reduce costs.",
+        "list": [
+          "Carrier Rate Management",
+          "Delivery Performance Monitoring",
+          "Real-Time Freight Tracking",
+          "Docs & Compliance"
+        ]
+      }
+    ],
+    "faqData": [
+      {
+        "id": 1,
+        "question": "How does Logistics ERP improve warehouse operations?",
+        "answer": "Our software enables accuracy in inventory, speed in order fulfillment, efficient tracking throughout multiple warehouses."
+      },
+      {
+        "id": 2,
+        "question": "How does Logistics ERP Software help my business?",
+        "answer": "Logistics ERP software centralizes all key operations like order, dispatch, freight, inventory and billing — into one platform. It replaces disconnected tools, offering real-time visibility and control to simplify workflows, improve coordination and ensure timely deliveries."
+      },
+      {
+        "id": 3,
+        "question": "How can ERP improve my logistics operations and customer satisfaction?",
+        "answer": "ERP boosts logistics by enabling faster responses, fewer errors and accurate deliveries. It integrates data for better planning, quicker issue resolution and more reliable service, ultimately leading to higher customer satisfaction."
+      }
+    ],
+    "industry": "Logistics",
+    "solution": "Integrated Logistics Management System",
+    "modules": [
+      "Fleet Management",
+      "Warehouse Operations",
+      "Route Planning",
+      "Shipment Tracking",
+      "Distribution"
+    ],
+    "result": [
+      "45% improvement in delivery efficiency",
+      "30% reduction in fuel costs",
+      "35% increase in warehouse productivity"
+    ],
+    "downloadWidget": {
+      "bgShape": "/images/shapes/widget-bg.png",
+      "image": "/images/industry-icons/book-3.webp",
+     "title": " ",
+      "spanTitle": "Logistics Industry Solutions Guide",
+      "buttonText": "Download Brochure"
+    }
+  }

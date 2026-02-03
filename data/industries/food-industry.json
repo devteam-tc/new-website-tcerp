@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/food_banner_img.webp",
+  "altimg":"Automated food processing system",
+  "heading" :"Food Industry",
+  "title": "Food ERP Software to Streamline Operations",
+  "description": "The food industry demands consistency, hygiene and full control over every process. Tech Cloud ERP simplifies production, inventory and quality checks in one connected system. It helps reduce waste, improve traceability and ensure compliance with food safety standards. Stay efficient and competitive with a solution designed for food manufacturing.",
+  "keyPoints": [
+    "Food Safety & Compliance",
+    "Recipe & Batch Management",
+    "Quality Control & Testing",
+    "Supply Chain Traceability",
+    "Inventory & Shelf Life Control"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/batch_control.png",
+      "title": "Batch Control",
+      "description": "Advanced batch processing and recipe management system for precise food manufacturing.",
+      "list": [
+        "Recipe Management",
+        "Batch Processing",
+        "Production Scheduling"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/safety_control.png",
+      "title": "Safety Control",
+      "description": "Comprehensive food safety and quality management system with compliance tracking.",
+      "list": [
+        "Quality Testing",
+        "Safety Compliance",
+        "Allergen Control"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does ERP help in managing food production?",
+      "answer": "ERP systems automate food production by integrating processes such as procurement, manufacturing and distribution. This improves efficiency, reduces errors and ensures consistent product quality."
+    },
+    {
+      "id": 2,
+      "question": "Can ERP assist in meeting food safety and compliance standards?",
+      "answer": "Yes, ERP software includes features like batch tracking, quality checks and audit-ready reporting. These tools help you meet regulatory requirements and maintain food safety standards."
+    },
+    {
+      "id": 3,
+      "question": "What type of features does your ERP offer for the food industry?",
+      "answer": "Tech Cloud ERP offers recipe and batch management, shelf-life tracking, real-time inventory monitoring, quality control and full traceability. These features help food manufacturers stay efficient, compliant and competitive."
+    }
+  ],
+  "industry": "Food",
+  "solution": "Integrated Food Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Quality Management",
+    "Recipe Management",
+    "Inventory Control",
+    "Compliance Tracking"
+  ],
+  "result": [
+    "45% improvement in production efficiency",
+    "50% reduction in quality incidents",
+    "40% better inventory accuracy"
+  ],
+  "customers": "400+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Food Industry Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "industries": [
+    {
+      "id": 1,
+      "icon": "/images/img/automation.webp",
+      "title": "Automotive Industry",
+      "description": "Managing interlinked processes simultaneously is a crucial skill for every automotive industry leader and manager.",
+      "thumb": "/images/industries/automotive_banner_img.webp",
+      "link": "/industries/automotive-erp-software",
+      "category": "manufacturing"
+    },
+    {
+      "id": 2,
+      "icon": "/images/img/casting_industry.png",
+      "title": "Casting Industry",
+      "description": "Modern ERP systems for casting industry optimize foundry operations, quality control, and supply chain management.",
+      "thumb": "/images/industries/casting_banner_img.webp",
+      "link": "/industries/foundry-erp-solution",
+      "category": "manufacturing"
+    },
+    {
+      "id": 3,
+      "icon": "/images/img/chemical.webp",
+      "title": "Chemical Industry",
+      "description": "The chemical industry is vital to global economies, contributing significantly to GDP and supporting multiple sectors.",
+      "thumb": "/images/industries/chemical_banner_img.webp",
+      "link": "/industries/chemical-erp-software",
+      "category": "manufacturing"
+    }
+  ],
+  "industriesBySlug": {
+    "automotive-erp-software": {
+      "id": 1,
+      "icon": "/images/img/automation.webp",
+      "title": "Automotive Industry",
+      "description": "Managing interlinked processes simultaneously is a crucial skill for every automotive industry leader and manager.",
+      "thumb": "/images/industries/automotive_banner_img.webp",
+      "category": "manufacturing"
+    },
+    "foundry-erp-solution": {
+      "id": 2,
+      "icon": "/images/img/casting_industry.png",
+      "title": "Casting Industry",
+      "description": "Modern ERP systems for casting industry optimize foundry operations, quality control, and supply chain management.",
+      "thumb": "/images/industries/casting_banner_img.webp",
+      "category": "manufacturing"
+    },
+    "chemical-erp-software": {
+      "id": 3,
+      "icon": "/images/img/chemical.webp",
+      "title": "Chemical Industry",
+      "description": "The chemical industry is vital to global economies, contributing significantly to GDP and supporting multiple sectors.",
+      "thumb": "/images/industries/chemical_banner_img.webp",
+      "category": "manufacturing"
+    }
+  },
+  "categories": {
+    "manufacturing": {
+      "header": "Manufacturing Industries",
+      "industries": [
+        {
+          "id": 1,
+          "title": "Automotive Industry",
+          "description": "Managing interlinked processes simultaneously is a crucial skill for every automotive industry leader and manager.",
+          "icon": "/images/img/automation.webp",
+          "linkText": "Explore",
+          "link": "/industries/automotive-erp-software"
+        },
+        {
+          "id": 2,
+          "title": "Casting Industry",
+          "description": "Modern ERP systems for casting industry optimize foundry operations, quality control, and supply chain management.",
+          "icon": "/images/img/casting_industry.png",
+          "linkText": "Explore",
+          "link": "/industries/foundry-erp-solution"
+        },
+        {
+          "id": 3,
+          "title": "Chemical Industry",
+          "description": "The chemical industry is vital to global economies, contributing significantly to GDP and supporting multiple sectors.",
+          "icon": "/images/img/chemical.webp",
+          "linkText": "Explore",
+          "link": "/industries/chemical-erp-software"
+        }
+      ]
+    }
+  }
+} 

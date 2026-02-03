@@ -1,0 +1,58 @@
+{
+    "title": {
+      "main": "Plan",
+      "sub": "Comparison Table",
+      "description": "Comparing our pricing plans side-by-side so you can choose the best one for yourself."
+    },
+    "plans": [
+      {
+        "name": "Basic Plan",
+        "buttonText": "Get Basic",
+        "features": {
+          "versionHistory": "₹2,000",
+          "ModulesIncluded": "1–5 Core Modules", 
+          "UserLimit": "Up to 5 Users",
+          "Customization": "Not Included",
+          "DataMigration":"Not Included",
+          "Real-timeReports&Dashboards": "Basic Reports Only",
+          "BestFor": "Startups & Freelancers"
+        }
+      },
+      {
+        "name": "Growth Plan",
+        "buttonText": "Get Growth",
+        "isHighlighted": true,
+        "features": {
+          "versionHistory": "₹1,500" ,
+          "ModulesIncluded": "1–15 Advanced Modules",
+          "UserLimit": "Up to 25 Users",
+          "Customization": "Limited Customization",
+          "DataMigration": "Not Included",
+          "Real-timeReports&Dashboards": "Standard Dashboards",
+          "BestFor": "SMEs & Growing Teams"
+        }
+      },
+      {
+        "name": "Premium Plan",
+        "buttonText": "Get Premium",
+        "features": {
+          "versionHistory": "₹0",
+          "ModulesIncluded": "Unlimited Modules",
+          "UserLimit": "Unlimited Users",
+          "Customization": "Full Customization",
+          "DataMigration": "Not Included",
+          "Real-timeReports&Dashboards": "Full Reporting Suite",
+          "BestFor": "Large Enterprises"
+        }
+      }
+    ],
+    "features": [
+      { "label": "Monthly Price (INR)", "key": "versionHistory" },
+      { "label": "Modules Included", "key": "ModulesIncluded" },
+      { "label": "User Limit", "key": "UserLimit" },
+      { "label": "Customization", "key": "Customization" },
+      { "label": "Data Migration", "key": "DataMigration" },
+      { "label": "Real-time Reports & Dashboards", "key": "Real-timeReports&Dashboards"},
+      { "label": "Best For" , "key":"BestFor"}
+    ]
+  }

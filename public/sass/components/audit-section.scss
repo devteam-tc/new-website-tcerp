@@ -1,0 +1,49 @@
+.auditSection {
+    background: url('/Bi_bg.png') no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 160px 0;
+  
+    .section-title {
+      .sub-badge {
+        color: #ff6600;
+      }
+  
+      h2 {
+        font-size: 2.5rem;
+      }
+  
+      .pra {
+        font-size: 1rem;
+        color: #333;
+      }
+  
+      ul {
+        li {
+          font-size: 0.95rem;
+        }
+  
+        i {
+          color: #00b894;
+        }
+      }
+    }
+  }
+  @media only screen and (max-width: 991px) {
+    .download-section .inner-container {
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+  
+    .auditSection {
+      background-position: 100%;
+    }
+  }
+
+  .list-icon {
+    color: var(--bs-primary-500);
+    font-size: 18px;
+    // margin-top: 4px;
+    flex-shrink: 0;
+  }
+  

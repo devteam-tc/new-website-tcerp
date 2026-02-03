@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/hydraulic_banner_img.webp",
+  "altimg":"Hydraulic pressure gauge on pipeline",
+  "heading" :"Hydraulic Cylinders Industry",
+  "title": "ERP for Hydraulic Cylinder Manufacturing Operations",
+  "description": "Managing hydraulic cylinder manufacturing is very complex like assembling, detailed inventory and timely deliveries. Tech Cloud ERP integrates sales, inventory and production into one platform to control processes more effectively. This integration improves efficiency, minimizes errors and allows your business to fulfill customer requests confidently.",
+  "keyPoints": [
+    "Cylinder Design & BOM Control",
+    " CNC Production & Process Scheduling",
+    "Quality Testing & Pressure Certification",
+    "Inventory & Spares Management",
+    "Compliance with Hydraulic Standards"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/hydraulic-production.png",
+      "title": "Engineering & Product Configuration",
+      "description": "Support for complex hydraulic cylinder design with custom specifications and part-level configuration.",
+      "list": [
+        "CAD/BOM Integration",
+        "Custom Stroke & Bore Size Management",
+        "Part Traceability & Revision Control"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/hydraulic-quality.png",
+      "title": "Quality & Compliance Control",
+      "description": "Ensure high performance and safety through automated testing workflows and industry-compliant documentation.",
+      "list": [
+        "Hydraulic Pressure Test Management",
+        "Real-Time QC & Failure Analysis",
+        "Certification Management (ISO, DIN)"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "Can Tech Cloud ERP handle custom hydraulic cylinder configurations?",
+      "answer": "Yes, it allows you to define detailed specifications for each order, accommodating both standard products and custom builds with ease."
+    },
+    {
+      "id": 2,
+      "question": "How does the system assist with inventory management of components like seals and rods?",
+      "answer": "The ERP enables real time management of components and parts to automate a best level of stock management so you need not to reschedule production due to delays."
+    },
+    {
+      "id": 3,
+      "question": "Does Tech Cloud ERP support quality control during manufacturing?",
+      "answer": "Absolutely. It includes quality checkpoints and testing logs to ensure every product meets your standards before it reaches the customer."
+    }
+  ],
+  "industry": "Hydraulic Cylinders",
+  "solution": "Integrated Hydraulic Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Quality Management",
+    "Technical Documentation",
+    "Inventory Control",
+    "Engineering Change Management"
+  ],
+  "result": [
+    "45% improvement in production accuracy",
+    "40% reduction in quality issues",
+    "35% faster design-to-production time"
+  ],
+  "customers": "200+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Hydraulic Manufacturing Guide",
+    "buttonText": "Download Brochure"
+  }
+}

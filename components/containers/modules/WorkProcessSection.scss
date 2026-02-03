@@ -1,0 +1,121 @@
+.section {
+  padding: 80px 0;
+  background-color: #fff;
+
+  .header {
+    text-align: center;
+    margin-bottom: 60px;
+
+    .title {
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--bs-black-color);
+      margin-bottom: 0;
+      @media (max-width: 992px) {
+        font-size: 24px;
+        line-height: 35px;
+      }
+    }
+
+    .subtitle {
+      font-size: 18px;
+      font-weight: 500;
+      color: #000;
+      margin-bottom: 5px;
+    }
+  }
+
+  .stepTitle {
+    font-size: 32px;
+    font-weight: 600;
+    // margin-bottom: 1rem;
+    color: var(--bs-primary-500);
+    display: flex;
+    align-items: start;
+    gap: 0.5rem;
+    @media screen and (max-width :992px) {
+      font-size: 20px;
+    }
+
+    .stepNumber {
+      font-size: 32px;
+    font-weight: 700;
+    line-height: 28.8px;
+    letter-spacing: -0.02em;
+    color: #b2e4ef;
+    margin-top: 5px;
+    @media screen and (max-width :992px) {
+      font-size: 20px;
+    }
+    }
+  }
+
+  .stepDescription {
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 20px;
+    padding-left: 45px;
+    @media screen and (max-width:992px) {
+      padding-left: 2px;
+    }
+  }
+
+  .image {
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: scale(1.02);
+    }
+  }
+
+  .styledButton {
+    background-color: #ef5226;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+  
+    &:hover {
+      background-color: #d4471f;
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  .section {
+    padding: 40px 0;
+
+    .header {
+      margin-bottom: 40px;
+
+      .title {
+        font-size: 24px;
+        line-height: 35px;
+        letter-spacing: normal;
+        margin-bottom: 20px;
+      }
+
+      .subtitle {
+        font-size: 1rem;
+      }
+    }
+
+    .stepTitle {
+      font-size: 1.5rem;
+      // padding-left: 40px;
+      
+      .stepNumber {
+        font-size: 1.2rem;
+      }
+    }
+
+    .stepDescription {
+      font-size: 1rem;
+    }
+  }
+} 

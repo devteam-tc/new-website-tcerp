@@ -1,0 +1,36 @@
+{
+  "title": "Frequently Asked Questions",
+  "subtitle": "Find answers to common questions about our products and services",
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is Tech Cloud ERP?",
+      "answer": "Tech Cloud ERP is a comprehensive enterprise resource planning solution that helps businesses manage their operations, including inventory, sales, finance, and human resources, all in one integrated system."
+    },
+    {
+      "id": 2,
+      "question": "How can Tech Cloud ERP benefit my business?",
+      "answer": "Tech Cloud ERP helps streamline operations, improve efficiency, reduce costs, and provide better insights into your business performance through real-time data and analytics."
+    },
+    {
+      "id": 3,
+      "question": "Is Tech Cloud ERP suitable for small businesses?",
+      "answer": "Yes, Tech Cloud ERP is designed to scale with your business. We offer solutions suitable for small businesses as well as enterprise-level organizations."
+    },
+    {
+      "id": 4,
+      "question": "What kind of support do you provide?",
+      "answer": "We provide 24/7 technical support, regular updates, training sessions, and dedicated account managers to ensure smooth implementation and ongoing success."
+    },
+    {
+      "id": 5,
+      "question": "How secure is my data with Tech Cloud ERP?",
+      "answer": "We implement industry-standard security measures including data encryption, regular backups, and secure access controls to protect your business data."
+    },
+    {
+      "id": 6,
+      "question": "Can I customize Tech Cloud ERP to my specific needs?",
+      "answer": "Yes, Tech Cloud ERP is highly customizable. We can tailor the solution to match your specific business processes and requirements."
+    }
+  ]
+} 

@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/electronics_banner_img.webp",
+  "altimg":"Hands testing electronic circuit board",
+  "heading" :"Electronics Industry",
+  "title": "Smart Electronics ERP for Electronics Manufacturing Excellence",
+  "description": "The electronics manufacturing industry requires precise management of complex processes and components. Electronics manufacturing ERP software helps in simplifying production, controlling inventory and improving product quality. By automating workflows and providing real-time visibility, it enables manufacturers to reduce costs and deliver products faster in a competitive market.",
+  "keyPoints": [
+    " BOM & Product Lifecycle Management",
+    "Electronic Components Inventory Software",
+    " Assembly Line Monitoring",
+    " Procurement & Supplier Integration",
+    "Quality Control & Compliance"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/electronics-production.png",
+      "title": "Production & Inventory Control",
+      "description": "Manage complex assemblies and electronic parts with real-time tracking and accurate inventory forecasting.",
+      "list": [
+        "Multi-Level BOM Handling",
+        "Individual Inventory & Batch Tracking",
+        "Electronic Components Inventory Software"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/electronics-quality.png",
+      "title": "Compliance & Quality Assurance",
+      "description": "Ensure consistent quality and meet global industry standards with streamlined QA and documentation tools.",
+      "list": [
+        "Real-Time Quality Checks",
+        "Regulatory Compliance Reports",
+        " Fault & Rejection Analysis"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does ERP help electronics manufacturers?",
+      "answer": "Our ERP simplifies production run and manages complex Bills of Material (BOM) and automates inventory management to help manufacturers reduce costs, improve quality and deliver products more quickly."
+    },
+    {
+      "id": 2,
+      "question": "Can ERP handle multi-level Bills of Materials (BOMs)?",
+      "answer": "Yes, ERP products accommodate multi-level Bills of Material and allow manufacturers to manage all components and parts with accurate tracking, timely updates and production workflow."
+    },
+    {
+      "id": 3,
+      "question": "Is ERP suitable for small and mid-sized electronics manufacturers?",
+      "answer": "Absolutely. Modern ERP systems are scalable and customizable, allowing small and mid-sized manufacturers to implement modules that fit their specific needs. As the business grows, additional functionalities can be integrated, ensuring the ERP system evolves alongside the company."
+    }
+  ],
+  "industry": "Electronics",
+  "solution": "Integrated Electronics Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Inventory Management",
+    "Quality Assurance",
+    "BOM Management",
+    "Process Automation"
+  ],
+  "result": [
+    "40% increase in production efficiency",
+    "45% reduction in component stockouts",
+    "35% improvement in quality yield"
+  ],
+  "customers": "300+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Electronics Manufacturing Guide",
+    "buttonText": "Download Brochure"
+  }
+}

@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Advanced Analytical Tools",
+      "description": "Use built-in ERP analytics to spot trends, predict changes and improve operations.",
+      "icon": "FaChartLine"
+    },
+    {
+      "title": "Centralized Information Management",
+      "description": "Bring all department data together in one ERP system to stay consistent, cut duplicates and boost accuracy.",
+      "icon": "FaDatabase"
+    },
+    {
+      "title": "Enhanced Collaboration Across Teams",
+      "description": "Use ERP‑embedded BI to share insights across teams, boost transparency and align goals.",
+      "icon": "FaUsers"
+    },
+    {
+      "title": "Scalable and Flexible Solutions",
+      "description": "Scale your ERP's BI tools as your business grows, so you stay flexible and ready for change.",
+      "icon": "FaExpand"
+    },
+    {
+      "title": "Improved Decision-Making Accuracy",
+      "description": "With BI integrated into ERP can turn your data into easy-to-read visuals, helping leaders act quickly with confidence.",
+      "icon": "FaChartBar"
+    },
+    {
+      "title": "Process Performance Analytics",
+      "description": "Monitor and benchmark key operational workflows (order‑to‑cash, procure‑to‑pay) with drill‑down KPIs to spot bottlenecks.",
+      "icon": "FaChartPie"
+    }
+  ]
+  

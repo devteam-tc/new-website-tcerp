@@ -1,0 +1,53 @@
+  {
+  "mumbai": {
+    "title": "Best ERP Software in Mumbai to Empower Your Business",
+    "heading": "Best ERP Software in Mumbai",
+    "image": "/images/contact/mumbai.webp",
+    "description": "Tech Cloud ERP delivers the best cloud-based ERP software in Mumbai, built for trading, manufacturing and service-driven enterprises. Our ERP in Mumbai helps businesses streamline finance, inventory, HR and operations through a fully integrated system. With scalable solutions for both startups and large corporations, we provide real-time insights, improved efficiency and complete control. Choose Tech Cloud ERP in Mumbai to accelerate growth and stay ahead in the city’s competitive business environment.",
+    "features": [
+      "Connected Workflows",
+      "Cloud-Based ERP",
+      "Accurate Analytics",
+      "Seamless Automation",
+      "Real-Time Decisions"
+    ],
+    "items": [
+      {
+        "icon": "/images/location/Mumbai/Intelligent ERP Management.png",
+        "alt": "Intelligent ERP Management",
+        "title": "Intelligent ERP Management",
+        "description": "Automate operations and reduce errors with smart ERP systems tailored for fast-paced business environments."
+      },
+      {
+        "icon": "/images/location/Mumbai/Modular ERP.png",
+        "alt": "Modular ERP",
+        "title": "Modular ERP",
+        "description": "Choose from a range of modules that address industry-specific requirements efficiently."
+      },
+      {
+        "icon": "/images/location/Mumbai/CloudOn-Premise.svg",
+        "alt": "Cloud & On-Premise",
+        "title": "Cloud & On-Premise",
+        "description": "Implement solutions on the cloud or on-site, depending on your infrastructure and growth plans."
+      },
+      {
+        "icon": "/images/location/Mumbai/DataSecurity.svg",
+        "alt": "Data-Driven Insights",
+        "title": "Data-Driven Insights",
+        "description": "Leverage analytics dashboards to make informed decisions and improve business outcomes."
+      },
+      {
+        "icon": "/images/location/Mumbai/Integrated Systems.png",
+        "alt": "Integrated Systems",
+        "title": "Integrated Systems",
+        "description": "Ensure seamless communication between ERP and existing applications to maintain productivity."
+      },
+      {
+        "icon": "/images/location/Mumbai/Reliable Support Services.png",
+        "alt": "Reliable Support Services",
+        "title": "Reliable Support Services",
+        "description": "Access technical support that helps your team resolve issues quickly and stay productive."
+      }
+    ]
+  }
+}

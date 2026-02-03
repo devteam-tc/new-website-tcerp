@@ -1,0 +1,87 @@
+{
+  "mainHeaderSection": {
+    "heading": "Sales Management",
+    "maintitle": "Real-Time Sales Software for Your Business",
+    "description": "Tech Cloud ERP’s Sales Management System streamlines your entire sales process from customer inquiry to order fulfillment. Our sales tracking software helps your team manage leads efficiently, generate accurate quotations, process orders seamlessly and ensure timely delivery and billing. This sales software integrates sales, inventory and finance into one platform to drive faster revenue growth and superior customer satisfaction."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "Lead & Quotation Management",
+      "featuredesc": "Capture customer inquiries from multiple channels and manage them efficiently. Quickly create and customize professional sales quotations with dynamic pricing, discount management and approval workflows. Track inquiries and quotations in real time and convert approved quotes instantly into sales orders ensuring no opportunity is lost and every deal is accurately managed.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/sales/module-1.webp",
+      "imageAlt": "ERP sales management dashboard leads"
+    },
+    {
+      "featuretitle": "Sales Order Processing & Delivery",
+      "featuredesc": "Process sales orders with real-time inventory checks, automated approval workflows and backorder management. Keep full visibility of order status and delivery schedules to ensure timely fulfilment. Automate billing and invoice generation linked directly to deliveries, integrating with accounting and payment systems to improve operational efficiency and cash flow.",
+     "featurelink": "Explore More",     
+      "dashboardImage": "/images/modules/sales/module-2.webp",
+      "imageAlt": " ERP dashboard sales order delivery"
+    },
+    {
+      "featuretitle": "Customer Data & Insights",
+      "featuredesc": "Maintain a centralized customer database including contacts, purchase history, credit terms and communication logs. Use this data to personalize service, automate credit checks and build targeted sales strategies. Detailed analytics and transaction history provide insights to improve sales performance and customer satisfaction.",
+     "featurelink": "Explore More",   
+        "dashboardImage": "/images/modules/sales/module-3.webp",
+      "imageAlt": "ERP dashboard customer sales insights"
+    }
+  ],
+    "videosection": {
+      "title": "Accelerate your Sales Cycle",
+      "description": "Take control of your sales journey from inquiry to invoice. This module helps you follow up faster, close deals with fewer delays and manage every order without losing track. With access to customer history and real-time updates, your team can make better decisions at every step.",
+      "thumbnail": "/images/modules/video-thumbnail.png",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1766400743/sales_vedio_p4yllb.mp4",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "What is the Sales module in ERP?",
+        "answer": "The Sales module automates order processing, quotations, invoicing, dispatch and customer management in an ERP system."
+      },
+      {
+        "question": "How does sales management software make the sales process more efficient?",
+        "answer": "It cuts down manual work, connects sales tasks in one place and keeps teams updated in real-time so they can close deals faster and serve customers better."
+      },
+      {
+        "question": "Is this sales tracking software suitable for small and large businesses?",
+        "answer": " Yes Tech Cloud ERP’s sales module is scalable and configurable for businesses of all sizes—whether you have a small sales team or a complex multi-location operation."
+      },
+      {
+        "question":"Can the sales module integrate with CRM and financial systems?",
+        "answer":"Absolutely. It seamlessly integrates with our CRM inventory management and accounting modules to provide a unified business management platform."
+      }
+    
+    ]
+  }
+  }
+  

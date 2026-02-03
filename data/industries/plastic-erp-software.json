@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/plastic_banner_img.webp",
+  "altimg":"Plastic bottles on production line",
+  "heading" :"Plastic Industry",
+  "title": "Plastic ERP Software Built for Your Manufacturing Needs",
+  "description": "In today’s competitive plastic industry, managing costs, maintaining quality and meeting delivery deadlines are key to success. Tech Cloud’s Plastic ERP is built to give manufacturers complete control over procurement, production, quality and dispatch. Whether you're in injection moulding, profile forming or blow moulding, it enhances processes, ensures compliance and boosts efficiency.",
+  "keyPoints": [
+    "Production Planning & Molding Management",
+    "Raw Material & Resin Tracking",
+    "Quality Control & Compliance",
+    "Tooling, Machine & Maintenance Management",
+    "Real-Time Costing & Sales Integration"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/plastic-production.png",
+      "title": "Production & Material Management",
+      "description": "Monitor every step of your plastic processing cycle",
+      "list": [
+        "MRP Integration for Raw Material Planning",
+        "Scrap & Regrind Material Handling",
+        "Injection, Blow & Extrusion Process Management"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/plastic-quality.png",
+      "title": "Quality & Compliance Monitoring",
+      "description": "Maintain high product standards and traceability",
+      "list": [
+        "Quality Checks at Every Production Stage",
+        "Batch Tracking & Product History",
+        "ISO & Industry Regulatory Reporting"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does this ERP improve plastic production efficiency?",
+      "answer": "By automating production planning and real-time tracking, the ERP for plastic industry reduces waste, shortens cycle times and increases productivity."
+    },
+    {
+      "id": 2,
+      "question": "Can it handle different types of plastic manufacturing processes?",
+      "answer": "Yes. Our plastic ERP software supports injection molding, extrusion, blow molding and thermoforming processes with full customization."
+    },
+    {
+      "id": 3,
+      "question": "Is this ERP scalable for growing plastic manufacturers?",
+      "answer": "Absolutely. Our ERP for plastic manufacturing is modular and scalable, adapting easily as your business expands and evolves."
+    }
+  ],
+  "industry": "Plastic ",
+  "solution": "Integrated Plastic Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Quality Management",
+    "Mold Management",
+    "Material Planning",
+    "Recycling Control"
+  ],
+  "result": [
+    "45% improvement in production efficiency",
+    "40% reduction in material waste",
+    "35% better quality compliance"
+  ],
+  "customers": "350+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": " ",
+    "spanTitle": "Plastic Manufacturing Guide",
+    "buttonText": "Download Brochure"
+  }
+}

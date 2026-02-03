@@ -1,0 +1,80 @@
+{
+  "banner": "/images/industries/retail_banner_img.webp",
+  "altimg":"Supermarket aisle with shopping cart",
+    "heading" :"Retail Industry",
+  "title": "ERP for Retail: Smarter Store Operations with Top ERP Software",
+  "description": "Retail ERP software combines core functions like inventory, order management, accounting, purchasing, and customer data—into one system. It saves time, reduces errors and delivers live insights to help you plan smarter, fulfill orders more accurately and keep customers happy.",
+  "keyPoints": [
+    "Inventory & Stock Management",
+    "Point of Sale (POS) Integration",
+    "Omnichannel Sales & Order Management",
+    "Finance & Accounting",
+    "Customer Loyalty & CRM Tools"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/retail-operations.png",
+      "title": "Inventory & Order Management",
+      "description": "Gain full control over inventory and automate reordering with powerful tools",
+      "list": [
+        "Real-Time Stock Updates Across Stores",
+        "Purchase Planning & Supplier Management",
+        "Multi-Warehouse & Multi-Location Support"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/retail-customer.png",
+      "title": "Finance & Customer Management",
+      "description": "Manage accounts and customer relationships in a single ERP software for retail business",
+      "list": [
+        "GST & Multi-Currency Billing",
+        "Automated Reconciliations & Ledger Reports",
+        "Loyalty Programs, Feedback & Promotions"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does an ERP solution streamline retail business operations?",
+      "answer": "A retail ERP system integrates inventory, sales, orders, accounting, and customer data into a single platform. It helps reduce manual errors, improves efficiency, and gives you complete control over your retail operations."
+    },
+    {
+      "id": 2,
+      "question": "What features should a retail ERP include?",
+      "answer": "Key features include order and inventory tracking, real-time reporting, multichannel sales support and built-in accounting so you can manage operations smoothly and respond quickly."
+    },
+    {
+      "id": 3,
+      "question": "Can the ERP support omnichannel retailing?",
+      "answer": "Yes. The solution supports POS, e-commerce and mobile orders in a single view, enabling seamless omnichannel management with our retail ERP software."
+    },
+    {
+      "id": 4,
+      "question": "Is this ERP scalable for growing businesses?",
+      "answer": "Absolutely. Our ERP software for retail industry is modular and scalable—perfect for both small shops and large enterprise chains."
+    }
+  ],
+  "industry": "Retail",
+  "solution": "Integrated Retail Management System",
+  "modules": [
+    "Store Operations",
+    "Inventory Management",
+    "Customer Relations",
+    "E-commerce Integration",
+    "Analytics Dashboard"
+  ],
+  "result": [
+    "45% improvement in inventory accuracy",
+    "40% increase in customer retention",
+    "35% faster order processing"
+  ],
+  "customers": "1000+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Retail Solutions Brochure",
+    "buttonText": "Download Brochure"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/rubber_banner_img.webp",
+  "altimg":"Rubber tire manufacturing industry product",
+  "heading" :"Rubber Industry",
+  "title": "Top Software for Rubber ERP Manufacturing Companies",
+  "description": "The rubber industry faces unique challenges like fluctuating raw material prices, maintaining consistent quality and meeting tight deadlines. Rubber industry ERP is designed to manage these needs, giving you full control over production, inventory, quality and delivery. Whether you manufacture tyres, moulded components or industrial rubber goods, this solution improves coordination, reduces waste, ensures compliance and boosts profitability.",
+  "keyPoints": [
+    "Procurement & Raw Material Management",
+    "Production Planning & Process Control",
+    "Inventory & Batch Tracking",
+    "Quality Control & Compliance",
+    "Sales, Dispatch & Customer Management"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/rubber-production.png",
+      "title": "Procurement & Raw Material Management",
+      "description": "Control your supply chain and ensure accurate procurement with a centralized ERP software",
+      "list": [
+        "Vendor Comparison & Approval",
+        "Rubber Compound Formulation Control",
+        "Raw Material Inventory with Reorder Alerts"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/rubber-quality.png",
+      "title": "Production Planning",
+      "description": "Streamline operations across all stages — from mixing to molding — with real-time updates",
+      "list": [
+        "Work Order & Job Scheduling",
+        "Machine Allocation & Operator Assignment",
+        "Process Monitoring via Live Dashboards"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What does this ERP system do for rubber manufacturers?",
+      "answer": "Our complete ERP software for rubber industry handles procurement, batch production, curing and delivery — integrating all processes into one robust ERP system."
+    },
+    {
+      "id": 2,
+      "question": "Does the ERP support quality control and compliance in rubber manufacturing?",
+      "answer": "Yes, the ERP includes built-in quality checks at every stage of production and helps ensure compliance with industry standards. It also maintains complete traceability of batches, test results and approvals."
+    },
+    {
+      "id": 3,
+      "question": "Is the ERP flexible for tyre and non-tyre production?",
+      "answer": "Absolutely. From tyres to rubber seals, belts and hoses our software for rubber industry is built to support multiple product types."
+    }
+  ],
+  "industry": "Rubber ",
+  "solution": "Integrated Rubber Manufacturing System",
+  "modules": [
+    "Compound Management",
+    "Production Control",
+    "Quality Assurance",
+    "Process Monitoring",
+    "Material Planning"
+  ],
+  "result": [
+    "45% improvement in compound consistency",
+    "40% reduction in material waste",
+    "35% better quality compliance"
+  ],
+  "customers": "200+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Rubber Manufacturing Guide",
+    "buttonText": "Download Brochure"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/imports_exports_banner_img.webp",
+  "altimg": "Global trade and shipping containers",
+  "heading": "Imports & Exports",
+  "title": "Streamline Your Global Trade Operations with ERP Solutions",
+  "description": "Navigate the complexities of international trade with our comprehensive ERP solution designed specifically for import/export businesses. Manage documentation, compliance, logistics, and multi-currency transactions all in one platform to expand your global reach while maintaining compliance with international trade regulations.",
+  "keyPoints": [
+    "Documentation & Compliance Management",
+    "Multi-Currency & Multi-Language Support",
+    "Customs & Duty Management",
+    "Real-time Shipment Tracking",
+    "Supplier & Buyer Management"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/trade-compliance-and-documentation.png",
+      "title": "Trade Compliance & Documentation",
+      "description": "Automate and manage all import/export documentation including commercial invoices, packing lists, and certificates of origin.",
+      "list": [
+        "Automated Document Generation",
+        "Compliance with International Trade Laws",
+        "Real-time Document Status Tracking"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/logistics-and-shipment-management.png",
+      "title": "Logistics & Shipment Management",
+      "description": "Gain end-to-end visibility of your shipments with integrated logistics and freight management.",
+      "list": [
+        "Carrier & Forwarder Management",
+        "Shipment Tracking & Alerts",
+        "Duty & Tax Calculation"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does the ERP handle customs documentation for different countries?",
+      "answer": "Our ERP includes a comprehensive library of customs forms and documentation requirements for multiple countries, with automatic updates to stay compliant with changing regulations."
+    },
+    {
+      "id": 2,
+      "question": "Can the system handle multiple currencies and exchange rate fluctuations?",
+      "answer": "Yes, the system supports multi-currency transactions with real-time exchange rate updates and automatic revaluation of open items, helping you manage currency risks effectively."
+    },
+    {
+      "id": 3,
+      "question": "How does the system help with trade compliance?",
+      "answer": "The ERP includes built-in compliance checks, restricted party screening, and automated documentation to ensure adherence to international trade regulations and avoid costly penalties."
+    }
+  ],
+  "industry": "Imports & Exports",
+  "solution": "Global Trade Management System",
+  "modules": [
+    "Import/Export Documentation",
+    "Customs & Compliance Management",
+    "Multi-Currency Accounting",
+    "Logistics & Freight Management",
+    "Supplier & Buyer Portal"
+  ],
+  "result": [
+    "50% reduction in documentation time",
+    "40% improvement in compliance accuracy",
+    "35% faster customs clearance"
+  ],
+  "customers": "300+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": " ",
+    "spanTitle": "Global Trade Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

@@ -1,0 +1,77 @@
+{
+    "mainHeaderSection": {
+      "heading": "Installation Management",
+      "maintitle": "Smart Installation Management for Timely Execution",
+      "description": "Easily plan, schedule and monitor installations. Assign teams, oversee sites and ensure projects are completed on time without delays."
+    },
+    "featureSections": [
+    {
+      "featuretitle": "Comprehensive Order Fulfillment Management",
+      "featuredesc": "Tech Cloud ERP ensures smooth handling of your entire order fulfillment cycle. Manage outstanding work orders, schedule and track installations, process deliveries against sales orders and generate invoices seamlessly. With real-time data, automated workflows and accurate reporting, you can boost efficiency, reduce errors and provide customers with reliable, on-time service delivery.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/installation/Installation_1.webp",
+      "imageAlt": "Lead Management Dashboard"
+    },
+    {
+      "featuretitle": "Production & Installation Tracking",
+      "featuredesc": "Tech Cloud ERP provides complete visibility into FG work production, capturing details like reference numbers, production orders, warehouse locations, sub-job lists, signage types, required vs. manufactured quantities and installation dates. With real-time tracking of turnaround times, it helps streamline operations and ensures projects stay on schedule.",
+     "featurelink": "Explore More",     
+      "dashboardImage": "/images/modules/installation/Installation_2.webp",
+      "imageAlt": "Sales Automation Dashboard"
+    }
+    ],
+    "videosection": {
+      "title": "End-to-End Installation Management",
+      "description": "From initial site assessment to final handover, our Installation Management module provides complete visibility and control over your installation projects. Track progress, manage resources, and ensure customer satisfaction with our comprehensive solution.",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "installation-management"
+    },
+    "cards": {
+      "headline": "Comprehensive Installation Management Features",
+      "buttonText": "Explore Features",
+      "cards": [
+        {
+          "icon": "Calendar",
+          "title": "Project Scheduling",
+          "description": "Efficiently schedule and manage installation projects with drag-and-drop calendar views and resource allocation tools."
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "Checklist Management",
+          "description": "Create and manage detailed installation checklists to ensure consistent quality and compliance with standards."
+        },
+        {
+          "icon": "Users",
+          "title": "Team Coordination",
+          "description": "Coordinate installation teams effectively with real-time updates, task assignments, and communication tools."
+        },
+        {
+          "icon": "FileText",
+          "title": "Documentation",
+          "description": "Maintain comprehensive digital records of all installation activities, including photos, notes, and customer approvals."
+        }
+      ]
+    },
+    "faqs": {
+      "subTitle": "Frequently Asked Questions",
+      "title": "Everything You Need to Know About Our Installation Management",
+      "items": [
+        {
+          "question": "How does the installation management module improve project efficiency?",
+          "answer": "Our module streamlines the entire installation process with real-time tracking, automated scheduling, and digital documentation, reducing manual work and improving communication between teams."
+        },
+        {
+          "question": "Can I track multiple installation sites simultaneously?",
+          "answer": "Yes, you can monitor and manage multiple installation projects across different locations from a single dashboard with complete visibility into each project's status."
+        },
+        {
+          "question": "How does the system handle installation documentation?",
+          "answer": "The system provides digital templates for all installation documentation, including work orders, checklists, and customer sign-offs, which can be accessed and updated in real-time."
+        },
+        {
+          "question": "Is the installation module mobile-friendly?",
+          "answer": "Yes, our mobile-responsive design allows field technicians to update installation status, submit reports, and access project details from any device, even offline."
+        }
+      ]
+    }
+}

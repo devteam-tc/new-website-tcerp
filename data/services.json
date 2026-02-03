@@ -1,0 +1,70 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "icon": "/images/services/ser-icon2.png",
+      "title": "Digital Marketing",
+      "description": "Grow your brand online with smart strategies that attract, engage and convert. We make marketing simple and effective.",
+      "thumb": "/images/services/digital.webp",
+      "link": "/services/digital-marketing",
+      "serial": "01"
+    },
+    {
+      "id": 2,
+      "icon": "/images/services/ser-icon.png",
+      "title": "Web Development",
+      "description": "We create fast, responsive and visually striking websites that help your business grow and stand out online.",
+      "thumb": "/images/services/web-app.webp",
+      "link": "/services/web-development",
+      "serial": "02"
+    },
+    {
+      "id": 3,
+      "icon": "/images/services/ser-icon3.png",
+      "title": "App Development",
+      "description": "Unleash your app idea with custom mobile solutions built for performance and scale. Dive into our process and success-driven approach.",
+      "thumb": "/images/services/mobile-app.webp",
+      "link": "/services/app-development",
+      "serial": "03"
+    },
+    {
+      "id": 4,
+      "icon": "/images/services/ser-icon4.png",
+      "title": "E-Commerce Development",
+      "description": "Discover how we crafts user-friendly, high-converting e-commerce platforms tailored for growth. Explore features that turn casual visitors into loyal buyers.",
+      "thumb": "/images/services/e-commerce.webp",
+      "link": "/services/e-commerce-development",
+      "serial": "04"
+    }
+  ],
+  "servicesBySlug": {
+    "web-development": {
+      "id": 1,
+      "icon": "/images/services/ser-icon.png",
+      "title": "Web Development",
+      "description": "We create fast, responsive and visually striking websites that help your business grow and stand out online.",
+      "thumb": "/images/services/web-app.webp"
+    },
+    "digital-marketing": {
+      "id": 2,
+      "icon": "/images/services/ser-icon2.png",
+      "title": "Digital Marketing",
+      "description": "Grow your brand online with smart strategies that attract, engage and convert. We make marketing simple and effective.",
+      "thumb": "/images/services/digital.webp"
+    },
+    "app-development": {
+      "id": 3,
+      "icon": "/images/services/ser-icon3.png",
+      "title": "App Development",
+      "description": "Unleash your app idea with custom mobile solutions built for performance and scale. Dive into our process and success-driven approach.",
+      "thumb": "/images/services/mobile-app.webp"
+    },
+    "e-commerce-development": {
+      "id": 4,
+      "icon": "/images/services/ser-icon4.png",
+      "title": "E-Commerce Development",
+      "description": "Discover how we craft user-friendly, high-converting e-commerce platforms tailored for growth. Explore features that turn casual visitors into loyal buyers.",
+      "thumb": "/images/services/e-commerce.webp"
+    }
+  }
+} 

@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/jewellery_banner_img.webp",
+  "altimg":"Gold jewelry display in store",
+  "heading" :"Jewellery Industry",
+  "title": "Best Jewellery ERP Software for Jewellery Manufacturing Industry",
+  "description": "Managing a jewellery business involves intricate details from tracking inventory and handling custom orders to ensuring compliance with financial regulations. A specialized jewellery ERP software simplifies these operations, integrating billing, inventory management and customer relationship management into a unified system. This not only enhances operational efficiency but also improves customer satisfaction by providing real-time insights and personalized services.",
+  "keyPoints": [
+    "Precious Metal & Stone Inventory Tracking",
+    "Design, CAD & Custom Order Management",
+    "Real-Time Production & Cost Control",
+    " GST-Ready Jewellery Billing Software",
+    "Role-Based Access for Security & Compliance"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/jewellery-production.png",
+      "title": "Jewellery Inventory & Material Management",
+      "description": "Efficiently track gold, silver, diamonds and gemstones with batch-wise and karat-wise controls using smart jewelry inventory software.",
+      "list": [
+        "Multi-Unit (Gram, Carat) Inventory",
+        "Automated Stock Valuation & Audits",
+        " Barcode Integration & Tag Management"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/jewellery-quality.png",
+      "title": "Billing & Retail Shop Management",
+      "description": "Deliver fast and accurate billing experiences in retail outlets with integrated software for jewellery shop.",
+      "list": [
+        " POS-Integrated Invoicing",
+        "Weight-Based Pricing Calculations",
+        " Customer Loyalty Tracking"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does jewellery ERP software benefit my business?",
+      "answer": "Jewellery ERP software consolidates various business processes, enabling efficient inventory tracking, automated billing and comprehensive customer management. It facilitates real-time data access, ensuring accurate financial reporting and compliance with tax regulations. Additionally, it supports personalised customer interactions, enhancing service quality and fostering customer loyalty."
+    },
+    {
+      "id": 2,
+      "question": "Can it handle multi-location jewellery stores and showrooms?",
+      "answer": "Yes, our jewellery ERP supports chain store operations with centralized data, inventory sync and customer history across all branches."
+    },
+    {
+      "id": 3,
+      "question": "Is the software secure and GST-compliant?",
+      "answer": "Absolutely. The jewellery billing software is GST-ready and includes role-based access, audit trails and compliance features to secure business data."
+    }
+  ],
+  "industry": "Jewellery",
+  "solution": "Integrated Jewellery Manufacturing System",
+  "modules": [
+    "Design Management",
+    "Production Control",
+    "Metal Management",
+    "Stone Inventory",
+    "Quality Assurance"
+  ],
+  "result": [
+    "45% better inventory accuracy",
+    "40% reduction in metal wastage",
+    "35% faster design-to-production"
+  ],
+  "customers": "250+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Jewellery",
+    "buttonText": "Download Brochure"
+  }
+}

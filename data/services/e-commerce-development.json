@@ -1,0 +1,106 @@
+{
+    "services": [
+      {
+        "title": "Automation",
+        "img": "/images/servicescards/Automation.png",
+        "hoverImg": "/images/servicescards/white/Automation-white.png",
+        "link": "/services/web-development",
+        "description": "Ensure smooth, efficient transactions from start to finish using Tech Cloud ERP’s intelligent automation tools.",
+        "icon": "/images/services/ser-icon.png",
+        "thumb": "/images/services/ser-thumb.webp"
+      },
+      {
+        "title": "Website Builder",
+        "img": "/images/servicescards/Design&Prototyping.png",
+        "hoverImg": "/images/servicescards/white/Design&Prototyping-white.png",
+        "link": "/services/ecommerce-development",
+        "description": "Easy-to-use tools, customizable templates and smooth integration to make website building quick and hassle-free.",
+        "icon": "/images/services/ecom-icon.png",
+        "thumb": "/images/services/ecom-thumb.webp"
+      },
+      {
+        "title": "Central Database",
+        "img": "/images/servicescards/Development&Integration1.png",
+        "hoverImg": "/images/servicescards/white/Development&Integration-white.png",
+        "link": "/services/progressive-web-apps",
+        "description": "Store all your business data securely and organized in one place with our centralized, efficient database system.",
+        "icon": "/images/services/pwa-icon.png",
+        "thumb": "/images/services/pwa-thumb.webp"
+      },
+      {
+        "title": "Search Function",
+        "img": "/images/servicescards/SearchFunction.png",
+        "hoverImg": "/images/servicescards/white/SearchFunction-white.png",
+        "link": "/services/cms-development",
+        "description": "Easily find what you need with powerful search tools that make accessing information fast, simple and effortless.",
+        "icon": "/images/services/cms-icon.png",
+        "thumb": "/images/services/cms-thumb.webp"
+      },
+      {
+        "title": "Integration",
+        "img": "/images/servicescards/CMSDevelopment.png",
+        "hoverImg": "/images/servicescards/white/CMSDevelopment-white.png",
+        "link": "/services/api-development",
+        "description": "Seamlessly connect all your business tools for smoother, more efficient operations with our integration platform.",
+        "icon": "/images/services/api-icon.png",
+        "thumb": "/images/services/api-thumb.webp"
+      },
+      {
+        "title": "Marketing Data Visualization",
+        "img": "/images/servicescards/Marketingdatavisualization.png",
+        "hoverImg": "/images/servicescards/white/Marketingdatavisualization-white.png",
+        "link": "/services/web-security",
+        "description": "Turn marketing data into clear insights with visualization tools to help you make smarter business decisions.",
+        "icon": "/images/services/security-icon.png",
+        "thumb": "/images/services/security-thumb.webp"
+      }
+      
+    ],
+    "about": {
+      "heading": "E-Commerce ERP for Growing Digital Retail Brands",
+      "paragraph": "At Tech Cloud ERP, we connect your online store with a powerful ERP system that brings together inventory, orders, finance, and fulfillment in one place. With real-time visibility and automated workflows, you can reduce errors, save time, and deliver a better customer experience while confidently growing your business every step of the way.",
+      "features": [
+        "Unified Ecommerce Operations",
+        "Automation for Smarter Growth"
+      ],
+      "imageMain": "/images/servicescards/ecommerce-development.webp",
+        "imageMainAlt": "E-commerce development with digital icons"
+    },
+    "faq": [
+      {
+        "question": "Is the website secure for transactions?",
+        "answer": "Yes. Your site will be built with secure HTTPS protocols, SSL certificates and best practices for data protection and PCI compliance."
+      },
+      {
+        "question": "Can I track inventory and orders?",
+        "answer": "Yes. Your admin panel will provide real-time inventory and order tracking capabilities, with optional integrations to third-party inventory management systems."
+      },
+      {
+        "question": "Can I integrate third-party tools like CRM or email marketing?",
+        "answer": "Yes. We can integrate tools like Mailchimp, HubSpot and others based on your business needs."
+      },
+      {
+        "question": "Will my e-commerce site be mobile-friendly?",
+        "answer": "Yes, all the websites we build are fully responsive and optimized for mobile devices to provide a seamless shopping experience."
+      }
+     
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Plan & Design",
+        "description": "We start by understanding your business, audience and goals. Then, we create a custom design that matches your brand and ensures a smooth shopping experience across all devices."
+      },
+      {
+        "step": 2,
+        "title": "Build & Integrate",
+        "description": "Our developers bring your store to life by building a powerful backend and connecting key systems like payment gateways, ERP, CRM and analytics."
+      },
+      {
+        "step": 3,
+        "title": "Launch & Support",
+        "description": "After thorough testing, we launch your store and provide continuous support to keep it running smoothly and ready for growth."
+      }
+     
+    ]
+  } 

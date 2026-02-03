@@ -1,0 +1,87 @@
+{
+  "mainHeaderSection": {
+    "heading": "Point of Sale",
+    "maintitle": "Our Best POS Software Built for Smart Retail Decisions",
+    "description": "Managing sales shouldn't be complicated. Tech Cloud ERP's Point of Sale system is designed to make transactions seamless and efficient, whether you're running a small retail shop, restaurant, or a growing chain of outlets. With real-time insights and intuitive features, you can focus more on your customers and less on the backend."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "Set Up and Customize your POS",
+      "featuredesc": "Tech Cloud ERP allows you to personalize the POS to your needs. It can be configured to fit your business set-up whether you are using at a cafe or a traditional set-up in your boutique. Configure product groups, establish pricing and manual or automatic payment methods to meet your business set-up.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/pos/POS-1.webp",
+      "imageAlt": "Lead Management Dashboard"
+    },
+    {
+      "featuretitle": "Streamline Sales and Inventory Management",
+      "featuredesc": "Processing your sales is easy and fast after you initially setup. Simply scan the items, apply discounts, payment methods, etc. The system also automatically updates your inventory in real-time, providing you with accurate stock levels. This all-in-one system will help you avoid stockouts and over-stockings and keep your business running smoothly.",
+     "featurelink": "Explore More",   
+        "dashboardImage": "/images/modules/pos/POS-2.webp",
+      "imageAlt": "Sales Automation Dashboard"
+    },
+    {
+      "featuretitle": "Analyze Performance and Grow your Business",
+      "featuredesc": "Make smarter business decisions with powerful analytics. Tech Cloud ERP's POS module generates detailed daily reports, helping you identify top-performing products, peak sales hours, and key customer trends. With these actionable insights, you can refine promotions, optimize inventory planning, and fuel your business growth strategically.",
+     "featurelink": "Explore More",  
+      "dashboardImage": "/images/modules/pos/POS-3.webp",
+      "imageAlt": "Sales Automation Dashboard"
+    }
+  ],
+    "videosection": {
+      "title": "Faster Billing, Happier Customers",
+      "description": "Quick billing, accurate stock sync and customer data — all in one view. Our POS system supports fast-paced retail environments with smooth, reliable performance.",
+      "thumbnail": "/images/modules/video-thumbnail.png",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our POS Solution",
+    "items": [
+
+      {
+        "question": "How does the POS module handle sales and inventory?",
+        "answer": "The POS module records customer purchases, updates stock levels instantly and helps in preventing overselling. It combines checkout operations with real-time inventory tracking—so you can always know what you've sold and what's left."
+      },
+      {
+        "question": "What kind of hardware and payment methods are supported?",
+        "answer": "It supports a variety of devices—touchscreen terminals, barcode scanners, receipt printers—as well as multiple payment options like card, cash and contactless."
+      },
+      {
+        "question": "Can I view sales analytics and customer data?",
+        "answer": "Yes, the module offers built-in reports on daily sales, best-selling items and customer purchase patterns. It often includes customer profiles and loyalty tracking to help you understand and retain your buyers."
+      },
+      {
+        "question": "What is the POS module in ERP?",
+        "answer": " The Point of Sale (POS) module enables real-time billing, barcode scanning, customer discounts and cashier management at retail counters."
+      }
+    ]
+  }
+  }
+  

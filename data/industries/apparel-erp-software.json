@@ -1,0 +1,74 @@
+{
+  "banner": "/images/industries/apparel-banner_img.webp",
+  "altimg":"Automated apparel manufacturing production",
+  "title": "Apparel ERP Software for Fashion Manufacturers",
+  "heading":"Apparel Industry",
+  "description": "In today’s highly competitive apparel industry, managing seasonal demand, fast-changing fashion trends and complex supply chains is crucial for success. Our Apparel ERP Software is designed specifically for apparel manufacturers, wholesalers and retailers, enabling you to stremline the operations from design and production to inventory and sales. Gain real-time visibility, improve collaboration and ensure faster time-to-market so you stay ahead in style and in business.",
+  "keyPoints": [
+    "Design & Production Management",
+    "Material Resource Planning (MRP)",
+    "Inventory & Stock Control",
+    "Order Management & Tracking",
+    "Costing & Profitability Tracking"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/apparel_management.png",
+      "title": "Apparel Production ",
+      "description": "End-to-end ERP for apparel businesses from design to delivery with real-time operational control.",
+      "list": [
+        "Design & Product Development",
+        "Inventory & Material Management",
+        "Production & Quality Control"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/production_analytics.png",
+      "title": "Distribution & Analytics",
+      "description": "Optimize your supply chain and gain insights with advanced reporting tools for faster, smarter decisions.",
+      "list": [
+        "Production Planning & Scheduling",
+        "Quality Assurance Metrics",
+        "Retail & Distribution Tracking"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does ERP software help apparel manufacturers?",
+      "answer": "It connects departments like design, production, inventory and sales into a single system, making it easier to manage styles, track materials and ensure timely deliveries with fewer errors."
+    },
+    {
+      "id": 2,
+      "question": "Can apparel ERP handle custom orders and changing designs?",
+      "answer": "Yes. The system is flexible enough to manage dynamic changes in styles, sizes and specifications, making it ideal for fashion and garment businesses with frequent custom orders."
+    },
+    {
+      "id": 3,
+      "question": "How does ERP help with inventory and stock control in apparel?",
+      "answer": "Apparel ERP provides real-time visibility of raw materials, finished goods and stock levels across warehouses. It helps avoid overstocking or stockouts by optimizing purchase and production planning."
+    }
+  ],
+  "industry": "Apparel ",
+  "solution": "Integrated Fashion Management System",
+  "modules": [
+    "Design Management",
+    "Production Planning",
+    "Inventory Control",
+    "Quality Management",
+    "Distribution"
+  ],
+  "result": [
+    "40% reduction in design-to-production time",
+    "35% improvement in inventory accuracy",
+    "25% decrease in production costs"
+  ],
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": "",
+    "spanTitle": "Fashion Industry Solutions",
+    "buttonText": "Download Brochure"
+  }
+}

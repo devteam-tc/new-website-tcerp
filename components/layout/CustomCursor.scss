@@ -1,0 +1,68 @@
+/* Hide default cursor */
+html {
+    cursor: none;
+  }
+  
+  /* Main cursor (center dot) */
+  .cursor {
+    width: 8px;
+    height: 8px;
+    background-color: #000;
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s;
+  }
+  
+  /* Cursor follower (larger circle) */
+  .cursor-follower {
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+    z-index: 9998;
+    transform: translate(-50%, -50%);
+    transition: all 0.3s ease-out;
+    mix-blend-mode: difference;
+  }
+
+/* Disable custom cursor on touch / mobile devices */
+@media (pointer: coarse), (hover: none) {
+  html { cursor: auto !important; }
+  .cursor,
+  .cursor-follower,
+  .cursor-dot { display: none !important; }
+}
+
+  /* Style for all three dots */
+  .cursor-dot {
+    position: fixed;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 9997;
+    transform: translate(-50%, -50%);
+    transition: transform 0.2s ease-out;
+  }
+  
+  /* Individual dot colors */
+  .dot-1 { background-color: #ff5e5e; } /* Red */
+  .dot-2 { background-color: #5eb3ff; } /* Blue */
+  .dot-3 { background-color: #ffdb5e; } /* Yellow */
+  
+  /* Hover effects */
+  a, button, .clickable {
+    cursor: none;
+  }
+  
+  /* Ensure the cursor is above other content */
+  .cursor,
+  .cursor-follower,
+  .cursor-dot {
+    will-change: transform;
+  }

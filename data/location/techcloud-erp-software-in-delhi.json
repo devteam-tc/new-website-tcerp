@@ -1,0 +1,47 @@
+  {
+  "delhi": {
+    "title": "Best ERP software in Delhi to Empower Your Business",
+    "heading": "Best ERP Software in Delhi",
+    "image": "/images/contact/delhi.webp",
+    "description": "Tech Cloud ERP is the best Cloud-based ERP Software in India which provides a perfect ERP Software for manufacturing, trading and service-based businesses. Being one of the finest ERP software companies in Delhi, we enable you to simplify operations, enhance productivity and reduce capital expenditures through a fully centralized system. Our scalable ERP Delhi applications are made to fit start-ups and big corporates to offer you real-time insights and more control.",
+    "features": [
+      "Intelligent Systems",
+      "Reliable Analytics",
+      "Cloud-Ready ERP",
+      "Business Simplified",
+      "Modular Solutions"
+    ],
+    "items": [
+      {
+        "imgSrc": "/images/location/Delhi/EfficientBusiness.svg",
+        "title": "Efficient Business Automation",
+        "description": "Improve efficiency by automating repetitive processes and allowing teams to focus on strategic tasks."
+      },
+      {
+        "imgSrc": "/images/location/Delhi/SpecializedModules.svg",
+        "title": "Specialized Modules",
+        "description": "Access modules built for industry-specific needs, including finance, HR and operations management."
+      },
+      {
+        "imgSrc": "/images/location/Delhi/FlexibleERP.svg",
+        "title": "Flexible ERP Deployment",
+        "description": "Deploy ERP solutions on cloud or on-premise platforms according to your infrastructure needs."
+      },
+      {
+        "imgSrc": "/images/location/Delhi/AnalyticsTools.svg",
+        "title": "Analytics Tools",
+        "description": "Use dashboards and reporting tools to make data-driven business decisions confidently."
+      },
+      {
+        "imgSrc": "/images/location/Delhi/SeamlessSoftware.svg",
+        "title": "Seamless Software Integration",
+        "description": "Ensure smooth ERP connectivity with existing business applications for uninterrupted workflow."
+      },
+      {
+        "imgSrc": "/images/location/Delhi/DedicatedSupport.svg",
+        "title": "Dedicated Support Team",
+        "description": "Receive timely assistance from experts to maintain consistent ERP performance."
+      }
+    ]
+  }
+}

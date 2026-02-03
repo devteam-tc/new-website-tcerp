@@ -1,0 +1,760 @@
+ // Add this at the top of _banner.scss
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+.banner-hero {
+	position: relative;
+	width: 100%;
+	min-height: 600px;
+	  min-height: 100vh; 
+	// overflow: hidden;
+	// display: flex;
+	align-items: center;
+	background: none; 
+}
+.banner-hero2{
+padding: 160px 0 120px 0;
+}
+ 
+// For desktop (768px and above)
+
+  .banner-circle-overlay {
+    position: absolute;
+    width: 110%;  // Increased width to allow image to extend beyond screen
+    height: 100%;
+    top: -7%;    // Move the container up
+    left: -6%;   // Center the extended width
+    overflow: visible;  // Changed to visible to show extended parts
+    z-index: 1;
+    
+    .banner-circle-image {
+      width: 100% !important;
+      height: auto !important;
+      max-width: none;  // Remove max-width restriction
+      position: absolute;
+      left: 50% !important;
+      top: 2% !important;  // Move the image up within container
+      transform: translate(-50%, -50%) !important;
+      object-fit: contain;
+      object-position: center top;
+    }
+  }
+
+@media (min-width: 768px) {
+	}
+
+// For mobile (below 768px)
+@media (max-width: 767px) {
+  .banner-circle-overlay {
+    position: relative;
+    width: 250%;        // Increased to allow more overflow
+    left: -75%;         // Center the extended width
+    padding-top: 10%;  // Maintain aspect ratio
+    overflow: visible;   // Show extended parts
+    margin-top: -10%;    // Move up slightly
+    
+    .banner-circle-image {
+      position: absolute;
+      width: 100% !important;
+      height: auto !important;
+      left: 50% !important;
+      top: 40% !important;  // Position higher in the container
+      transform: translate(-50%, -55%) !important;
+      max-width: none;      // Remove any max-width restriction
+    }
+
+  }
+  .banner-hero2{
+padding: 0px 0 0px 0;
+}
+}
+.banner-bg-clouds {
+	position: absolute;
+	top: 0; left: 0; right: 0; bottom: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+	overflow: hidden;
+  }
+  
+
+.banner-left {
+	position: relative;
+	z-index: 2;
+	padding-top: 40px;
+	padding-bottom: 40px;
+} 
+:root {
+  --font-size-base: 16px; // Default base size
+}
+// Mixin for responsive font sizes
+@mixin responsive-font($min-size, $max-size, $min-width: 320px, $max-width: 1920px) {
+  font-size: calc(#{$min-size} + (#{strip-unit($max-size - $min-size)}) * ((100vw - #{$min-width}) / #{strip-unit($max-width - $min-width)}));
+  
+  @media (max-width: $min-width) {
+    font-size: $min-size;
+  }
+  @media (min-width: $max-width) {
+    font-size: $max-size;
+  }
+}
+// Helper function to strip units
+@function strip-unit($value) {
+  @return $value / ($value * 0 + 1);
+}
+// Apply responsive font sizes
+.banner-title { 
+  font-family: 'Inter', sans-serif;
+  line-height: 1.15;
+  font-weight: 600;
+  font-style: normal; // Changed from 'Semi Bold' to use font-weight instead
+  @include responsive-font(1.8rem, 3rem, 320px, 1440px); // Responsive font size
+  text-align: center;
+  color: #fff;
+  letter-spacing: normal;
+  margin-bottom: 18px;
+  
+}
+.banner-subtitle {
+  @include responsive-font(0.75rem, 1.2rem, 320px, 1440px);
+  color: #FFFFFF;
+  margin-bottom: 10px;
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 100;
+  line-height: 1.5;
+}
+.banner-subtitle-list {
+  color: white;
+  list-style: none;
+  margin-bottom: 20px;
+  display: flex;
+  // flex-wrap: wrap; // Allow items to wrap on smaller screens
+  max-width: 100%;
+  @include responsive-font(0.7rem, 0.8rem, 320px, 1440px);
+  flex-direction: row;
+  gap: 10px;
+  
+  li {
+    // padding-left: 8px;
+    // text-indent: -5px; 
+    // padding-right: 12px;  
+    // font-weight: 600;
+	 position: relative;
+    padding-left: 20px; // Space for custom bullet
+    padding-right: 12px;
+    font-weight: 600;
+    
+    &::before {
+      content: "•"; // Custom bullet
+      position: absolute;
+      left: 3px; // Adjust bullet position
+      color: white;
+    }
+	  &::marker {
+		display: none;
+	  }
+  }
+} 
+  .gradient-btn {
+      position: relative;
+      padding: 16px 34px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #fff;
+      background: transparent;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+      z-index: 1;
+      overflow: visible;
+      letter-spacing: 0.3px;
+      margin: 20px auto 40px; 
+      animation: zoomInOut 4s ease-in-out infinite;
+    cursor: pointer;
+      transition: all 0.3s ease;
+
+  // Pause animation when user prefers reduced motion
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+    &::before {
+      animation: none;
+    }} 
+}
+@keyframes zoomInOut {
+  0% {
+    transform: scale(1); 
+  }
+  50% {
+    transform: scale(1.15);
+	 
+
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+    /* Animated gradient border */
+ .gradient-btn {
+  position: relative;
+  padding: 16px 16px 16px 16px; // Added left padding for cursor
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+  background: transparent;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  z-index: 1;
+  overflow: visible;
+  letter-spacing: 0.3px;
+  margin: 20px auto 40px; 
+  transition: all 0.3s ease;
+  animation: zoomInOut 4s ease-in-out infinite;
+
+  // Cursor image
+  &::after {
+    content: '';
+    position: absolute;
+   left: 90%;
+    top: 70%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    background-image: url('/images/banner/new/cursor.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    animation: zoomInOut 2s ease-in-out infinite;
+    z-index: 2;
+  }
+
+  // Gradient border
+  &::before { 
+    content: '';
+    position: absolute;
+    inset: 0;
+    padding: 2px;
+    border-radius: 50px;
+    background: linear-gradient(120deg, #05A7CC, #FFFFFF, #05A7CC);
+    background-size: 300% 300%;
+    animation: gradientBorder 3s linear infinite; 
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    z-index: 1;
+  }
+
+  // Pause animations when user prefers reduced motion
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+    &::before, &::after {
+      animation: none;
+    }
+  }
+}
+
+@keyframes zoomInOut {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
+
+@keyframes gradientBorder {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 300% 50%; }
+}
+// Additional media queries for fine-tuning
+@media (max-width: 768px) {
+  .banner-title {
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+  
+  .banner-subtitle {
+    padding: 0 15px; // Add some padding on mobile
+  }
+  
+  .banner-subtitle-list {
+    flex-direction: row; // Stack list items on mobile
+    align-items: center;
+    padding-left: 20px;
+    display: none;
+  }
+}
+// For very small devices
+@media (max-width: 480px) {
+  .banner-demo-btn {
+    width: 90%; // Slightly smaller width on very small screens
+    margin: 15px auto 30px;
+  }
+}
+.banner-right {
+	position: relative;
+	z-index: 2;
+	min-height: 480px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	padding-bottom: 60px;
+}
+
+.rocket-visual {
+	position: relative;
+	width: 420px;
+	height: 420px;
+	margin: 0 auto;
+	margin-top: 60px;
+}
+  
+.banner-cards-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  position: relative;
+  z-index: 2;
+  border-radius: 20px;
+  background: transparent;
+  white-space: nowrap;
+
+  // overflow-x: auto;          // ✅ Enable scroll
+  // overflow: hidden;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+
+  justify-content: flex-start; // ✅ Allow overflow
+  flex-wrap: nowrap;           // ✅ Prevent wrapping
+  margin-top: 50px;
+  &::-webkit-scrollbar {
+    height: 6px;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 20px;
+    padding: 2px;
+    background: linear-gradient(
+      92.25deg,
+      #FAFAFA -6.78%,
+      #FAC9BC 35.59%,
+      #B2E4EF 69.51%,
+      #FDEEE9 99.98%
+    );
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+
+  backdrop-filter: blur(50px);
+}
+.banner-cards-track {
+  display: flex;
+  gap: 20px;
+ animation: loop-scroll 20s linear infinite;
+  will-change: transform;
+}
+@keyframes loop-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(calc(-50% - 10px)); }
+}
+
+.banner-cards-container:hover .banner-cards-track {
+  animation-play-state: paused;
+}
+
+.card-item {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 12px; 
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transform: scale(1);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    flex: 0 0 auto;    
+    width: 240px;
+    height: 150px;
+    flex: 0 0 240px;
+    height: 150px;
+  cursor: pointer;
+  &.expanded {
+    transform: scale(2.08) translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+    background: rgba(255, 255, 255, 1);
+    z-index: 10;
+    position: relative;
+     // Show overlay when expanded
+    .card-overlay {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+    
+    // Scale the image
+    // .card-image {
+    //   transform: scale(1.05);
+    //   filter: brightness(1.1);
+    // }
+    
+  }
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(255, 107, 53, 0.1), rgba(247, 147, 30, 0.1));
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    z-index: 1;
+  }
+  
+  // // Active/Click state instead of hover
+  // &:active,
+  // &:focus,
+  // &.clicked {
+  //   transform: scale(2.08) translateY(-8px);
+  //   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+  //   background: rgba(255, 255, 255, 1);
+  //   z-index: 10;
+  //   &::before {
+  //     opacity: 1;
+  //   }
+    
+    // img {
+    //   transform: scale(1.05);
+    //   filter: brightness(1.1);
+    // }
+  } 
+  // img {
+  //   border-radius: 8px;
+  //   width: 100%;
+  //   height: auto;
+  //   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  //   position: relative;
+  //   z-index: 2;
+  // }
+    // .card-image {
+    //   transform: scale(1.05);
+    //   filter: brightness(1.1);
+    // }
+    
+      .card-overlay { 
+      }
+    
+    // h3, p {
+    //   margin: 5px 0;
+    //   color: white;
+    // }  
+// @media (max-width: 768px) {
+//   .banner-cards-container {
+//     // flex-wrap: wrap;
+//     gap: 15px;
+//   }
+  
+//   .card-item {
+//     flex: 1 1 calc(50% - 15px);
+//     min-width: 140px;
+    
+//   }
+// }
+
+@keyframes float-rocket {
+  0%, 100% {
+    transform: translate(-50%, -50%) translateY(0);
+  }
+  50% {
+    transform: translate(-50%, -50%) translateY(-15px);
+  }
+}
+
+.rocket-center {
+	position: absolute;
+	left: 75%;
+	width: 350px;
+	top: 45%;
+	transform: translate(-50%, -50%);
+	z-index: 3;
+	animation: float-rocket 3s infinite ease-in-out;
+
+	// img {
+	// 	filter: drop-shadow(0 8px 24px rgba(0, 0, 0, 0.15));
+	// 	transition: filter 0.3s ease;
+
+	// 	&:hover {
+	// 		filter: drop-shadow(0 12px 28px rgba(0, 0, 0, 0.2));
+	// 	}
+	// }
+}
+
+/* Rocket image variants */
+.rocket-desktop { display: block; }
+.rocket-mobile { display: none; }
+
+.banner-center-content {
+	position: relative;
+	z-index: 2;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+/* Chart Cards */
+.chart-card {
+	position: absolute;
+	width: 250px;
+	height: 180px;
+	border-radius: 14px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 2;
+
+	// img {
+	// 	box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+	// 	border-radius: 10px;
+	// 	transition: box-shadow 0.3s ease;
+	// }
+}
+.chart-top-left {
+    border-radius: 10px;
+    top: 3px;
+    left: -300px;
+    animation: bounce-chart 2.2s infinite ease-in-out;
+    animation-delay: 0s;
+}
+.chart-top-right { top: -45px; right: -300px;  animation: bounce-chart 2.2s infinite ease-in-out;
+    animation-delay: 2;}
+.chart-bottom-left { bottom: 10px; left: -250px;  animation: bounce-chart 2.2s infinite ease-in-out;
+    animation-delay: 4s; }
+.chart-bottom-right { bottom: 40px; right: -250px;  animation: bounce-chart 2.2s infinite ease-in-out;
+    animation-delay: 6s; }
+
+/* Floating Icons */
+.rocket-icon {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	z-index: 4;
+}
+.icon-pos-1 { top: 30px; left: -20px;  }
+.icon-pos-2 { top: 40px; right: -30px; }
+.icon-pos-3 { top: 152px; left: -80px; }
+.icon-pos-4 { bottom: 75px; right: -30px; }
+.icon-pos-5 { bottom: 75px; left: -30px;  }
+.icon-pos-6 { top: 160px; right: -70px; }
+
+@keyframes bounce-chart {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .banner-hero2 {
+    padding:  0px 0 0px 0;
+}
+}
+
+@media (max-width: 992px) {
+	.banner-hero { padding: 120px 0 50px 0; }
+	.rocket-icon,
+	.chart-card {
+		display: none !important;
+	}
+
+	/* Swap rocket image to mobile variant */
+	.rocket-desktop { display: none !important; }
+	.rocket-mobile { display: block !important; }
+
+	/* Increase mobile rocket size and fix position */
+	.rocket-center {
+		width: 450px;
+		left: 53%;
+        top: 10%;
+		bottom: 0;
+		// top: auto;
+		transform: translate(-50%, 0);
+		animation: none;
+	}
+	.rocket-center .rocket-mobile { width: 450px; height: auto; }
+	.banner-subtitle{
+		padding: 6px 12px;
+		font-size: 15px;
+		max-width: 631px;
+	}
+}
+
+
+@media screen and (max-width: 992px) {
+	.rocket-visual{
+	        display: block;
+	        width: 340px;
+	        height: 340px;
+	        top: 0;
+	        margin: 0 auto;
+	}
+
+}
+
+@media (max-width: 767px) {
+	.banner-hero { flex-direction: column; }
+	.banner-title { font-size: 1.5rem; }
+	/* Ensure rocket sizing and position for phones */
+	.rocket-visual { width: 300px; height: 300px; top: 0; margin: 0 auto; }
+		.banner-center-content {
+		align-items: center;
+		justify-content: center;
+		text-align: center; 
+            padding: 6px 12px;
+	}
+  .gradient-btn {
+    padding: 12px 18px;
+    font-size: 16px;
+    margin: 10px auto 20px;
+  }
+}
+.banner-cards-container {
+  position: relative;
+  overflow: hidden;
+  width: 80%;
+  padding: 20px;
+}
+
+.banner-cards-track {
+  display: flex;
+  gap: 20px;
+  width: max-content;
+  animation: loop-scroll 22s linear infinite;
+    will-change: transform;
+  padding: 10px 0; // Add some vertical padding
+  &::after {
+  content: '';
+  display: block;
+  width: 20px; // Match your gap
+  flex-shrink: 0;
+}
+}
+.banner-cards-container * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@keyframes loop-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(calc(-50% - 150px)); }
+}
+
+.card-item {
+}
+
+.card-item.clicked {
+  transform: scale(2.1) translateY(-12px);
+  z-index: 999;
+}
+
+
+/* ZOOM OVERLAY */
+// .zoom-layer {
+//   position: fixed;
+//   inset: 0;
+//   background: rgba(0,0,0,0.55);
+//   display: block;
+//   z-index: 9999;
+// }
+
+// /* ZOOM IMAGE */
+// .zoom-img {
+//   position: fixed;
+//   border-radius: 14px;
+//   transition: transform 0.4s ease;
+//   box-shadow: 0 40px 90px rgba(0,0,0,0.6);  /* Changed from transparent to visible shadow */
+//   transform-origin: center center;
+//   transform: scale(1);
+  
+//   /* When zoomed, center horizontally */
+//   &.zoomed {
+//     left: 50% !important;
+//     top: 50% !important;
+//     transform: translate(-50%, -50%) scale(3);
+//   }
+  
+//   /* Animate to zoom state */
+//   .zoom-layer.active & {
+//     transform: scale(3);
+//   }
+// }
+/* ZOOM OVERLAY - Constrained within banner */
+.zoom-layer {
+  position: absolute;
+  inset: 0;
+  background: transparent;
+  display: block;
+  z-index: 9999;
+  overflow: hidden; /* Keep zoom within banner bounds */
+}
+ 
+/* ZOOM IMAGE */
+.zoom-img {
+  position: absolute;
+  border-radius: 14px;
+  transition: transform 0.4s ease;
+  box-shadow: 0 40px 90px transparent;
+  transform-origin: center center;
+  transform: scale(1);
+  
+  /* When zoomed, center within banner section */
+  &.zoomed {
+    left: 43% !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%) scale(3);
+  }
+}
+ 
+/* Make banner-center-content a positioning context */
+.banner-center-content {
+  position: relative; /* Added for containing the zoom overlay */
+}
+
+@media (max-width: 767px) {
+  // .zoom-layer {
+  //   display: none !important;
+  // }
+  
+  /* Keep cards clickable but without zoom */
+  .card-item {
+    cursor: pointer;
+  }
+  
+  /* Optional: Remove hover effects on mobile */
+  .banner-cards-track:hover {
+    animation-play-state: running !important;
+  }
+  .zoom-img {
+   
+  
+  /* When zoomed, center within banner section */
+  &.zoomed {
+    left: 35% !important;
+    top: 50% !important;
+  }
+}
+
+}
+@media (max-width: 576px) {
+  .zoom-layer {
+    display: none !important;
+  } 
+}
+
+/* Track pause state */
+.banner-cards-track.paused {
+  animation-play-state: paused;
+}

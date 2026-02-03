@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/garment_banner_img.webp",
+  "altimg":"Garment factory with sewing machines",
+  "heading" :"Garment Industry",
+  "title": "Smart ERP Software for Garment ERP Manufacturing Industry",
+  "description": "Managing a garment business involves coordinating various aspects like design, production, inventory and order fulfillment. Our Garment ERP system makes the processes easy by offering real-time visibility and control. By integrating operations from fabric procurement to final shipment, it enhances efficiency, reduces waste and supports timely deliveries, helping businesses adapt swiftly to market demands.",
+  "keyPoints": [
+    "Style, Size & Color Matrix Management",
+    "BOM & Cost Sheet Generation",
+    "Cutting, Stitching & Finishing Workflow",
+    "Order Management (Bulk & Custom)",
+    " Quality, Compliance & Shipment Tracking"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/garment-production.png",
+      "title": "Design & Style Management",
+      "description": "Streamline design approvals and style-wise tracking across multiple product lines and variants.",
+      "list": [
+        "Centralized Design Repository",
+        " Style-Size-Color Configuration",
+        "Version Control & Design Revisions"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/garment-quality.png",
+      "title": "Production & Workflow Automation",
+      "description": "Automate key processes to improve output, manage resources, and ensure on-time delivery.",
+      "list": [
+        "Production Planning & Line Allocation",
+        "Stitching & Finishing Workflow",
+        " WIP Monitoring & Line Balancing"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How is an ERP system beneficial for garment manufacturers?",
+      "answer": "An ERP system manages style variations, automates production planning, controls fabric and trim inventory, simplifies order processing, and ensures on-time delivery across seasons."
+    },
+    {
+      "id": 2,
+      "question": "Who can use this ERP system in the apparel industry?",
+      "answer": "This ERP solution is ideal for garment manufacturers, fashion brands, exporters, and wholesalers. It offers modules for design, merchandising, order tracking, inventory, and dispatch."
+    },
+    {
+      "id": 3,
+      "question": "Can I customize the ERP according to my garment business needs?",
+      "answer": "Yes. The system is modular and fully customizable, allowing you to configure workflows, reports, size/color matrices, and production stages based on your operations."
+    }
+  ], 
+  "industry": "Garment",
+  "solution": "Integrated Garment Manufacturing System",
+  "modules": [
+    "Style Management",
+    "Production Control",
+    "Quality Assurance",
+    "Material Planning",
+    "Cost Management"
+  ],
+  "result": [
+    "40% improvement in production efficiency",
+    "35% reduction in material wastage",
+    "45% better quality compliance"
+  ],
+  "customers": "300+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Garment",
+    "buttonText": "Download Brochure"
+  }
+}

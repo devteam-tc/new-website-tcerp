@@ -1,0 +1,106 @@
+.contact-container {
+    display: flex;
+    flex-wrap: wrap;
+    background: #f4f6f8;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
+    margin: 2rem auto;
+    max-width: 1000px;
+  
+    .image-side {
+      flex: 1 1 40%;
+      min-height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+    }
+  
+    .form-side {
+      flex: 1 1 60%;
+      background: #fff;
+      padding: 2rem;
+  
+      h3 {
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+      }
+  
+      p {
+        color: #555;
+        margin-bottom: 1.5rem;
+      }
+  
+      form {
+        display: flex;
+        flex-direction: column;
+  
+        label {
+          display: flex;
+          flex-direction: column;
+          font-size: 0.95rem;
+          color: #333;
+          margin-bottom: 1rem;
+  
+          input,
+          textarea {
+            margin-top: 0.3rem;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 1rem;
+            transition: border 0.2s;
+  
+            &:focus {
+              outline: none;
+              border-color: #ff6a00;
+            }
+          }
+  
+          textarea {
+            resize: vertical;
+          }
+        }
+  
+        button {
+          background-color: var(--bs-primary-500);
+          color: #fff;
+          padding: 0.75rem;
+          border: none;
+          border-radius: 6px;
+          font-weight: 600;
+          cursor: pointer;
+          transition: background 0.3s;
+  
+          &:hover {
+            background-color: var(--bs-primary-600);
+          }
+        }
+      }
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .contact-container {
+      flex-direction: column;
+      
+      .image-side {
+        flex: 1 1 100%;
+        min-height: 300px;
+      }
+      
+      .form-side {
+        flex: 1 1 100%;
+      }
+    }
+  }
+  

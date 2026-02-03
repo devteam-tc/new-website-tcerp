@@ -1,0 +1,53 @@
+ {
+  "ahmedabad": {
+    "title": "Scalable ERP Software in Ahmedabad for Modern Enterprises",
+    "heading": "Best ERP Software in Ahmedabad",
+    "image": "/images/contact/ahmedabad.webp",
+    "description": "At Tech Cloud ERP, we deliver advanced cloud-based ERP solutions in Ahmedabad designed to accelerate business growth and operational excellence. Our ERP in Ahmedabad unifies all core functions from finance, sales, procurement, inventory, HR to production into a single, intelligent platform. With real-time analytics, automated workflows and seamless integrations, businesses gain full visibility, reduce redundancies and scale with confidence.",
+    "features": [
+      "Industry ERP Power",
+      "Smart Data Access",
+      "Automated Reports",
+      "Cloud Flexibility  ",
+      "Streamlined Growth"
+    ],
+    "items": [
+      {
+        "icon": "/images/location/Ahmedabad/SmartOperations.svg",
+        "alt": "Smart Operations Management",
+        "title": "Smart Operations Management",
+        "description": "Boost efficiency and reduce errors with ERP solutions that streamline everyday business activities."
+      },
+      {
+        "icon": "/images/location/Ahmedabad/IndustrySpecific.svg",
+        "alt": "Industry-Specific Functionality",
+        "title": "Industry-Specific Functionality",
+        "description": "Deploy modules designed to meet the unique requirements of your sector efficiently."
+      },
+      {
+        "icon": "/images/location/Ahmedabad/CloudOn-Site.svg",
+        "alt": "Cloud & On-Site",
+        "title": "Cloud & On-Site",
+        "description": "Choose ERP deployment that fits your infrastructure, providing secure access and scalability."
+      },
+      {
+        "icon": "/images/location/Ahmedabad/_x31_79.svg",
+        "alt": "Reporting & Analytics",
+        "title": "Reporting & Analytics",
+        "description": "Monitor KPIs and generate insights to make strategic, data-driven decisions."
+      },
+      {
+        "icon": "/images/location/Ahmedabad/IntegratedERP.svg",
+        "alt": "Integrated ERP Systems",
+        "title": "Integrated ERP Systems",
+        "description": "Ensure smooth integration with other tools to maintain uninterrupted business processes."
+      },
+      {
+        "icon": "/images/location/Ahmedabad/Group.svg",
+        "alt": "Tech Support",
+        "title": "Tech Support",
+        "description": "Get professional support to troubleshoot issues and optimize ERP usage."
+      }
+    ]
+  }
+}

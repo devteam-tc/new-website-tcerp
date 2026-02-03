@@ -1,0 +1,121 @@
+/*=============================
+	08. Who We are CSS Start
+===============================*/
+
+.who-we-are-section {
+  // background: #000;
+  border-radius: 0 0 30px 30px;
+  overflow: hidden;
+  // padding-bottom: 0;
+
+  .image-container {
+    // position: relative;
+    // width: 100%;
+    // min-height: 500px;
+    // border-radius: 30px 30px 0 0 ;
+    // overflow: hidden;
+
+    .main-image {
+      width: 100%;
+      height: 520px;
+      object-fit: cover;
+      display: block;
+      border-radius: 20px 20px 0 0;
+    }
+
+    .icon {
+      position: absolute;
+      width: 70px;
+      height: 70px;
+      background: #d32f2f;
+      border-radius: 50%;
+      border: 4px solid #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+      z-index: 2;
+      padding: 10px;
+      transition: transform 0.2s;
+
+      &:hover {
+        transform: scale(1.08);
+        box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+      }
+    }
+    .icon.main {
+      width: 110px;
+      height: 110px;
+      background: #d32f2f;
+      border: 6px solid #fff;
+      z-index: 3;
+      padding: 18px;
+    }
+  }
+
+  .who-we-are-description {
+    background: #F15A2B;
+    color: #fff;
+    padding: 32px 24px 28px 24px;
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+    margin-top: -25px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.08);
+
+    p {
+      margin-bottom: 18px;
+      color: #fff;
+      font-size: 20px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .who-we-are-section {
+    .image-container {
+      min-height: 220px;
+      .main-image {
+        height: 220px;
+      }
+      .icon {
+        width: 40px;
+        height: 40px;
+        padding: 4px;
+      }
+      .icon.main {
+        width: 60px;
+        height: 60px;
+        padding: 8px;
+      }
+    }
+    .who-we-are-description {
+      font-size: 15px;
+      padding: 18px 8px 14px 8px;
+    }
+  }
+}
+
+.who-we-are-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--bs-primary-500);
+  margin-top: 32px;
+  margin-bottom: 8px;
+  letter-spacing: -1px;
+}
+
+.who-we-are-subtitle {
+  font-size: 40px;
+  font-weight: 500;
+  // color: #666;
+  margin-bottom: 18px;
+  letter-spacing: 0.2px;
+  @media screen and (max-width:992px) {
+    font-size: 22px;
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "mainHeaderSection": {
+    "heading": "Finance & Accounting",
+    "maintitle": "Best Finance Software for Real-Time Financial Control",
+    "description": "Tech Cloud ERP’s Finance & Accounting Software helps you manage invoices, payments, budgets and reports from one simple dashboard. Get real-time insights, stay compliant and reduce errors with easy-to-use, automated tools."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "Payment and Transaction Management",
+      "featuredesc": " Record and manage all customer and supplier payments, credit notes, deposits and transfers with full transparency. Easily allocate payments to invoices, make journal entries, reconcile bank accounts and handle costs and revenue accruals all in one place.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/finance&accounting/module-1.webp",
+      "imageAlt": "Job work financial inquiry dashboard"
+    },
+    {
+      "featuretitle": "Inquiries and Financial Reporting",
+      "featuredesc": " Access all key reports such as trial balances, tax reports, profit & loss drilldowns and general ledger summaries. Use insights from bank transactions, supplier & customer payments and deposits to make smart, data-backed decisions.",
+     "featurelink": "Explore More",    
+       "dashboardImage": "/images/modules/finance&accounting/module-2.webp",
+      "imageAlt": "Finance dashboard reports tracking"
+    },
+    {
+      "featuretitle": "Account and Currency Master Setup",
+      "featuredesc": " Maintain and configure all financial master data including GL accounts, currencies, exchange rates, account classes, tags and revaluation rules. Easily manage your bank accounts, set up closing transactions and build a strong accounting foundation.",
+     "featurelink": "Explore More",    
+       "dashboardImage": "/images/modules/finance&accounting/module-3.webp",
+      "imageAlt": "Finance dashboard bank currency"
+    }
+  ],
+
+    "videosection": {
+      "title": "Make Every Transaction Count",
+      "description": "Stay on top of your finances with automated entries, ledgers and reports. Get real-time insight into your cash flow, tax liabilities and profit — without the manual effort.",
+      "thumbnail": "/images/modules/video-thumbnail.png",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "What is the Finance & Accounting module in ERP?",
+        "answer": " Finance & Accounting module records financial transactions, ledgers, accounts receivable/payable and generates financial statements."
+      },
+      {
+        "question": "Can I generate financial reports like profit and loss or balance sheets?",
+        "answer": "Yes. Tech Cloud ERP offers detailed financial reports including profit & loss, trial balance, balance sheet and general ledger to support informed decision-making."
+      },
+      {
+        "question": " Does the system support multiple currencies and bank accounts",
+        "answer": " Yes. You can manage transactions in different currencies and link multiple bank accounts for a smooth and flexible financial process."
+      },
+      {
+        "question": "Is tax calculation handled by the software?",
+        "answer": " Yes. The system automates tax calculations and helps generate tax reports, making it easier to stay compliant with local tax regulations."
+      }
+    
+    ]
+  }
+  }
+  

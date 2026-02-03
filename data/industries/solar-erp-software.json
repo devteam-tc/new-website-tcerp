@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/solar_banner_img.webp",
+  "altimg":"Building under construction with cranes",
+  "heading" :"Solar Electric Industry",
+  "title": "ERP Solar for Managing Solar Business Operations",
+  "description": "Solar ERP software is a specialised solution that allows solar industries to handle projects, inventories, finances, and compliance in a single system. It optimises processes, increases efficiency, and promotes business growth, making it suitable for solar EPCs, manufacturers, and distributors looking to scale and improve workflows.",
+  "keyPoints": [
+    " Project Planning & Cost Estimation",
+    "Installation Scheduling & Monitoring",
+    " Solar PV System Design Tools",
+    "Inventory & Procurement Management",
+    " Warranty & AMC Tracking"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/solar-project.png",
+      "title": "Project & Installation Management",
+      "description": "Handle solar installations efficiently with tools for planning, workforce management, and post-installation service.",
+      "list": [
+        "Site Surveys & Installation Workflow",
+        "Task Allocation & Field Staff Monitoring",
+        "Post-Installation Maintenance Logs"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/solar-monitoring.png",
+      "title": "CRM & Design Integration",
+      "description": "Close deals faster and deliver better solutions with solar-specific CRM and design capabilities.",
+      "list": [
+        "Lead Management & Quotation Builder",
+        "Integrated CRM for Solar Companies",
+        "Solar PV Design Software with Custom Configurations"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "Is solar ERP software suitable for small solar businesses?",
+      "answer": "Definitely. Many solar ERP providers offer scalable plans with modular features, making them affordable and practical for small to mid-sized solar companies and startups."
+    },
+    {
+      "id": 2,
+      "question": "Does the ERP support multi-location operations?",
+      "answer": "Yes. Solar ERP software can handle multi-location inventory, projects and teams, providing centralized control and visibility across all branches or project sites."
+    },
+    {
+      "id": 3,
+      "question": "Can solar ERP software handle inventory management?",
+      "answer": "Yes. Solar ERP software allows you to track components like panels, inverters and batteries, automate reordering and manage stock across warehouses and sites."
+    }
+  ],
+  "industry": "Solar Energy",
+  "solution": "Integrated Solar Management System",
+  "modules": [
+    "Project Planning",
+    "Installation Management",
+    "Performance Monitoring",
+    "Maintenance Control",
+    "Analytics Dashboard"
+  ],
+  "result": [
+    "40% faster project completion",
+    "35% improvement in system efficiency",
+    "45% reduction in maintenance costs"
+  ],
+  "customers": "200+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Solar Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

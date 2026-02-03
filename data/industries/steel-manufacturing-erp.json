@@ -1,0 +1,80 @@
+{
+  "banner": "/images/industries/steel_banner_img.webp",
+  "altimg":"Rolled steel coils in factory",
+  "heading" :"Steel Industry",
+  "title": "Best ERP Software Tailored for Steel Fabricators",
+  "description": "Steel manufacturing demands precise coordination from raw materials to finished products. An ERP system built for steel plants supports complex operations and strengthens production control. It offers real-time visibility into inventory and supply chain activities, leading to greater efficiency, reduced costs, and improved product quality.",
+  "keyPoints": [
+    "Production & Process Management",
+    "Inventory & Raw Material Control",
+    "Quality & Compliance Tracking",
+    "Sales, Dispatch & Distribution",
+    "Finance & Costing Automation"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/steel-production.png",
+      "title": "Production & Inventory Management",
+      "description": "Optimize every stage of production with a specialized ERP software for steel manufacturing",
+      "list": [
+        "Heat Number & Batch Tracking",
+        "Rolling, Casting, & Fabrication Planning",
+        "Raw Material & Scrap Management"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/steel-quality.png",
+      "title": "Finance & Quality Control",
+      "description": "Improve costing accuracy and meet quality standards with smart automation",
+      "list": [
+        "Job Costing & Profitability Analysis",
+        "Integrated Financial Reports",
+        "Quality Tests & Certification Tracking"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What key benefits does steel manufacturing ERP offer?",
+      "answer": "It enhances production planning, improves resource management, and ensures quality control throughout the manufacturing process—resulting in increased productivity and lower operational costs."
+    },
+    {
+      "id": 2,
+      "question": "How does the ERP support inventory and supply chain operations in steel plants?",
+      "answer": "The system tracks raw materials, work-in-progress, and finished goods in real time, helping you to maintain optimal stock levels and manage deliveries with greater accuracy."
+    },
+    {
+      "id": 3,
+      "question": "Is this ERP scalable for growing steel businesses?",
+      "answer": "Absolutely. The solution is modular and scalable—suitable for both mid-sized steel manufacturers and large integrated steel plants."
+    },
+    {
+      "id": 4,
+      "question": "Does it support multi-location operations and warehouses?",
+      "answer": "Yes. Our ERP for steel distributors and manufacturers enables centralized control with support for multiple branches, warehouses and user roles."
+    }
+  ],
+  "industry": "Steel",
+  "solution": "Integrated Steel Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Quality Management",
+    "Material Planning",
+    "Process Monitoring",
+    "Inventory Control"
+  ],
+  "result": [
+    "45% improvement in production efficiency",
+    "40% reduction in quality deviations",
+    "35% better inventory accuracy"
+  ],
+  "customers": "200+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": " ",
+    "spanTitle": "Steel Manufacturing",
+    "buttonText": "Download Brochure"
+  }
+}

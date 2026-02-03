@@ -1,0 +1,87 @@
+{
+  "mainHeaderSection": {
+    "heading": "Human Resource Management",
+    "maintitle": " HRMS Software That Connects HR & Payroll Tasks ",
+    "description": "Tech Cloud ERP's HRMS module streamlines and automates all your HR and payroll functions. Our HRMS module manages employee data, assists with tracking attendance and payroll processing, which increases accuracy and efficiency in your HR activities."
+  },
+  "featureSections": [
+    {
+      "featuretitle": "Centralized Employee Records & Attendance Tracking",
+      "featuredesc": " Keep employee information accurate and accessible by storing all records personal details, job roles and history in one centralized system. Monitor check-ins, check-outs, leaves and working hours with ease. Our system connects with biometric devices to deliver real-time attendance data, improving visibility and control over workforce productivity.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/hrms/module-1.webp",
+      "imageAlt": "HRMS dashboard employee attendance"
+    },
+    {
+      "featuretitle": "Effortless Payroll Management",
+      "featuredesc": " Streamline your payroll process from salary calculation to tax deductions and payslip production. With our system, you will be able to minimize manual administration and meet statutory obligations leaving you with a correct and timely payroll every month.",
+     "featurelink": "Explore More",     
+      "dashboardImage": "/images/modules/hrms/module-2.webp",
+      "imageAlt": "ERP payroll dashboard attendance reports"
+    },
+    {
+      "featuretitle": "Performance Tracking Made Simple",
+      "featuredesc": "Simple goal setting, reviews and templated structured feedback encourages progress from employees, celebrating success and encouraging development. Our performance tracking tools enable you to keep your team developing",
+     "featurelink": "Explore More",  
+         "dashboardImage": "/images/modules/hrms/module-3.webp",
+      "imageAlt": "HRM ERP holiday performance"
+    }
+  ],
+    "videosection": {
+      "title": "Empower your People Operations",
+      "description": "Manage employee records, attendance, payroll and more — all in one place. Whether it’s onboarding or performance reviews, HR gets easier and more organized.",
+      "thumbnail": "/images/modules/video-thumbnail.png",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": "Can I customize the HRMS to fit my company's needs?",
+        "answer": " Yes. Tech Cloud ERP's HRMS is flexible and can be customized to suit your specific business processes and policies."
+      },
+      {
+        "question": " Does the system support Jio tracking for field staff?",
+        "answer": "Yes. Tech Cloud ERP supports Jio tracking, allowing you to monitor the live location and activity of employees working in the field."
+      },
+      {
+        "question": "What is the HRMS module in ERP?",
+        "answer": "  HRMS (Human Resource Management System) handles employee records, payroll, attendance, leaves and appraisals."
+      },
+      {
+        "question": " Does the HRMS support multiple locations and departments?",
+        "answer": "  Yes. Tech Cloud ERP's HRMS can manage employee data across multiple branches or departments, ensuring consistent processes and reporting throughout the organization."
+      }
+    
+    ]
+  }
+  }
+  

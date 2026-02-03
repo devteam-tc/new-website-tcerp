@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/agriculture_banner_img.webp",
+  "altimg":"Farm field with crop software",
+  "title": "Farm ERP Software for Your Agriculture Business",
+  "heading":"Agriculture Industry",
+  "description": "Our farm management software makes everyday farm tasks much simpler. You can plan crops, monitor resources, manage stock and accounting—all from one easy-to-use dashboard. It keeps things organized and helps you to make smart decisions. Whether you're growing crops or raising livestock, it adapts how you work and gives you full control over your operation.",
+  "keyPoints": [
+    "Efficient crop planning, tracking, and yield forecasting",
+    "Centralized resource and labor management",
+    "Inventory and equipment tracking",
+    "Integrated farm accounting software for financial control",
+    "End-to-end visibility with real-time farm management system"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/Farm_Management.png",
+      "title": " Agriculture Management",
+      "description": "Comprehensive ERP for managing farming operations, inventory and workforce across locations.",
+      "list": [
+        "Multi-location Management",
+        "Farm Equipment Tracking",
+        "Inventory & Labour Management"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/Analytics_&_Reporting.png",
+      "title": " Smart Analytics & Monitoring",
+      "description": "Track every stage of the agricultural lifecycle with real-time reports and insights.",
+      "list": [
+        "Seasonal Yield Forecasting",
+        "Expense & Profitability Reports",
+        "Sensor-Based Monitoring"
+      ]
+    }
+  ],
+  "faqData": [
+    
+    {
+      "id": 1,
+      "question": "What does farm management software do?",
+      "answer": "Farm management software helps you take care of all your farm activities in one place. It allows you to plan your crops, track fieldwork, manage supplies and keep financial records, saving time and helping you to make better decisions every day."
+    },
+    {
+      "id": 2,
+      "question": "Is the ERP system suitable for different types of farming?",
+      "answer": "Yes, the ERP system is suitable for various types of farming, including horticulture, organic farming, dairy, and greenhouse production. It can be fully customized to fit your operational structure, with modules tailored to the specific crops or livestock you manage."
+    },
+    {
+      "id": 3,
+      "question": "Does the software support financial tracking and accounting for farms?",
+      "answer": "Absolutely. Tech Cloud ERP includes dedicated tools for farm accounting, enabling you to track expenses, record income, manage vendor payments and generate financial reports. It reduces paperwork and keeps your finances clear and up to date."
+    }
+  ],
+  "industry": "Agriculture",
+  "solution": "Integrated Farm Management System",
+  "modules": [
+    "Farm Operations",
+    "Inventory Management",
+    "Financial Management",
+    "Analytics & Reporting"
+  ],
+  "result": [
+    "30% increase in operational efficiency",
+    "25% reduction in resource waste",
+    "40% improvement in planning accuracy"
+  ],
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": "",
+    "spanTitle": "Agriculture Solutions Brochure",
+    "buttonText": "Download Brochure"
+
+  }
+} 

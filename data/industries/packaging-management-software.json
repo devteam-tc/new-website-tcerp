@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/packaging_banner_img.webp",
+  "altimg":"Automated packaging boxes on conveyor",
+  "heading" :"Packaging Industry",
+  "title": "Packaging ERP Solutions: Boosting Inventory Accuracy",
+  "description": "Running a metal fabrication business means handling custom jobs, changing schedules and tight delivery timelines. Our ERP system helps you bring everything together  from quotes to production to delivery  so you can work faster, reduce errors and stay in control.",
+  "keyPoints": [
+    "Packaging Design & Specification Management",
+    "Inventory & Supply Chain Optimization",
+    "Production Scheduling & Shop Floor Control",
+    "Quality & Compliance Management",
+    "Cost Tracking & Profitability Analysis"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/packaging-production.png",
+      "title": "Packaging Design Management",
+      "description": "Manage packaging specifications, materials and version histories with centralized control for faster approvals and consistent outputs.",
+      "list": [
+        "Centralized Packaging Data",
+        "Version Control & Change Tracking",
+        "Automated Approval Workflow"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/packaging-quality.png",
+      "title": "Quality & Compliance Management",
+      "description": "Ensure packaging quality meets industry standards with automated inspections and compliance tracking tools.",
+      "list": [
+        "Quality Control Automation",
+        "Regulatory Compliance (FDA, ISO etc.)",
+        "Real-Time Non-Conformance Alerts"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How can ERP help my metal fabrication business?",
+      "answer": "ERP brings all your key processes into one system. It helps manage quotes, inventory, production and delivery — making your work faster, more accurate and easier to track."
+    },
+    {
+      "id": 2,
+      "question": "Can ERP handle custom jobs and one-off orders?",
+      "answer": "Yes, a well-designed ERP system can handle custom BOMs, organize job-specific tasks, and schedule production efficiently—tailored to each unique order."
+    },
+    {
+      "id": 3,
+      "question": "Will ERP work with my CAD or CAM software?",
+      "answer": "Most modern ERP systems offer integrations with CAD/CAM tools. This helps your designs flow directly into production without manual work."
+    }
+  ],
+  "industry": "Packaging",
+  "solution": "Integrated Packaging Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Quality Management",
+    "Material Planning",
+    "Inventory Control",
+    "Sustainability Tracking"
+  ],
+  "result": [
+    "40% improvement in production efficiency",
+    "45% reduction in material waste",
+    "35% better quality compliance"
+  ],
+  "customers": "300+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Packaging",
+    "buttonText": "Download Brochure"
+  }
+}

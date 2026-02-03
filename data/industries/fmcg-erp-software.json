@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/fmcg_banner_img.webp",
+  "altimg":"food & beverage processing line",
+  "heading" :"FMCG Industry",
+  "title": "Manage Distribution with Our Powerful FMCG ERP Software",
+  "description": "In fast-moving consumer goods, staying precise and fast is essential. FMCG Billing Software brings together high-volume invoicing, dynamic pricing and up-to-the-minute inventory tracking on one efficient platform. Automated billing and live stock updates improve accuracy and help ensure timely order deliveries across your entire supply chain.",
+  "keyPoints": [
+    " Inventory & Order Management",
+    " Billing Software for FMCG Distributor",
+    "Real-Time Stock & Warehouse Control",
+    "Route Planning & Distribution",
+    " Batch & Expiry Tracking"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/fmcg-distribution.png",
+      "title": "Inventory & Distribution Management",
+      "description": "Ensure uninterrupted supply with powerful tools to track stock, monitor expiry, and optimize delivery channels.",
+      "list": [
+        " Stock Level Alerts & Auto Reordering",
+        "Multi-Location Warehouse Management",
+        "Expiry Date & Batch Tracking"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/fmcg-production.png",
+      "title": "Finance & Billing Automation",
+      "description": "Simplify transactions and accounting with intelligent billing software for FMCG distributor operations.",
+      "list": [
+        "Fast & Error-Free Invoicing",
+        "Integrated FMCG Accounting Software",
+        "GST-Ready Billing Reports"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "What challenges does FMCG Billing Software address for fast-moving businesses?",
+      "answer": "FMCG Billing Software handles billing operations, automates invoicing, reduces manual errors, manages pricing and discounts, tracks real-time inventory and accelerates order processing—ensuring smooth and accurate business operations"
+    },
+    {
+      "id": 2,
+      "question": "Can your software support billing for distributors?",
+      "answer": "Yes, our billing software for FMCG distributor offers fast invoicing, payment tracking and real-time stock updates for smooth operations."
+    },
+    {
+      "id": 3,
+      "question": "Does the system handle multi-location warehouses?",
+      "answer": "Absolutely. Our best software for FMCG distributor ensures centralized control over inventory across multiple warehouses with real-time visibility."
+    }
+  ],
+  "industry": "FMCG",
+  "solution": "Integrated FMCG Management System",
+  "modules": [
+    "Production Planning",
+    "Supply Chain Management",
+    "Distribution Control",
+    "Retail Integration",
+    "Demand Analytics"
+  ],
+  "result": [
+    "40% improvement in forecast accuracy",
+    "35% reduction in stockouts",
+    "45% faster time-to-market"
+  ],
+  "customers": "450+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "FMCG Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

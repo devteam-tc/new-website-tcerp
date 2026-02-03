@@ -1,0 +1,86 @@
+{
+  "mainHeaderSection": {
+    "heading": "Inventory Management",
+    "maintitle": "Best Inventory Management with Real-Time Accuracy",
+    "description": "Tech Cloud ERP’s Inventory Management System lets you control your stock with accuracy and efficiency from raw materials to finished goods. It offers real-time inventory tracking, automated stock updates, and smart alerts to avoid shortages or overstocking. With better visibility and control, you save costs, improve order fulfillment and keep operations running smoothly."
+  },
+  "featureSections": [
+    {
+      "featuretitle": " Goods Receipt & Material Issue Note",
+      "featuredesc": "Record incoming stock with ease using Goods Receipt, capturing quantities and supplier details automatically. When materials are needed for production or operations, use Material Issue Notes to deduct stock accurately. This ensures real-time updates and prevents stock mismatches across locations or departments.",
+      "featurelink": "Explore More",
+      "dashboardImage": "/images/modules/inventory/module-1.webp",
+      "imageAlt": "Inventory management goods receipt issue"
+    },
+    {
+      "featuretitle": "Stock Adjustment",
+      "featuredesc": "Maintain accurate inventory through periodic stock counts and adjustments. Whether it’s correcting discrepancies from physical audits or handling damaged goods, Tech Cloud ERP allows for real-time reconciliation of stock levels. Periodic verification and adjustment fosters optimized inventory management.",
+     "featurelink": "Explore More",   
+        "dashboardImage": "/images/modules/inventory/module-2.webp",
+      "imageAlt": "ERP inventory control stock adjustments"
+    },
+    {
+      "featuretitle": "Material Master Management",
+      "featuredesc": "Manage all essential item data centrally  including specifications, pricing, reorder levels and categorization. With Tech Cloud ERP, Material Master Management simplifies procurement and tracking by providing a single source of truth for every material in your inventory system.",
+     "featurelink": "Explore More",    
+       "dashboardImage": "/images/modules/inventory/module-3.webp",
+      "imageAlt": "ERP inventory control material master"
+    }
+  ],
+    "videosection": {
+      "title": "Real-Time Inventory Visibility",
+      "description": "Stay in control of your stock without the guesswork. Track what’s coming in, what’s going out and where it’s stored — all in real time. Whether you're managing one warehouse or many, you’ll always know what’s available and what needs attention.",
+      "videoUrl": "https://res.cloudinary.com/techclouderp/video/upload/v1749719811/crm-module_htem2g.webm",
+      "module": "customer-relationship-management"
+    },
+    "cards": {
+    "headline": "Powerful CRM Features for Modern Business Needs",
+    "buttonText": "Explore Features",
+    "cards": [
+      {
+        "icon": "Layers",
+        "title": "Contact Management",
+        "description": "Centralize all customer information in one place with our comprehensive contact management system. Track interactions, manage relationships, and stay organized."
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Data Storage",
+        "description": "Keep your customer data safe with enterprise-grade security features. Our platform ensures data protection and compliance with industry standards."
+      },
+      {
+        "icon": "Link",
+        "title": "Integration Capabilities",
+        "description": "Seamlessly connect with your existing tools and platforms. Our CRM integrates with popular business applications for a unified experience."
+      },
+      {
+        "icon": "Database",
+        "title": "Advanced Analytics",
+        "description": "Gain valuable insights with powerful analytics tools. Track performance, monitor trends, and make data-driven decisions to grow your business."
+      }
+    ]
+  },
+  "faqs": {
+    "subTitle": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About Our CRM Solution",
+    "items": [
+      {
+        "question": " How does inventory management software help a business?",
+        "answer": " It helps track stock levels, manage product movement and reduce overstock or shortages. You can keep operations efficient and make faster, better decisions."
+      },
+      {
+        "question": "What is the Inventory module in ERP?",
+        "answer": " The Inventory module manages stock levels, product movement, batch control and warehouse operations."
+      },
+      {
+        "question": " Can I manage stock across different locations?",
+        "answer": " Yes, you can handle inventory across multiple warehouses and stores in one system, with real-time visibility into stock movement and availability."
+      },
+      {
+        "question": "Is the inventory system flexible to fit different business needs?",
+        "answer": " The system can be adjusted to match your workflows, product types and reporting needs so you get the control and visibility your business requires."
+      }
+    
+    ]
+  }
+  }
+  

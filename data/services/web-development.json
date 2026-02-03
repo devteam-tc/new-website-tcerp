@@ -1,0 +1,124 @@
+{
+    "services": [
+      {
+        "title": "Planning & Research",
+        "img": "/images/servicescards/Planning&Research.png",
+        "hoverImg": "/images/servicescards/white/Planning&Research-white.png",
+        "link": "/services/web-development",
+        "description": "We start by understanding your business needs, target audience and goals. This helps us define the site structure, technology and user experience strategy.",
+        "icon": "/images/services/ser-icon.png",
+        "thumb": "/images/services/ser-thumb.webp"
+      },
+      {
+        "title": "Design & Prototyping",
+        "img": "/images/servicescards/Design&Prototyping.png",
+        "hoverImg": "/images/servicescards/white/Design&Prototyping-white.png",
+        "link": "/services/ecommerce-development",
+        "description": "Our creative team crafts wireframes and visual designs focused on usability and brand identity. You'll get a clear view of how your site will look and function.",
+        "icon": "/images/services/ecom-icon.png",
+        "thumb": "/images/services/ecom-thumb.webp"
+      },
+      {
+        "title": "Development & Integration",
+        "img": "/images/servicescards/Development&Integration.png",
+        "hoverImg": "/images/servicescards/white/Development&Integration1-white.png",
+        "link": "/services/progressive-web-apps",
+        "description": "We transform designs into a fully functional website using modern, scalable code. We ensure mobile responsive and seamless integration with tools or APIs.",
+        "icon": "/images/services/pwa-icon.png",
+        "thumb": "/images/services/pwa-thumb.webp"
+      },
+      {
+        "title": "Testing, Launch & Support",
+        "img": "/images/servicescards/LaunchSupport.png",
+        "hoverImg": "/images/servicescards/white/LaunchSupport-white.png",
+        "link": "/services/cms-development",
+        "description": "Before going live, we test across devices, fix bugs and optimize performance. After launch, we offer ongoing support and maintenance to keep your site running smoothly.",
+        "icon": "/images/services/cms-icon.png",
+        "thumb": "/images/services/cms-thumb.webp"
+      },
+      {
+        "title": "Cloud Hub",
+        "img": "/images/servicescards/CMSDevelopment.png",
+        "hoverImg": "/images/servicescards/white/CMSDevelopment-white.png",
+        "link": "/services/api-development",
+        "description": "Custom Cloud Hub development to manage your website content easily with full control, flexibility and scalability.",
+        "icon": "/images/services/api-icon.png",
+        "thumb": "/images/services/api-thumb.webp"
+      },
+      {
+        "title": "API Development",
+        "img": "/images/servicescards/APIDevelopment.png",
+        "hoverImg": "/images/servicescards/white/APIDevelopment-white.png",
+        "link": "/services/web-security",
+        "description": "Robust and scalable API solutions for seamless system integration.",
+        "icon": "/images/services/security-icon.png",
+        "thumb": "/images/services/security-thumb.webp"
+      },
+      {
+        "title": "Cloud Integration",
+        "img": "/images/servicescards/CloudIntegration.png",
+        "hoverImg": "/images/servicescards/white/CloudIntegration-white.png",
+        "link": "/services/frontend-development",
+        "description": "Smooth cloud integration to connect systems, improve efficiency and access real-time data anytime, anywhere.",
+        "icon": "/images/services/frontend-icon.png",
+        "thumb": "/images/services/frontend-thumb.webp"
+      },
+      {
+        "title": "Web Analytics Integration",
+        "img": "/images/servicescards/WebAnalytics.png",
+        "hoverImg": "/images/servicescards/white/WebAnalytics-white.png",
+        "link": "/services/backend-development",
+        "description": "Implementation of tracking and analytics tools for data-driven insights.",
+        "icon": "/images/services/backend-icon.png",
+        "thumb": "/images/services/backend-thumb.webp"
+      }
+      
+    ],
+    "about": {
+      "heading": "Best Web Development Services for your Business Growth",
+      "paragraph": "At Tech Cloud ERP, we bring your vision to life with thoughtful web development built for real impact. We begin with a clear understanding of your audience and goals, then architect both stunning user interfaces and resilient backend systems to deliver a seamless experience. Our team handles everything—from responsive design and clean UI/UX to performance optimization and ongoing technical support—so your site stays fast, secure, and ready to scale.",
+      "features": [
+        "Goal-Focused Design",
+        "Smooth Development & Support"
+      ],
+      "imageMain": "/images/servicescards/web-development.webp",
+      "imageMainAlt": "Web development with React Nextjs"
+    },
+    "faq": [
+      {
+        "question": "What is web development?",
+        "answer": "Web development refers to the process of building and maintaining websites. It includes everything from creating simple static pages to complex web applications."
+      },
+      {
+        "question": "Will my website be mobile-friendly?",
+        "answer": "Yes. All websites we develop are fully responsive and optimized for mobile, tablet and desktop devices."
+      },
+      {
+        "question": "What technologies do you use for web development?",
+        "answer": "We work with a range of technologies, including HTML, CSS, JavaScript, Wordpress, React, Nextjs, PHP and more—based on your project's needs."
+      },
+      {
+        "question": "What security measures do you implement in web development?",
+        "answer": "We implement comprehensive security measures including SSL/TLS encryption, input validation, XSS protection, CSRF tokens, secure authentication, regular security audits and following OWASP security guidelines to protect your website from vulnerabilities."
+      }
+     
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Share your Requirements",
+        "description": "Tell us what you need  from features to design preferences. We’ll plan the perfect structure for your site."
+      },
+      {
+        "step": 2,
+        "title": "Design & Develop",
+        "description": "We create responsive, user-friendly designs and develop them using modern web technologies for a seamless experience."
+      },
+      {
+        "step": 3,
+        "title": "Launch & Maintain",
+        "description": "After testing and approval, we launch your site and provide ongoing support, updates and optimizations."
+      }
+     
+    ]
+  } 

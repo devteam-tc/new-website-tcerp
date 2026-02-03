@@ -1,0 +1,103 @@
+.howItWorks {
+    padding: 100px 20px;
+    background-color: var(--bs-secondary-50);;
+  
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+  
+      @media (max-width: 992px) {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  
+    .left {
+      flex: 1;
+      max-width: 25%;
+      h2 {
+        font-size: 40px;
+        color: #0f172a;
+        font-weight: 800;
+        line-height: 1.2;
+      }
+  
+      p {
+        margin-top: 20px;
+        color: #334155;
+        font-size: 16px;
+      }
+  
+      @media (max-width: 992px) {
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 40px;
+      }
+    }
+  
+    .right {
+      flex: 3;
+      display: flex;
+      gap: 30px;
+  
+      @media (max-width: 992px) {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  
+    .stepCard {
+      background: #fff;
+      box-shadow: 0 10px 20px rgba(173, 216, 230, 0.5), 0 6px 6px rgba(173, 216, 230, 0.7);
+      border-radius: 10px;
+      padding: 40px;
+      text-align: center;
+      flex: 1;
+      max-width: 300px;
+      @media (max-width: 992px) {
+        max-width: max-content;
+      }
+      .iconWrapper {
+        // background: #e2e8f0;
+        border-radius: 50%;
+        width: 72px;
+        height: 72px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 20px;
+      }
+  
+      h3 {
+        color: #0f172a;
+        // font-weight: 700;
+        font-size: 28px;
+        line-height: 30px;
+        margin-bottom: 10px;
+        margin-top: 20px !important;
+      }
+  
+      p {
+        color: #334155;
+        font-size: 14px;
+      }
+  
+      .underline {
+        margin-top: 20px;
+        height: 2px;
+        background: #e2e8f0;
+        width: 100%;
+      }
+    }
+  }
+  .textheading{
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 64px;
+    color: var(--bs-black-color);
+  }
+  

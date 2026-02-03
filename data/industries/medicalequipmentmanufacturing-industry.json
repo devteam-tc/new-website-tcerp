@@ -1,0 +1,77 @@
+{
+  "banner": "/images/industries/medical_equipment_banner_img.webp",
+  "altimg":"Robotic medical ERP equipment lab",
+  "heading" :"Medical Equipment Manufacturing",
+  "title": "All-in-One Wholesale ERP for Seamless Distribution Management",
+  "description": "Discover a specialized ERP solution designed for medical device manufacturers. This system centralizes order management, production, quality and compliance, helping you bring products to market faster while meeting regulatory and traceability standards. With real-time insights into inventory, costs and operations, you can make smarter decisions. Additionally, streamline workflows across finance, engineering, manufacturing and service to consistently deliver safe, high-quality devices and stay competitive.",
+  "keyPoints": [
+    "BOM & Engineering Change Management",
+    " FDA, ISO & GMP Regulatory Compliance",
+    "Product Serialization & Lot Tracking",
+    "Document Control & Audit Trail",
+    "CAPA & Non-Conformance Management"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/medical-production.png",
+      "title": "ERP for Medical Devices",
+      "description": "We provides a powerful ERP solution tailored for medical device makers, streamlining compliance-heavy production and accelerating time-to-market.",
+      "list": [
+        " From Design to Production",
+        " UDI Tracking & Traceability",
+        " Real-Time Compliance Reports",
+        "Supplier Risk & Qualification"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/medical-quality.png",
+      "title": "End-to-End Healthcare ERP",
+      "description": "Our ERP offers full lifecycle visibility from sourcing to service supporting quality and operational excellence in medical manufacturing.",
+      "list": [
+        "Inventory & Procurement Control",
+        " QA & Testing Modules",
+        "Equipment Maintenance",
+        "Multi-Site, Multi-Currency, GST-Ready"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does ERP software help medical equipment manufacturers?",
+      "answer": "ERP software brings all key tasks like handling orders, making products and managing all into      one system. It helps track every item properly and makes it easier for teams to work together. This means daily work gets done faster and medical devices are delivered the right way."
+    },
+    {
+      "id": 2,
+      "question": "What are the main advantages of using ERP for medical device production?",
+      "answer": "Using an ERP system helps medical device companies respond faster, reduce errors and ensure accurate deliveries. It gathers information for improved planning and quick problem-solving. This ensures strong compliance with industry regulations and offers more dependable service."
+    },
+    {
+      "id": 3,
+      "question": "How does the ERP help with FDA compliance?",
+      "answer": "The system supports full audit trails, e-signatures, validation protocols and traceability features required for FDA and other global regulations."
+    }
+  ],
+  "industry": "Medical Equipment Manufacturing",
+  "solution": "Integrated Medical Device Manufacturing System",
+  "modules": [
+    "Production Control",
+    "Quality Management",
+    "Compliance Tracking",
+    "Document Control",
+    "Device History Records"
+  ],
+  "result": [
+    "45% faster validation process",
+    "40% reduction in compliance costs",
+    "35% improvement in quality metrics"
+  ],
+  "customers": "200+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+   "title": " ",
+    "spanTitle": "Medical Equipment",
+    "buttonText": "Download Brochure"
+  }
+}

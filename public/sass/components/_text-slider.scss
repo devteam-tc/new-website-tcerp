@@ -1,0 +1,66 @@
+/*=============================
+	16. Text Slider CSS Start
+===============================*/
+.ep-text-slider-section {
+	.slider-main {
+		border-top: 2px solid var(--bs-primary-color);
+		border-bottom: 2px solid var(--bs-primary-color);
+		padding: 30px 0;
+	}
+
+	.slider-main {
+		gap: 40px;
+
+		.slider-item {
+			white-space: nowrap;
+			animation: scroll2 18s linear infinite;
+			gap: 42px;
+
+			.title {
+				color: var(--bs-black-color);
+				font-size: 60px;
+				font-weight: 300;
+				line-height: 68px;
+				letter-spacing: -1.48px;
+
+				img {
+					margin-right: 22px;
+				}
+
+				&:nth-child(even) {
+					opacity: 0.7;
+				}
+			}
+		}
+
+		&:hover {
+			.slider-item {
+				animation-play-state: paused;
+			}
+		}
+	}
+}
+
+@keyframes scroll2 {
+	0% {
+		transform: translateX(0)
+	}
+
+	to {
+		transform: translateX(calc(-100% - 2.6rem))
+	}
+}
+
+@media (max-width: 767.98px) {
+	.ep-text-slider-section .slider-main .slider-item .title {
+		font-size: 42px;
+	}
+
+	.ep-text-slider-section .slider-main .slider-item .title img {
+		width: 46px;
+	}
+
+	.ep-text-slider-section .slider-main {
+		padding: 16px 0;
+	}
+}

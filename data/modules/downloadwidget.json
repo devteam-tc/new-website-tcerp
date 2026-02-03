@@ -1,0 +1,17 @@
+{
+    "title": "The All-in-One Platform for Modern Enterprises",
+    "subtitle": "Management",
+    "features": [
+      "Understand how Tech Cloud ERP transforms every core business function.",
+      "Explore solutions for CRM, POS, Trading, HRMS, Finance, and more.",
+      "Learn how integration boosts efficiency, accuracy, and growth across departments."
+    ],
+    "buttonText": "Download E-book",
+    "image": {
+      "src": "/images/resource/Brochure.webp",
+      "alt": "E-book cover",
+      "width": 300,
+      "height": 400
+    },
+    "backgroundImage": "/images/shape/shape-24.png"
+  } 

@@ -1,0 +1,75 @@
+{
+  "banner": "/images/industries/telecom_banner_img.webp",
+  "altimg":"Telecom ERP towers network operations",
+  "heading" :"Telecom Industry",
+  "title": "ERP for Telecom Industry Software for Operators",
+  "description": "Managing a telecom business in today’s digital world comes with complex challenges and rising customer expectations. A dedicated ERP solution helps bring everything together — billing, operations and customer care in one easy-to-manage system. It gives you better control, real-time visibility and the flexibility to adapt and grow without hassle.",
+  "keyPoints": [
+    "Subscriber & Service Lifecycle Management",
+    "Inventory, Asset & Network Tracking",
+    "Finance & Billing Automation",
+    "Customer Service & CRM Integration",
+    "Regulatory Compliance & Reporting"
+  ],
+  "infoCards": [
+    {
+      "image": "/images/industry-icons/telecom-operations.png",
+      "title": "Network & Asset Management",
+      "description": "Track telecom assets, optimize usage and ensure uptime",
+      "list": [
+        "Infrastructure Monitoring & Service Alerts",
+        "Inventory Tracking of SIMs, Devices & Equipment",
+        "Preventive Maintenance Schedules"
+      ]
+    },
+    {
+      "image": "/images/industry-icons/telecom-customer.png",
+      "title": "Telecom Billing System & Finance",
+      "description": "Automate complex billing processes with accurate reporting",
+      "list": [
+        "Prepaid & Postpaid Billing",
+        "Usage-Based Invoicing & Tariff Management",
+        "GST, Taxation & Financial Compliance"
+      ]
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "How does ERP help improve customer service in telecom?",
+      "answer": "ERP solutions provide a centralized view of customer data, tickets and service history. This helps support teams to respond faster, resolve issues efficiently and maintain stronger relationships with customers."
+    },
+    {
+      "id": 2,
+      "question": "Can an ERP handle telecom-specific billing and subscriptions?",
+      "answer": "Yes. Modern ERP systems are designed to manage multiple billing models including prepaid, postpaid and hybrid plans. They offer precise control over rates, discounts and invoicing, ensuring accurate revenue tracking."
+    },
+    {
+      "id": 3,
+      "question": "Is it possible to integrate existing telecom tools with an ERP system?",
+      "answer": "Most telecom-focused ERP offer integration capabilities through APIs and connectors. This allows easy communication between your existing CRM, OSS/BSS systems and financial tools without disrupting operations."
+    }
+  ],
+  "industry": "Telecommunications",
+  "solution": "Integrated Telecom Management System",
+  "modules": [
+    "Network Operations",
+    "Service Management",
+    "Customer Relations",
+    "Billing Control",
+    "Compliance Tracking"
+  ],
+  "result": [
+    "45% improvement in service delivery",
+    "40% reduction in customer complaints",
+    "35% better revenue assurance"
+  ],
+  "customers": "150+",
+  "downloadWidget": {
+    "bgShape": "/images/shapes/widget-bg.png",
+    "image": "/images/industry-icons/book-3.webp",
+    "title": " ",
+    "spanTitle": "Telecom Solutions Guide",
+    "buttonText": "Download Brochure"
+  }
+}

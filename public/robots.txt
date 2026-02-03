@@ -1,0 +1,62 @@
+User-agent: *
+Sitemap: https://techclouderp.com/sitemap.xml
+
+# Allow all core site pages
+Allow: /
+
+# Disallow backend or admin paths (if any exist)
+Disallow: /admin/
+Disallow: /login/
+Disallow: /dashboard/
+Disallow: /user/
+Disallow: /account/
+Disallow: /cgi-bin/
+
+
+# Allow all search engines & crawlers
+User-agent: Googlebot
+Allow: /
+
+# Microsoft Bing & Copilot
+User-agent: Bingbot
+Allow: /
+
+# OpenAI (ChatGPT & GPTBot)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic Claude AI
+User-agent: ClaudeBot
+Allow: /
+
+# DeepSeek AI
+User-agent: DeepSeekBot
+Allow: /
+
+# -----------------------------------------
+# Industry pages should be indexed
+# (important for SEO – *do NOT Disallow*)
+User-agent: *
+Allow: /industries/
+
+# Modules pages should be indexed
+User-agent: *
+Allow: /modules/
+
+# Features & other content pages
+User-agent: *
+Allow: /features/
+Allow: /contact-us/
+Allow: /pricing/
+Allow: /demo/
+Allow: /about/
