@@ -3,7 +3,7 @@
     "staging": "tcerp-newversion",
     "default": "mytcerp",
     "web": "web-tcerp",
-    "n": "mytcerp"
+    "n": "tcerp-website-63875"
   },
   "targets": {},
   "etags": {}
