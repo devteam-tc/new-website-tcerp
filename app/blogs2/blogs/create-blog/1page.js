@@ -68,16 +68,15 @@ export default function CreateBlog() {
     <div>
       <Headers />
       <PageHeader />
-      <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 1rem' }}>
+      <div style={{ maxWidth: '4xl', margin: '0 auto', padding: '0 1rem' }}>
         <Link
           href="/blogs2/blogs/blog-list"
           style={{
             display: 'inline-flex',
             alignItems: 'center',
-            color: '#ff6b00',
+            color: '#2563eb',
             textDecoration: 'none',
-            marginBottom: '2rem',
-            fontWeight: '600'
+            marginBottom: '2rem'
           }}
         >
           ← Back to Blogs
@@ -85,23 +84,23 @@ export default function CreateBlog() {
 
         <div style={{ backgroundColor: 'white', borderRadius: '1rem', boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.1)', overflow: 'hidden' }}>
           {/* Header */}
-          <div style={{ backgroundColor: 'linear-gradient(135deg, #ff6b00 0%, #ff8c42 100%)', padding: '3rem 2rem', textAlign: 'center' }}>
-            <h1 style={{ fontSize: '2.5rem', fontWeight: 'bold', color: 'white', marginBottom: '0.5rem' }}>
+          <div style={{ backgroundColor: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', padding: '2rem', textAlign: 'center' }}>
+            <h1 style={{ fontSize: '2rem', fontWeight: 'bold', color: 'white', marginBottom: '0.5rem' }}>
               Create New Blog Post
             </h1>
-            <p style={{ color: 'rgba(255, 255, 255, 0.9)', fontSize: '1.1rem' }}>
+            <p style={{ color: 'rgba(255, 255, 255, 0.9)', fontSize: '1rem' }}>
               Share your insights with the world
             </p>
           </div>
 
           {/* Form Container */}
-          <div style={{ padding: '3rem 2rem' }}>
-            <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '2.5rem' }}>
+          <div style={{ padding: '2rem' }}>
+            <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
               
               {/* Basic Information Section */}
-              <div style={{ backgroundColor: '#f8fafc', borderRadius: '1rem', padding: '2rem', border: '1px solid #e2e8f0', boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)' }}>
-                <h2 style={{ fontSize: '1.5rem', fontWeight: '700', color: '#1e293b', marginBottom: '2rem', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                  <span style={{ width: '12px', height: '12px', backgroundColor: '#ff6b00', borderRadius: '50%' }}></span>
+              <div style={{ backgroundColor: '#f8fafc', borderRadius: '0.75rem', padding: '1.5rem', border: '1px solid #e2e8f0' }}>
+                <h2 style={{ fontSize: '1.25rem', fontWeight: '600', color: '#1e293b', marginBottom: '1.5rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                  <span style={{ width: '8px', height: '8px', backgroundColor: '#3b82f6', borderRadius: '50%' }}></span>
                   Basic Information
                 </h2>
                 

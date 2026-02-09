@@ -1,7 +1,7 @@
 {
   "projects": {
     "staging": "tcerp-newversion",
-    "default": "mytcerp",
+    "default": "tcerp-website-63875",
     "web": "web-tcerp",
     "n": "tcerp-website-63875"
   },

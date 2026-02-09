@@ -1,11 +1,11 @@
 {
   "name": "tcerp-newversion",
   "version": "1.0.0",
-  "description": "Tech Cloud ERP New Version", 
+  "description": "Tech Cloud ERP New Version",
   "license": "ISC",
   "author": "Tech Cloud ERP DevTeam",
-   "scripts": {
-    "dev": "next dev",
+  "scripts": {
+    "dev": "next dev --webpack",
     "build": "next build",
     "export": "next build",
     "start": "next start",
@@ -28,7 +28,7 @@
     "formik": "^2.4.6",
     "gsap": "^3.12.7",
     "lucide-react": "^0.511.0",
-    "next": "^14.2.35",
+    "next": "^16.1.6",
     "prop-types": "^15.8.1",
     "protobufjs": "^7.2.4",
     "react": "18.2.0",
