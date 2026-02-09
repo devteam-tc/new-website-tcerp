@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { collection, getDocs, deleteDoc, doc } from "firebase/firestore";
-import { db } from "../../../firebase12";
+import { blogDb } from "../../../../firebaseConfig";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import Header from "../../../../components/layout/header/Header";
@@ -30,7 +30,7 @@ export default function BlogList() {
     
     const fetchBlogs = async () => {
       try {
-        const querySnapshot = await getDocs(collection(db, "blog"));
+        const querySnapshot = await getDocs(collection(blogDb, "blog"));
         if (isMounted) {
           const data = querySnapshot.docs.map((doc) => ({
             id: doc.id,
@@ -62,7 +62,7 @@ export default function BlogList() {
 
   const handleDelete = async (blogId) => {
     try {
-      await deleteDoc(doc(db, "blog", blogId));
+      await deleteDoc(doc(blogDb, "blog", blogId));
       setBlogs(blogs.filter(blog => blog.id !== blogId));
       setDeleteConfirm(null);
     } catch (error) {

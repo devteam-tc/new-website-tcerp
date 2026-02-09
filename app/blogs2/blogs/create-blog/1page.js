@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { collection, addDoc, serverTimestamp } from "firebase/firestore";
-import { db } from "../../../firebase12";
+import { blogDb } from "../../../../firebaseConfig";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import Headers from "../../../../components/layout/header/Header";
@@ -55,7 +55,7 @@ export default function CreateBlog() {
         createdAt: serverTimestamp(),
       };
 
-      await addDoc(collection(db, "blog"), blogData);
+      await addDoc(collection(blogDb, "blog"), blogData);
 
       router.push("/blogs2/blogs/blog-list");
     } catch (error) {

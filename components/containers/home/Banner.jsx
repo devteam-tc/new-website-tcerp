@@ -14,12 +14,13 @@ const Banner = () => (
   fill
   priority
   fetchPriority="high"
-  quality={85}
+  quality={75}
   sizes="100vw"
   style={{
     objectFit: 'cover',
     zIndex: -1,
     
+
   }}
 /></div>
 <div className="banner-circle-overlay">
@@ -29,7 +30,7 @@ const Banner = () => (
   width={2500}
   height={2500}
   priority
-  quality={90}
+  quality={75}
   sizes="(max-width: 768px) 100vw, 100vw"
   style={{
     position: 'absolute',

@@ -34,7 +34,7 @@
 //   const fetchBlogs = async () => {
 //     try {
 //       console.log("Fetching blogs from Firebase...");
-//       const querySnapshot = await getDocs(collection(db, "blog"));
+//       const querySnapshot = await getDocs(collection(blogDb, "blog"));
       
 //       if (isMounted) {
 //         const data = querySnapshot.docs.map((doc) => ({
@@ -195,7 +195,7 @@
 
 import { useEffect, useState } from "react";
 import { collection, getDocs } from "firebase/firestore";
-import { db } from "../firebase12";
+import { blogDb } from "../../firebaseConfig";
 import Link from "next/link";
 import Headers from "../../components/layout/header/Header";
 import PageHeader from "../../components/layout/PageHeader";
@@ -227,7 +227,7 @@ export default function Home() {
   useEffect(() => {
     const fetchBlogs = async () => {
       try {
-        const querySnapshot = await getDocs(collection(db, "blog"));
+        const querySnapshot = await getDocs(collection(blogDb, "blog"));
         const data = querySnapshot.docs.map((doc) => ({
           id: doc.id,
           ...doc.data(),

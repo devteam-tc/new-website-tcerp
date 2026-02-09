@@ -2,7 +2,7 @@
 
 import { useState, useEffect, Suspense } from "react";
 import { doc, getDoc, updateDoc } from "firebase/firestore";
-import { db } from "../../../firebase12";
+import { blogDb } from "../../../../firebaseConfig";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import Header from "../../../../components/layout/header/Header";
@@ -49,7 +49,7 @@ function EditBlogContent() {
       }
 
       try {
-        const docRef = doc(db, "blog", blogId);
+        const docRef = doc(blogDb, "blog", blogId);
         const docSnap = await getDoc(docRef);
 
         if (docSnap.exists()) {
@@ -97,7 +97,7 @@ function EditBlogContent() {
     setError(null);
 
     try {
-      const blogRef = doc(db, "blog", blogId);
+      const blogRef = doc(blogDb, "blog", blogId);
       await updateDoc(blogRef, {
         title,
         content,

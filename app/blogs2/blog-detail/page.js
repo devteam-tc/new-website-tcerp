@@ -3,7 +3,8 @@
 import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { collection, getDocs, query, where, doc, getDoc } from 'firebase/firestore';
-import { db } from '../../firebase12';
+// import { db } from '../../firebase12';
+import { blogDb } from '../../../firebaseConfig';
 import Headers from "../../../components/layout/header/Header";
 import PageHeader from "../../../components/layout/PageHeader";
 import Footer from "../../../components/layout/footer/Footer";
@@ -57,7 +58,8 @@ function BlogDetailContent() {
       try {
         // Try by slug first
         const blogQuery = query(
-          collection(db, "blog"),
+          // collection(db, "blog"),
+          collection(blogDb, "blog"),
           where("slug", "==", slug)
         );
         const querySnapshot = await getDocs(blogQuery);
@@ -78,7 +80,8 @@ function BlogDetailContent() {
           setRelatedBlogs(allBlogs);
         } else {
           // Try by document ID
-          const docRef = doc(db, "blog", slug);
+          // const docRef = doc(db, "blog", slug);
+          const docRef = doc(blogDb, "blog", slug); 
           const docSnap = await getDoc(docRef);
           
           if (docSnap.exists()) {
